@@ -362,6 +362,5 @@ main {
 }
 
 .custom-description {
-	position: absolute;
-	
+	font-weight: 100;
 }
