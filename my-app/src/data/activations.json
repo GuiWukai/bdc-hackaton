@@ -1,0 +1,5694 @@
+[
+  {
+    "_id": "561437f9c5f7d6f5cb152a3d",
+    "code": "CYP2C9-UM and VKORC1-PA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7c",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a3e",
+    "code": "CYP2C9-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79"
+    ],
+    "__v": 1,
+    "formula": "",
+    "texte": "",
+    "count": 578
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a3f",
+    "code": "CYP2C9-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b"
+    ],
+    "__v": 0,
+    "count": 261
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a40",
+    "code": "CYP2C9-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83"
+    ],
+    "__v": 0,
+    "count": 37
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a41",
+    "code": "CYP2D6-EM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "Métabolisateur Extensif",
+    "count": 212
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a42",
+    "code": "CYP2D6-EM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "Métaboliseur Intermédiaire",
+    "count": 131
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a43",
+    "code": "CYP2D6-EM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 15
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a44",
+    "code": "CYP2D6-EM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 37
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a45",
+    "code": "CYP2D6-IM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 120
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a46",
+    "code": "CYP2D6-IM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 80
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a47",
+    "code": "CYP2D6-IM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a48",
+    "code": "CYP2D6-IM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 15
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a49",
+    "code": "CYP2D6-PM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 23
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a4a",
+    "code": "CYP2D6-PM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 14
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a4b",
+    "code": "CYP2D6-PM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 3
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a4c",
+    "code": "CYP2D6-PM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a4d",
+    "code": "CYP2D6-UM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a4e",
+    "code": "CYP2C9-UM and VKORC1-UA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7c",
+      "54d2d38b0da76e584a057eaa"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": ""
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a4f",
+    "code": "CYP2C9-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7c"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a50",
+    "code": "TPMT-EA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e99"
+    ],
+    "__v": 0,
+    "count": 255
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a51",
+    "code": "TPMT-IA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e9a"
+    ],
+    "__v": 0,
+    "count": 25
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a52",
+    "code": "CYP2D6-UM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 5
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a53",
+    "code": "CYP2D6-UM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": ""
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a54",
+    "code": "CYP2D6-UM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 0
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a55",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a56",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a57",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a58",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a59",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a5a",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a5b",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a5c",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a5d",
+    "code": "TPMT-PA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e9e"
+    ],
+    "__v": 0,
+    "count": 16
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a5e",
+    "code": "TPMT-IA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e9a"
+    ],
+    "__v": 0,
+    "count": 25
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a5f",
+    "code": "TPMT-EA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e99"
+    ],
+    "__v": 0,
+    "count": 255
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a60",
+    "code": "CYP2D6-EM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 212
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a61",
+    "code": "CYP2D6-EM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 131
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a62",
+    "code": "CYP2D6-EM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 15
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a63",
+    "code": "CYP2D6-EM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 37
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a64",
+    "code": "CYP2D6-IM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 120
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a65",
+    "code": "CYP2D6-IM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 80
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a66",
+    "code": "CYP2D6-IM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a67",
+    "code": "CYP2D6-IM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 15
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a68",
+    "code": "CYP2D6-PM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 23
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a69",
+    "code": "CYP2D6-PM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 14
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a6a",
+    "code": "CYP2D6-PM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 3
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a6b",
+    "code": "CYP2D6-PM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a6c",
+    "code": "CYP2D6-UM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a6d",
+    "code": "CYP2D6-UM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 5
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a6e",
+    "code": "CYP2D6-UM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": ""
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a6f",
+    "code": "CYP2D6-UM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 0
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a70",
+    "code": "CYP2C19-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "count": 20
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a71",
+    "code": "CYP2C19-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "count": 234
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a72",
+    "code": "CYP2C19-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "count": 362
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a73",
+    "code": "CYP2C19-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "count": 57
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a74",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a75",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a76",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a77",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a78",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a79",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a7a",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a7b",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a7c",
+    "code": "CYP2D6-EM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 212
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a7d",
+    "code": "CYP2D6-EM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 131
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a7e",
+    "code": "CYP2D6-EM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 15
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a7f",
+    "code": "CYP2D6-EM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 37
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a80",
+    "code": "CYP2D6-IM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 120
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a81",
+    "code": "CYP2D6-IM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 80
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a82",
+    "code": "CYP2D6-IM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a83",
+    "code": "CYP2D6-IM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 15
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a84",
+    "code": "CYP2D6-PM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 23
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a85",
+    "code": "CYP2D6-PM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 14
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a86",
+    "code": "CYP2D6-PM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 3
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a87",
+    "code": "CYP2D6-PM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a88",
+    "code": "CYP2D6-UM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 5
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a89",
+    "code": "CYP2C9-EM and VKORC1-IA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 34
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a8a",
+    "code": "TPMT-PA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e9e"
+    ],
+    "__v": 0,
+    "count": 16
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a8b",
+    "code": "CYP2C9-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79"
+    ],
+    "__v": 0,
+    "count": 578
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a8c",
+    "code": "CYP2C9-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b"
+    ],
+    "__v": 0,
+    "count": 261
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a8d",
+    "code": "CYP2D6-UM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a8e",
+    "code": "CYP2D6-UM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": ""
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a8f",
+    "code": "CYP2D6-UM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 0
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a90",
+    "code": "CYP2C19-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "count": 20
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a91",
+    "code": "CYP2C19-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "count": 234
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a92",
+    "code": "CYP2C19-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "count": 362
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a93",
+    "code": "CYP2C19-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "count": 57
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a94",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a95",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a96",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a97",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a98",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a99",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a9a",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a9b",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a9c",
+    "code": "CYP2D6-EM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 212
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a9d",
+    "code": "CYP2D6-EM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 131
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a9e",
+    "code": "CYP2D6-EM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 15
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152a9f",
+    "code": "CYP2D6-EM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 37
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aa0",
+    "code": "CYP2D6-IM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 120
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aa1",
+    "code": "CYP2D6-IM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 80
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aa2",
+    "code": "CYP2D6-IM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aa3",
+    "code": "CYP2D6-IM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 15
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aa4",
+    "code": "CYP2D6-PM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 23
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aa5",
+    "code": "CYP2D6-PM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 14
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aa6",
+    "code": "CYP2D6-PM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 3
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aa7",
+    "code": "CYP2D6-PM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aa8",
+    "code": "CYP2D6-UM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aa9",
+    "code": "CYP2D6-UM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 5
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aaa",
+    "code": "CYP2D6-UM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": ""
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aab",
+    "code": "CYP2D6-UM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 0
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aac",
+    "code": "CYP2C19-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "count": 20
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aad",
+    "code": "CYP2C19-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "count": 234
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aae",
+    "code": "CYP2C19-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "count": 362
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aaf",
+    "code": "CYP2C19-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "count": 57
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ab0",
+    "code": "TPMT-PA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e9e"
+    ],
+    "__v": 0,
+    "count": 16
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ab1",
+    "code": "TPMT-IA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e9a"
+    ],
+    "__v": 0,
+    "count": 25
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ab2",
+    "code": "TPMT-EA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e99"
+    ],
+    "__v": 0,
+    "count": 255
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ab3",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ab4",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ab5",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ab6",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ab7",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ab8",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ab9",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aba",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152abb",
+    "code": "CYP2C19-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "count": 20
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152abc",
+    "code": "CYP2C19-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "count": 234
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152abd",
+    "code": "CYP2C19-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "count": 362
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152abe",
+    "code": "CYP2C19-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "count": 57
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152abf",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ac0",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ac1",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ac2",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ac3",
+    "code": "SLCO1B1-EA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e8b"
+    ],
+    "__v": 0,
+    "count": 254
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ac4",
+    "code": "SLCO1B1-PA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e90"
+    ],
+    "__v": 0,
+    "count": 5
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ac5",
+    "code": "SLCO1B1-IA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e8c"
+    ],
+    "__v": 0,
+    "count": 104
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ac6",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ac7",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ac8",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ac9",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aca",
+    "code": "TPMT-PA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e9e"
+    ],
+    "__v": 0,
+    "count": 16
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152acb",
+    "code": "TPMT-IA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e9a"
+    ],
+    "__v": 0,
+    "count": 25
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152acc",
+    "code": "TPMT-EA ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e99"
+    ],
+    "__v": 0,
+    "count": 255
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152acd",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ace",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152acf",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ad0",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ad1",
+    "code": "CYP2D6-EM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 212
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ad2",
+    "code": "CYP2D6-EM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 131
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ad3",
+    "code": "CYP2D6-EM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 15
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ad4",
+    "code": "CYP2D6-EM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 37
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ad5",
+    "code": "CYP2D6-IM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 120
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ad6",
+    "code": "CYP2D6-IM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 80
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ad7",
+    "code": "CYP2D6-IM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ad8",
+    "code": "CYP2D6-IM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 15
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ad9",
+    "code": "CYP2D6-PM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 23
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ada",
+    "code": "CYP2D6-PM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 14
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152adb",
+    "code": "CYP2D6-PM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 3
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152adc",
+    "code": "CYP2D6-PM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152add",
+    "code": "CYP2D6-UM and CYP2C19-EM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ade",
+    "code": "CYP2D6-UM and CYP2C19-IM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 5
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152adf",
+    "code": "CYP2D6-UM and CYP2C19-PM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": ""
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ae0",
+    "code": "CYP2D6-UM and CYP2C19-UM",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 0
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ae1",
+    "code": "CYP2C9-PM and VKORC1-EA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 9
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ae2",
+    "code": "CYP2C9-PM and VKORC1-IA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 3
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ae3",
+    "code": "CYP2C9-PM and VKORC1-UA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "54d2d38b0da76e584a057eaa"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ae4",
+    "code": "CYP2C9-PM and VKORC1-PA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 5
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ae5",
+    "code": "VKORC1-EA and CYP2C9-IM[1/2]",
+    "genotypes": [
+      "54d2d38b0da76e584a057ea7",
+      "54d2d4c524c0e6934ac05c39"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 27
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ae6",
+    "code": "CYP2C9-IM and VKORC1-IA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 17
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ae7",
+    "code": "CYP2C9-IM and VKORC1-PA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 23
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ae8",
+    "code": "CYP2C9-EM and VKORC1-EA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 89
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152ae9",
+    "code": "CYP2C9-EM and VKORC1-HA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79",
+      "560462c294cbb806292cd6e4"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 64
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aea",
+    "code": "CYP2C9-EM and VKORC1-PA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 44
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aeb",
+    "code": "CYP2C9-UM and VKORC1-EA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7c",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": ""
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aec",
+    "code": "CYP2C9-UM and VKORC1-IA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7c",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": ""
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aed",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aee",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aef",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152af0",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152af1",
+    "code": "CYP2C9-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83"
+    ],
+    "__v": 0,
+    "count": 37
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152af2",
+    "code": "NAT2-RA ",
+    "genotypes": [
+      "5601ff7202820dc156660651"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152af3",
+    "code": "NAT2-IA ",
+    "genotypes": [
+      "5601ffae02820dc156660653"
+    ],
+    "__v": 0,
+    "count": 151
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152af4",
+    "code": "NAT2-PA ",
+    "genotypes": [
+      "5601ffe202820dc156660655"
+    ],
+    "__v": 0,
+    "count": 175
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152af5",
+    "code": "CYP3A5-EM ",
+    "genotypes": [
+      "5602008c02820dc156660657"
+    ],
+    "__v": 0,
+    "count": 4
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152af6",
+    "code": "CYP3A5-IM ",
+    "genotypes": [
+      "560200f202820dc156660659"
+    ],
+    "__v": 0,
+    "count": 36
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152af7",
+    "code": "CYP3A5-PM ",
+    "genotypes": [
+      "5602011d02820dc15666065b"
+    ],
+    "__v": 0,
+    "count": 321
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152af8",
+    "code": "CYP2C19-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "count": 362
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152af9",
+    "code": "CYP2C19-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "count": 234
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152afa",
+    "code": "CYP2C19-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "count": 20
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152afb",
+    "code": "CYP2C19-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "count": 57
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152afc",
+    "code": "CYP2C9-EM and VKORC1-EA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 89
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152afd",
+    "code": "CYP2C9-PM and VKORC1-EA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 9
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152afe",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152aff",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b00",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b01",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b02",
+    "code": "CYP2C9-EM and VKORC1-EA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 89
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b03",
+    "code": "CYP2C9-PM and VKORC1-EA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 9
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b04",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b05",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b06",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b07",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b08",
+    "code": "CYP2C19-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "count": 362
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b09",
+    "code": "CYP2C19-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "count": 234
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b0a",
+    "code": "CYP2C19-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "count": 20
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b0b",
+    "code": "CYP2C19-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "count": 57
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b0c",
+    "code": "CYP2C19-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "count": 362
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b0d",
+    "code": "CYP2C19-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "count": 234
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b0e",
+    "code": "CYP2C19-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "count": 20
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b0f",
+    "code": "CYP2C19-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "count": 57
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b10",
+    "code": "CYP2C19-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "count": 362
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b11",
+    "code": "CYP2C19-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "count": 234
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b12",
+    "code": "CYP2C19-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "count": 20
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b13",
+    "code": "CYP2C19-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "count": 57
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b14",
+    "code": "CYP2C19-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "count": 362
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b15",
+    "code": "CYP2C19-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "count": 234
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b16",
+    "code": "CYP2C19-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "count": 20
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b17",
+    "code": "CYP2C19-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "count": 57
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b18",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b19",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b1a",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b1b",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b1c",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b1d",
+    "code": "CYP2C19-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "count": 362
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b1e",
+    "code": "CYP2C19-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "count": 234
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b1f",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b20",
+    "code": "CYP2C19-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "count": 20
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b21",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b22",
+    "code": "CYP2C19-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "count": 57
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b23",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b24",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b25",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b26",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b27",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b28",
+    "code": "CYP2C19-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "count": 362
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b29",
+    "code": "CYP2C19-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "count": 234
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b2a",
+    "code": "CYP2C19-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "count": 20
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b2b",
+    "code": "CYP2C19-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "count": 57
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b2c",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b2d",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b2e",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b2f",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b30",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b31",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b32",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b33",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b34",
+    "code": "CYP2C19-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6b"
+    ],
+    "__v": 0,
+    "count": 362
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b35",
+    "code": "CYP2C19-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6d"
+    ],
+    "__v": 0,
+    "count": 234
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b36",
+    "code": "CYP2C19-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e75"
+    ],
+    "__v": 0,
+    "count": 20
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b37",
+    "code": "CYP2C19-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e6e"
+    ],
+    "__v": 0,
+    "count": 57
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b38",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b39",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b3a",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b3b",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b3c",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b3d",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b3e",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b3f",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b40",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b41",
+    "code": "CYP2D6-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d"
+    ],
+    "__v": 0,
+    "count": 731
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b42",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b43",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b44",
+    "code": "CYP2D6-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f"
+    ],
+    "__v": 0,
+    "count": 453
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b45",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b46",
+    "code": "CYP2D6-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67"
+    ],
+    "__v": 0,
+    "count": 90
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b47",
+    "code": "CYP2C9-EM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79"
+    ],
+    "__v": 0,
+    "count": 578
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b48",
+    "code": "CYP2D6-UM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60"
+    ],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b49",
+    "code": "CYP2C9-IM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b"
+    ],
+    "__v": 0,
+    "count": 261
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b4a",
+    "code": "CYP2C9-PM ",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83"
+    ],
+    "__v": 0,
+    "count": 37
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b4b",
+    "code": "CYP2C9-IM[1/3] and VKORC1-EA",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05d2f",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 18
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b4c",
+    "code": "CYP2C9-IM[1/2] and VKORC1-HA",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05c39",
+      "560462c294cbb806292cd6e4"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 13
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b4d",
+    "code": "CYP2C9-IM[1/3] and VKORC1-HA",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05d2f",
+      "560462c294cbb806292cd6e4"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 10
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b4e",
+    "code": "CYP2C9-EM and VKORC1-IA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 34
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b4f",
+    "code": "CYP2C9-EM and VKORC1-PA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 44
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b50",
+    "code": "CYP2C9-EM and VKORC1-HA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79",
+      "560462c294cbb806292cd6e4"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 64
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b51",
+    "code": "CYP2C9-IM and VKORC1-EA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 46
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b52",
+    "code": "CYP2C9-IM and VKORC1-IA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 17
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b53",
+    "code": "CYP2C9-IM and VKORC1-PA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 23
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b54",
+    "code": "CYP2C9-IM and VKORC1-HA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b",
+      "560462c294cbb806292cd6e4"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 23
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b55",
+    "code": "CYP2C9-PM and VKORC1-EA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 9
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b56",
+    "code": "CYP2C9-PM and VKORC1-IA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 3
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b57",
+    "code": "CYP2C9-PM and VKORC1-PA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 5
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b58",
+    "code": "CYP2C9-PM and VKORC1-HA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "560462c294cbb806292cd6e4"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 7
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b59",
+    "code": "CYP2C9-EM and VKORC1-IA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 34
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b5a",
+    "code": "CYP2C9-EM and VKORC1-PA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 44
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b5b",
+    "code": "CYP2C9-EM and VKORC1-HA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e79",
+      "560462c294cbb806292cd6e4"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 64
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b5c",
+    "code": "CYP2C9-IM and VKORC1-EA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 46
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b5d",
+    "code": "CYP2C9-IM and VKORC1-IA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 17
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b5e",
+    "code": "CYP2C9-IM and VKORC1-PA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 23
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b5f",
+    "code": "CYP2C9-IM and VKORC1-HA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e7b",
+      "560462c294cbb806292cd6e4"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 23
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b60",
+    "code": "CYP2C9-PM and VKORC1-IA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 3
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b61",
+    "code": "CYP2C9-PM and VKORC1-PA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 5
+  },
+  {
+    "_id": "561437f9c5f7d6f5cb152b62",
+    "code": "CYP2C9-PM and VKORC1-HA",
+    "genotypes": [
+      "54d2d38b0da76e584a057e83",
+      "560462c294cbb806292cd6e4"
+    ],
+    "__v": 0,
+    "formula": "",
+    "texte": "",
+    "count": 7
+  },
+  {
+    "_id": "5640ccff69fa7c0f543cbdfd",
+    "code": "NOS3-rs1799983[TT]",
+    "genotypes": [
+      "5640cc9369fa7c0f543cbdfc"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 87
+  },
+  {
+    "_id": "5640cefd359a48765765ed6a",
+    "code": "NOS3-rs1799983[GG]",
+    "genotypes": [
+      "5640cedf359a48765765ed68"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 332
+  },
+  {
+    "_id": "5640cf09359a48765765ed6b",
+    "code": "NOS3-rs1799983[GT]",
+    "genotypes": [
+      "5640ceea359a48765765ed69"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 368
+  },
+  {
+    "_id": "5640d27c359a48765765ed78",
+    "code": "GSTT1-GSTT1E7[CC] and GSTM1-GSTM1E2[AA]",
+    "genotypes": [
+      "5640d18b359a48765765ed71",
+      "5640d1b8359a48765765ed74"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 102
+  },
+  {
+    "_id": "5640d2a7359a48765765ed79",
+    "code": "GSTT1-GSTT1E7[CC] and GSTM1-GSTM1E2[AC]",
+    "genotypes": [
+      "5640d18b359a48765765ed71",
+      "5640d1c5359a48765765ed75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 68
+  },
+  {
+    "_id": "5640d2b3359a48765765ed7a",
+    "code": "GSTT1-GSTT1E7[CC] and GSTM1-GSTM1E2[CC]",
+    "genotypes": [
+      "5640d18b359a48765765ed71",
+      "5640d1d7359a48765765ed76"
+    ],
+    "__v": 0,
+    "formula": ""
+  },
+  {
+    "_id": "5640d2c3359a48765765ed7b",
+    "code": "GSTT1-GSTT1E7[CT] and GSTM1-GSTM1E2[AA]",
+    "genotypes": [
+      "5640d19a359a48765765ed72",
+      "5640d1b8359a48765765ed74"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 345
+  },
+  {
+    "_id": "5640d2ce359a48765765ed7c",
+    "code": "GSTT1-GSTT1E7[CT] and GSTM1-GSTM1E2[AC]",
+    "genotypes": [
+      "5640d19a359a48765765ed72",
+      "5640d1c5359a48765765ed75"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 334
+  },
+  {
+    "_id": "5640d2d9359a48765765ed7d",
+    "code": "GSTT1-GSTT1E7[CT] and GSTM1-GSTM1E2[CC]",
+    "genotypes": [
+      "5640d19a359a48765765ed72",
+      "5640d1d7359a48765765ed76"
+    ],
+    "__v": 0,
+    "formula": ""
+  },
+  {
+    "_id": "5640d2e3359a48765765ed7e",
+    "code": "GSTT1-GSTT1E7[TT] and GSTM1-GSTM1E2[AA]",
+    "genotypes": [
+      "5640d1a8359a48765765ed73",
+      "5640d1b8359a48765765ed74"
+    ],
+    "__v": 0,
+    "formula": ""
+  },
+  {
+    "_id": "5640d2ed359a48765765ed7f",
+    "code": "GSTT1-GSTT1E7[TT] and GSTM1-GSTM1E2[AC]",
+    "genotypes": [
+      "5640d1a8359a48765765ed73",
+      "5640d1c5359a48765765ed75"
+    ],
+    "__v": 0,
+    "formula": ""
+  },
+  {
+    "_id": "5640d2f7359a48765765ed80",
+    "code": "GSTT1-GSTT1E7[TT] and GSTM1-GSTM1E2[CC]",
+    "genotypes": [
+      "5640d1a8359a48765765ed73",
+      "5640d1d7359a48765765ed76"
+    ],
+    "__v": 0,
+    "formula": ""
+  },
+  {
+    "_id": "5640d3f2359a48765765ed87",
+    "code": "MTHFR-rs1801133[GG]",
+    "genotypes": [
+      "5640d3c2359a48765765ed84"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 316
+  },
+  {
+    "_id": "5640d3f8359a48765765ed88",
+    "code": "MTHFR-rs1801133[AG]",
+    "genotypes": [
+      "5640d3ce359a48765765ed85"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 378
+  },
+  {
+    "_id": "5640d401359a48765765ed89",
+    "code": "MTHFR-rs1801133[AA]",
+    "genotypes": [
+      "5640d3d9359a48765765ed86"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 91
+  },
+  {
+    "_id": "5640d928cfbd4fb45d074859",
+    "code": "TCF7L2-rs12255372[GG]",
+    "genotypes": [
+      "5640d852cfbd4fb45d074854"
+    ],
+    "__v": 0,
+    "count": 372
+  },
+  {
+    "_id": "5640d92dcfbd4fb45d07485a",
+    "code": "TCF7L2-rs12255372[GT]",
+    "genotypes": [
+      "5640d85fcfbd4fb45d074855"
+    ],
+    "__v": 0,
+    "count": 353
+  },
+  {
+    "_id": "5640d932cfbd4fb45d07485b",
+    "code": "TCF7L2-rs12255372[TT]",
+    "genotypes": [
+      "5640d869cfbd4fb45d074856"
+    ],
+    "__v": 0,
+    "count": 59
+  },
+  {
+    "_id": "5640ec44cfbd4fb45d074864",
+    "code": "ACE-rs4343[GG]",
+    "genotypes": [
+      "5640ec07cfbd4fb45d074861"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 243
+  },
+  {
+    "_id": "5640ec48cfbd4fb45d074865",
+    "code": "ACE-rs4343[AG]",
+    "genotypes": [
+      "5640ec15cfbd4fb45d074862"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 370
+  },
+  {
+    "_id": "5640ec4dcfbd4fb45d074866",
+    "code": "ACE-rs4343[AA]",
+    "genotypes": [
+      "5640ec21cfbd4fb45d074863"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 171
+  },
+  {
+    "_id": "5640ecfccfbd4fb45d07486d",
+    "code": "CYP1A2-rs762551[AA]",
+    "genotypes": [
+      "5640ecd4cfbd4fb45d07486a"
+    ],
+    "__v": 0,
+    "count": 744
+  },
+  {
+    "_id": "5640ed02cfbd4fb45d07486e",
+    "code": "CYP1A2-rs762551[AC]",
+    "genotypes": [
+      "5640ece1cfbd4fb45d07486b"
+    ],
+    "__v": 0,
+    "count": 701
+  },
+  {
+    "_id": "5640ed08cfbd4fb45d07486f",
+    "code": "CYP1A2-rs762551[CC]",
+    "genotypes": [
+      "5640ecf1cfbd4fb45d07486c"
+    ],
+    "__v": 0,
+    "count": 132
+  },
+  {
+    "_id": "5640f93dcfbd4fb45d074881",
+    "code": "GC-rs2282679[TT] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[GG]",
+    "genotypes": [
+      "5640f599cfbd4fb45d074876",
+      "5640f5c7cfbd4fb45d074879",
+      "5640f619cfbd4fb45d07487c"
+    ],
+    "__v": 0,
+    "count": 3
+  },
+  {
+    "_id": "5640f961cfbd4fb45d074882",
+    "code": "GC-rs2282679[TT] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[GT]",
+    "genotypes": [
+      "5640f599cfbd4fb45d074876",
+      "5640f5c7cfbd4fb45d074879",
+      "5640f621cfbd4fb45d07487d"
+    ],
+    "__v": 0,
+    "count": 24
+  },
+  {
+    "_id": "5640f97fcfbd4fb45d074883",
+    "code": "GC-rs2282679[TT] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[TT]",
+    "genotypes": [
+      "5640f599cfbd4fb45d074876",
+      "5640f5c7cfbd4fb45d074879",
+      "5640f62ccfbd4fb45d07487e"
+    ],
+    "__v": 0,
+    "count": 21
+  },
+  {
+    "_id": "5640fb21cfbd4fb45d074884",
+    "code": "GC-rs2282679[TT] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[GG]",
+    "genotypes": [
+      "5640f599cfbd4fb45d074876",
+      "5640f5d9cfbd4fb45d07487a",
+      "5640f619cfbd4fb45d07487c"
+    ],
+    "__v": 0,
+    "count": 21
+  },
+  {
+    "_id": "5640fb3fcfbd4fb45d074885",
+    "code": "GC-rs2282679[TT] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[GT]",
+    "genotypes": [
+      "5640f599cfbd4fb45d074876",
+      "5640f5d9cfbd4fb45d07487a",
+      "5640f621cfbd4fb45d07487d"
+    ],
+    "__v": 0,
+    "count": 85
+  },
+  {
+    "_id": "5640fb64cfbd4fb45d074886",
+    "code": "GC-rs2282679[TT] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[TT]",
+    "genotypes": [
+      "5640f599cfbd4fb45d074876",
+      "5640f5d9cfbd4fb45d07487a",
+      "5640f62ccfbd4fb45d07487e"
+    ],
+    "__v": 0,
+    "count": 109
+  },
+  {
+    "_id": "5640fb77cfbd4fb45d074887",
+    "code": "GC-rs2282679[TT] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[GG]",
+    "genotypes": [
+      "5640f599cfbd4fb45d074876",
+      "5640f5e9cfbd4fb45d07487b",
+      "5640f619cfbd4fb45d07487c"
+    ],
+    "__v": 0,
+    "count": 18
+  },
+  {
+    "_id": "5640fb8ecfbd4fb45d074888",
+    "code": "GC-rs2282679[TT] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[GT]",
+    "genotypes": [
+      "5640f599cfbd4fb45d074876",
+      "5640f5e9cfbd4fb45d07487b",
+      "5640f621cfbd4fb45d07487d"
+    ],
+    "__v": 0,
+    "count": 70
+  },
+  {
+    "_id": "5640fba7cfbd4fb45d074889",
+    "code": "GC-rs2282679[TT] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[TT]",
+    "genotypes": [
+      "5640f599cfbd4fb45d074876",
+      "5640f5e9cfbd4fb45d07487b",
+      "5640f62ccfbd4fb45d07487e"
+    ],
+    "__v": 0,
+    "count": 94
+  },
+  {
+    "_id": "5640fbc0cfbd4fb45d07488a",
+    "code": "GC-rs2282679[TG] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[GG]",
+    "genotypes": [
+      "5640f5a7cfbd4fb45d074877",
+      "5640f5c7cfbd4fb45d074879",
+      "5640f619cfbd4fb45d07487c"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "5640fbd6cfbd4fb45d07488b",
+    "code": "GC-rs2282679[TG] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[GT]",
+    "genotypes": [
+      "5640f5a7cfbd4fb45d074877",
+      "5640f5c7cfbd4fb45d074879",
+      "5640f621cfbd4fb45d07487d"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "5640fbefcfbd4fb45d07488c",
+    "code": "GC-rs2282679[TG] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[TT]",
+    "genotypes": [
+      "5640f5a7cfbd4fb45d074877",
+      "5640f5c7cfbd4fb45d074879",
+      "5640f62ccfbd4fb45d07487e"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "5640fc05cfbd4fb45d07488d",
+    "code": "GC-rs2282679[TG] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[GG]",
+    "genotypes": [
+      "5640f5a7cfbd4fb45d074877",
+      "5640f5d9cfbd4fb45d07487a",
+      "5640f619cfbd4fb45d07487c"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "5640fc1dcfbd4fb45d07488e",
+    "code": "GC-rs2282679[TG] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[GT]",
+    "genotypes": [
+      "5640f5a7cfbd4fb45d074877",
+      "5640f5d9cfbd4fb45d07487a",
+      "5640f621cfbd4fb45d07487d"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "5640fc32cfbd4fb45d07488f",
+    "code": "GC-rs2282679[TG] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[TT]",
+    "genotypes": [
+      "5640f5a7cfbd4fb45d074877",
+      "5640f5d9cfbd4fb45d07487a",
+      "5640f62ccfbd4fb45d07487e"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "5640fc48cfbd4fb45d074890",
+    "code": "GC-rs2282679[TG] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[GG]",
+    "genotypes": [
+      "5640f5a7cfbd4fb45d074877",
+      "5640f5e9cfbd4fb45d07487b",
+      "5640f619cfbd4fb45d07487c"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "5640fc61cfbd4fb45d074891",
+    "code": "GC-rs2282679[TG] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[GT]",
+    "genotypes": [
+      "5640f5a7cfbd4fb45d074877",
+      "5640f5e9cfbd4fb45d07487b",
+      "5640f621cfbd4fb45d07487d"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "5640fc76cfbd4fb45d074892",
+    "code": "GC-rs2282679[TG] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[TT]",
+    "genotypes": [
+      "5640f5a7cfbd4fb45d074877",
+      "5640f5e9cfbd4fb45d07487b",
+      "5640f62ccfbd4fb45d07487e"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "5640fc9bcfbd4fb45d074893",
+    "code": "GC-rs2282679[GG] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[GG]",
+    "genotypes": [
+      "5640f5b3cfbd4fb45d074878",
+      "5640f5c7cfbd4fb45d074879",
+      "5640f619cfbd4fb45d07487c"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "5640fcb6cfbd4fb45d074894",
+    "code": "GC-rs2282679[GG] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[GT]",
+    "genotypes": [
+      "5640f5b3cfbd4fb45d074878",
+      "5640f5c7cfbd4fb45d074879",
+      "5640f621cfbd4fb45d07487d"
+    ],
+    "__v": 0,
+    "count": 2
+  },
+  {
+    "_id": "5640fccecfbd4fb45d074895",
+    "code": "GC-rs2282679[GG] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[TT]",
+    "genotypes": [
+      "5640f5b3cfbd4fb45d074878",
+      "5640f5c7cfbd4fb45d074879",
+      "5640f62ccfbd4fb45d07487e"
+    ],
+    "__v": 0,
+    "count": 2
+  },
+  {
+    "_id": "5640fce4cfbd4fb45d074896",
+    "code": "GC-rs2282679[GG] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[GG]",
+    "genotypes": [
+      "5640f5b3cfbd4fb45d074878",
+      "5640f5d9cfbd4fb45d07487a",
+      "5640f619cfbd4fb45d07487c"
+    ],
+    "__v": 0,
+    "count": 1
+  },
+  {
+    "_id": "5640fcfacfbd4fb45d074897",
+    "code": "GC-rs2282679[GG] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[GT]",
+    "genotypes": [
+      "5640f5b3cfbd4fb45d074878",
+      "5640f5d9cfbd4fb45d07487a",
+      "5640f621cfbd4fb45d07487d"
+    ],
+    "__v": 0,
+    "count": 8
+  },
+  {
+    "_id": "5640fd0fcfbd4fb45d074898",
+    "code": "GC-rs2282679[GG] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[TT]",
+    "genotypes": [
+      "5640f5b3cfbd4fb45d074878",
+      "5640f5d9cfbd4fb45d07487a",
+      "5640f62ccfbd4fb45d07487e"
+    ],
+    "__v": 0,
+    "count": 21
+  },
+  {
+    "_id": "5640fd26cfbd4fb45d074899",
+    "code": "GC-rs2282679[GG] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[GG]",
+    "genotypes": [
+      "5640f5b3cfbd4fb45d074878",
+      "5640f5e9cfbd4fb45d07487b",
+      "5640f619cfbd4fb45d07487c"
+    ],
+    "__v": 0,
+    "count": 1
+  },
+  {
+    "_id": "5640fd3acfbd4fb45d07489a",
+    "code": "GC-rs2282679[GG] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[GT]",
+    "genotypes": [
+      "5640f5b3cfbd4fb45d074878",
+      "5640f5e9cfbd4fb45d07487b",
+      "5640f621cfbd4fb45d07487d"
+    ],
+    "__v": 0,
+    "count": 10
+  },
+  {
+    "_id": "5640fd4ecfbd4fb45d07489b",
+    "code": "GC-rs2282679[GG] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[TT]",
+    "genotypes": [
+      "5640f5b3cfbd4fb45d074878",
+      "5640f5e9cfbd4fb45d07487b",
+      "5640f62ccfbd4fb45d07487e"
+    ],
+    "__v": 0,
+    "count": 16
+  },
+  {
+    "_id": "5640feeecfbd4fb45d0748a2",
+    "code": "APOA2-rs5082[AA]",
+    "genotypes": [
+      "5640fecacfbd4fb45d07489f"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 299
+  },
+  {
+    "_id": "5640fef2cfbd4fb45d0748a3",
+    "code": "APOA2-rs5082[AG]",
+    "genotypes": [
+      "5640fed5cfbd4fb45d0748a0"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 371
+  },
+  {
+    "_id": "5640fef6cfbd4fb45d0748a4",
+    "code": "APOA2-rs5082[GG]",
+    "genotypes": [
+      "5640fedecfbd4fb45d0748a1"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 117
+  },
+  {
+    "_id": "5640ff8ecfbd4fb45d0748ac",
+    "code": "LCT-rs4988235[AA]",
+    "genotypes": [
+      "5640ff6fcfbd4fb45d0748a9"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 171
+  },
+  {
+    "_id": "5640ff94cfbd4fb45d0748ad",
+    "code": "LCT-rs4988235[AG]",
+    "genotypes": [
+      "5640ff78cfbd4fb45d0748aa"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 371
+  },
+  {
+    "_id": "5640ff99cfbd4fb45d0748ae",
+    "code": "LCT-rs4988235[GG]",
+    "genotypes": [
+      "5640ff82cfbd4fb45d0748ab"
+    ],
+    "__v": 0,
+    "formula": "",
+    "count": 245
+  },
+  {
+    "_id": "565dddb35202d134786758d4",
+    "code": "GLUTEN - ÉLEVÉ",
+    "formula": "ÉLEVÉ",
+    "genotypes": [],
+    "__v": 0,
+    "count": 32
+  },
+  {
+    "_id": "565dddc05202d134786758d5",
+    "code": "GLUTEN - FAIBLE",
+    "formula": "FAIBLE",
+    "genotypes": [],
+    "__v": 0,
+    "count": 216
+  },
+  {
+    "_id": "565dddd15202d134786758d6",
+    "code": "GLUTEN - MOYEN",
+    "formula": "MOYEN",
+    "genotypes": [],
+    "__v": 0,
+    "count": 456
+  },
+  {
+    "_id": "565ddde95202d134786758d7",
+    "code": "GLUTEN - NEGLIGIBLE",
+    "formula": "NEGLIGIBLE",
+    "genotypes": [],
+    "__v": 0,
+    "count": 73
+  },
+  {
+    "_id": "568ec58cbb6f74123e6f224e",
+    "code": "DPYD-EM",
+    "formula": "",
+    "genotypes": [
+      "568ec54de2b6122c3ed37cb4"
+    ],
+    "__v": 0,
+    "count": 315
+  },
+  {
+    "_id": "568ec596e2b6122c3ed37cb5",
+    "code": "DPYD-IM",
+    "formula": "",
+    "genotypes": [
+      "568ec559bb6f74123e6f224c"
+    ],
+    "__v": 0,
+    "count": 4
+  },
+  {
+    "_id": "568ec59dbb6f74123e6f224f",
+    "code": "DPYD-PM",
+    "formula": "",
+    "genotypes": [
+      "568ec568bb6f74123e6f224d"
+    ],
+    "__v": 0,
+    "count": 1
+  },
+  {
+    "_id": "5690106ce391f7a479244a6f",
+    "code": "CYP2C9-IM[1/2] and VKORC1-IA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05c39",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 8
+  },
+  {
+    "_id": "569010d12d56f15a7945711a",
+    "code": "CYP2C9-IM[1/2] and VKORC1-PA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05c39",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 16
+  },
+  {
+    "_id": "56901135e391f7a479244a70",
+    "code": "CYP2C9-IM[1/3] and VKORC1-IA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05d2f",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 9
+  },
+  {
+    "_id": "569011932d56f15a7945711b",
+    "code": "CYP2C9-PM[2/2] and VKORC1-EA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05c47",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 3
+  },
+  {
+    "_id": "569011ce2d56f15a7945711c",
+    "code": "CYP2C9-PM[2/2] and VKORC1-IA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05c47",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "569011e2e391f7a479244a71",
+    "code": "CYP2C9-PM[2/2] and VKORC1-HA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05c47",
+      "560462c294cbb806292cd6e4"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 4
+  },
+  {
+    "_id": "5690120be391f7a479244a72",
+    "code": "CYP2C9-PM[2/3] and VKORC1-EA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05d27",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 5
+  },
+  {
+    "_id": "569012212d56f15a7945711d",
+    "code": "CYP2C9-PM[2/3] and VKORC1-IA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05d27",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 1
+  },
+  {
+    "_id": "5690123c2d56f15a7945711e",
+    "code": "CYP2C9-PM[2/3] and VKORC1-HA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05d27",
+      "560462c294cbb806292cd6e4"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 2
+  },
+  {
+    "_id": "5690128ee391f7a479244a73",
+    "code": "CYP2C9-IM[1/3] and VKORC1-PA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05d2f",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 7
+  },
+  {
+    "_id": "569012a32d56f15a7945711f",
+    "code": "CYP2C9-PM[2/2] and VKORC1-PA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05c47",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 3
+  },
+  {
+    "_id": "569012b62d56f15a79457120",
+    "code": "CYP2C9-PM[2/3] and VKORC1-IA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05d27",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 1
+  },
+  {
+    "_id": "569012e1e391f7a479244a74",
+    "code": "CYP2C9-PM[2/3] and VKORC1-PA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05d27",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 1
+  },
+  {
+    "_id": "5690130ce391f7a479244a75",
+    "code": "CYP2C9-PM[3/3] and VKORC1-IA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05b9d",
+      "54d2d38b0da76e584a057ea8"
+    ],
+    "__v": 0,
+    "texte": ""
+  },
+  {
+    "_id": "569013212d56f15a79457121",
+    "code": "CYP2C9-PM[3/3] and VKORC1-PA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05b9d",
+      "54d2d38b0da76e584a057eac"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 1
+  },
+  {
+    "_id": "5690141ce391f7a479244a76",
+    "code": "CYP2C9-PM[3/3] and VKORC1-EA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05b9d",
+      "54d2d38b0da76e584a057ea7"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 1
+  },
+  {
+    "_id": "5690146ee391f7a479244a77",
+    "code": "CYP2C9-PM[3/3] and VKORC1-HA",
+    "formula": "",
+    "genotypes": [
+      "54d2d4c524c0e6934ac05b9d",
+      "560462c294cbb806292cd6e4"
+    ],
+    "__v": 0,
+    "texte": "",
+    "count": 1
+  },
+  {
+    "_id": "5698253baff33fca0a017e65",
+    "code": "GSTT1-GSTT1E7[CT]",
+    "formula": "",
+    "genotypes": [
+      "5640d19a359a48765765ed72"
+    ],
+    "__v": 0,
+    "count": 704
+  },
+  {
+    "_id": "569825b3175a41af0abbf30a",
+    "code": "GSTM1-GSTM1E2[AC]",
+    "formula": "",
+    "genotypes": [
+      "5640d1c5359a48765765ed75"
+    ],
+    "__v": 0,
+    "count": 409
+  },
+  {
+    "_id": "569826dd1c1328e90c91cd8a",
+    "code": "GSTT1-GSTT1E7[TT]",
+    "formula": "",
+    "genotypes": [
+      "5640d1a8359a48765765ed73"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "569826ea1c1328e90c91cd8b",
+    "code": "GSTM1-GSTM1E2[CC]",
+    "formula": "",
+    "genotypes": [
+      "5640d1d7359a48765765ed76"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "569fab47cba817ac251d1b6a",
+    "code": "NAT2-UA",
+    "formula": "",
+    "genotypes": [
+      "569fab379eb915a627206466"
+    ],
+    "__v": 0,
+    "count": 22
+  },
+  {
+    "_id": "56a38564206fc9937c289786",
+    "code": "DPYD-UM",
+    "formula": "",
+    "genotypes": [
+      "56a3852be94cf8797cb1eb83"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "56a3857b206fc9937c289787",
+    "code": "DPYD-EM|UM",
+    "formula": "",
+    "genotypes": [
+      "56a3853de94cf8797cb1eb84"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "56be2a479773d3d6238938e5",
+    "code": "MTHFR-Failed[Failed]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "Échoué",
+    "formula": "",
+    "genotypes": [
+      "56425916016b16f014fe03b5"
+    ],
+    "__v": 0,
+    "count": 8
+  },
+  {
+    "_id": "56be2a90625e56cc23fec376",
+    "code": "rs1801133[]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "Échoué",
+    "formula": "",
+    "genotypes": [
+      "565ddd075202d1347867584e"
+    ],
+    "__v": 0,
+    "count": 0
+  },
+  {
+    "_id": "56c380fdc41b7835204062b2",
+    "code": "TPMT-Failed[Failed]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "Échoué",
+    "formula": "",
+    "genotypes": [
+      "560446df5b89b83c28ed0617"
+    ],
+    "__v": 0,
+    "count": 24
+  },
+  {
+    "_id": "56c3811b31ff2d4f209075fb",
+    "code": "TPMT-Failed[Failed]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "Échoué",
+    "formula": "",
+    "genotypes": [
+      "56425915016b16f014fe01da"
+    ],
+    "__v": 0,
+    "count": 24
+  },
+  {
+    "_id": "56c3b2d431ff2d4f20907605",
+    "code": "SLCO1B1-Failed[Failed]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "Échoué",
+    "formula": "",
+    "genotypes": [
+      "560446e05b89b83c28ed0625"
+    ],
+    "__v": 0,
+    "count": 4
+  },
+  {
+    "_id": "56c3b2fdc41b7835204062bc",
+    "code": "SLCO1B1-Failed[Failed]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "Échoué",
+    "formula": "",
+    "genotypes": [
+      "56425916016b16f014fe03bd"
+    ],
+    "__v": 0,
+    "count": 4
+  },
+  {
+    "_id": "56e6fdb30ca184c8113fe115",
+    "code": "CYP2D6-UM and CYP2C19-Failed[Failed]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "CYP2D6-UM + CYP2C19 (indéterminé)",
+    "formula": "",
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "560446df5b89b83c28ed0618"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "56e6fdd10ca184c8113fe116",
+    "code": "CYP2D6-EM and CYP2C19-Failed[Failed]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "CYP2D6-EM + CYP2C19 (indéterminé)",
+    "formula": "",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "560446df5b89b83c28ed0618"
+    ],
+    "__v": 0,
+    "count": 2
+  },
+  {
+    "_id": "56e6fdee92fcc2e211cb3e12",
+    "code": "CYP2D6-IM and CYP2C19-Failed[Failed]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "CYP2D6-IM + CYP2C19 (indéterminé)",
+    "formula": "",
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "560446df5b89b83c28ed0618"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "56e6fe120ca184c8113fe117",
+    "code": "CYP2D6-PM and CYP2C19-Failed[Failed]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "CYP2D6-PM + CYP2C19 (indéterminé)",
+    "formula": "",
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "560446df5b89b83c28ed0618"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "56e9b7c3dd9a70a311bfc556",
+    "code": "OPRM1-rs1799971[AA]",
+    "createdBy": "56a27d72e266edc85d19eab7",
+    "texte": "Homozygote WT",
+    "formula": "",
+    "genotypes": [
+      "56e98f0a55d0d28911a9e9d0"
+    ],
+    "__v": 0,
+    "count": 579
+  },
+  {
+    "_id": "56e9b7f755d0d28911a9e9d7",
+    "code": "OPRM1-rs1799971[AG]",
+    "createdBy": "56a27d72e266edc85d19eab7",
+    "texte": "Heterozygote",
+    "formula": "",
+    "genotypes": [
+      "56e98f3655d0d28911a9e9d1"
+    ],
+    "__v": 0,
+    "count": 146
+  },
+  {
+    "_id": "56e9b81cdd9a70a311bfc557",
+    "code": "OPRM1-rs1799971[GG]",
+    "createdBy": "56a27d72e266edc85d19eab7",
+    "texte": "Homozygote mutant",
+    "formula": "",
+    "genotypes": [
+      "56e98f5555d0d28911a9e9d2"
+    ],
+    "__v": 0,
+    "count": 15
+  },
+  {
+    "_id": "5718e862fe1305e62fa407af",
+    "code": "CYP2C19-Failed[Failed]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "genotypes": [
+      "560446df5b89b83c28ed0618"
+    ],
+    "__v": 0,
+    "count": 2
+  },
+  {
+    "_id": "5718ec7c03cc5acc2fe360b2",
+    "code": "CYP2C19-Failed[Failed]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "genotypes": [
+      "560446e05b89b83c28ed062d"
+    ],
+    "__v": 0,
+    "count": 2
+  },
+  {
+    "_id": "5718ec8703cc5acc2fe360b3",
+    "code": "CYP2C19-Failed[Failed]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "genotypes": [
+      "56425915016b16f014fe01fc"
+    ],
+    "__v": 0,
+    "count": 2
+  },
+  {
+    "_id": "572a43caf1e248d01140b57b",
+    "code": "GSTT1-GSTT1E7[] and GSTM1-GSTM1E2[AA]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "genotypes": [
+      "565ddd075202d13478675877",
+      "5640d1b8359a48765765ed74"
+    ],
+    "__v": 1,
+    "count": 0
+  },
+  {
+    "_id": "5744557aa02c837e657b999a",
+    "code": "SLCO1B1-EM",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "genotypes": [
+      "54d2d38b0da76e584a057e87"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "574455893d6911646533f748",
+    "code": "SLCO1B1-PM",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "genotypes": [
+      "54d2d38b0da76e584a057e91"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57445593a02c837e657b999b",
+    "code": "SLCO1B1-IM",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "genotypes": [
+      "54d2d38b0da76e584a057e89"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "574455f93d6911646533f749",
+    "code": "SLCO1B1-SM",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "genotypes": [
+      "54d2d38b0da76e584a057e88"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "5744594d0a938ee8389b708b",
+    "code": "TPMT-EM",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "genotypes": [
+      "54d2d38b0da76e584a057e95"
+    ],
+    "__v": 0,
+    "count": 44
+  },
+  {
+    "_id": "57445956e2a8890239184c3b",
+    "code": "TPMT-IM",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "genotypes": [
+      "54d2d38b0da76e584a057e97"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "574459670a938ee8389b708c",
+    "code": "TPMT-PM",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "genotypes": [
+      "54d2d38b0da76e584a057e9f"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57445a5fe2a8890239184c3c",
+    "code": "TPMT-SM",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "genotypes": [
+      "54d2d38b0da76e584a057e96"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57713ed9040c62be36906701",
+    "code": "CES1-rs71647871[T] and TH-rs2070762[G]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 1,
+    "count": 26
+  },
+  {
+    "_id": "57714177040c62be36906702",
+    "code": "CES1-rs71647871[CC] and LPHN3-rs6551665[AA] and LPHN3-rs1947274[AA] and LPHN3-rs6858066[GG] and TH-rs2070762[GG]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "577132dd040c62be369066f7",
+      "577135b2ee5673aa4c47407d",
+      "57713603ee5673aa4c474080",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0,
+    "isApproved": false,
+    "count": 54
+  },
+  {
+    "_id": "57714297040c62be36906703",
+    "code": "CES1-rs71647871[CC] and LPHN3-rs6551665[AT] and LPHN3-rs1947274[AA] and LPHN3-rs6858066[GG] and TH-rs2070762[CC]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "577132f1040c62be369066f8",
+      "577135b2ee5673aa4c47407d",
+      "57713603ee5673aa4c474080",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "577142db040c62be36906704",
+    "code": "CES1-rs71647871[CC] and LPHN3-rs6551665[AA] and LPHN3-rs1947274[AT] and LPHN3-rs6858066[GG] and TH-rs2070762[CC]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "577132dd040c62be369066f7",
+      "577135bd040c62be369066fd",
+      "57713603ee5673aa4c474080",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "5771430aee5673aa4c474087",
+    "code": "CES1-rs71647871[CC] and LPHN3-rs6551665[AA] and LPHN3-rs1947274[AA] and LPHN3-rs6858066[CG] and TH-rs2070762[CC]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "577132dd040c62be369066f7",
+      "577135b2ee5673aa4c47407d",
+      "577135f8ee5673aa4c47407f",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0,
+    "count": 25
+  },
+  {
+    "_id": "57714350ee5673aa4c474088",
+    "code": "CES1-rs71647871[CC] and LPHN3-rs6551665[AA] and LPHN3-rs1947274[AA] and LPHN3-rs6858066[GG] and TH-rs2070762[G]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "577132dd040c62be369066f7",
+      "577135b2ee5673aa4c47407d",
+      "57713603ee5673aa4c474080",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0,
+    "count": 196
+  },
+  {
+    "_id": "5771437fee5673aa4c474089",
+    "code": "CES1-rs71647871[CC] and LPHN3-rs6551665[AT] and LPHN3-rs1947274[AA] and LPHN3-rs6858066[GG] and TH-rs2070762[G]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "577132f1040c62be369066f8",
+      "577135b2ee5673aa4c47407d",
+      "57713603ee5673aa4c474080",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0,
+    "count": 1
+  },
+  {
+    "_id": "577143acee5673aa4c47408a",
+    "code": "CES1-rs71647871[CC] and LPHN3-rs6551665[AA] and LPHN3-rs1947274[AT] and LPHN3-rs6858066[GG] and TH-rs2070762[G]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "577132dd040c62be369066f7",
+      "577135bd040c62be369066fd",
+      "57713603ee5673aa4c474080",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "577143dbee5673aa4c47408b",
+    "code": "CES1-rs71647871[CC] and LPHN3-rs6551665[AA] and LPHN3-rs1947274[AA] and LPHN3-rs6858066[CG] and TH-rs2070762[G]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "577132dd040c62be369066f7",
+      "577135b2ee5673aa4c47407d",
+      "577135f8ee5673aa4c47407f",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0,
+    "count": 69
+  },
+  {
+    "_id": "577143fcee5673aa4c47408c",
+    "code": "CES1-rs71647871[CC] and TH-rs2070762[CC]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0,
+    "count": 256
+  },
+  {
+    "_id": "57716d20040c62be3690671d",
+    "code": "CES1-rs71647871[T] and LPHN3-rs6551665[AA] and LPHN3-rs1947274[AA] and LPHN3-rs6858066[GG] and TH-rs2070762[CC]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "577132dd040c62be369066f7",
+      "577135b2ee5673aa4c47407d",
+      "57713603ee5673aa4c474080",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0,
+    "count": 2
+  },
+  {
+    "_id": "57716d42ee5673aa4c47409c",
+    "code": "CES1-rs71647871[T] and LPHN3-rs6551665[AT] and LPHN3-rs1947274[AA] and LPHN3-rs6858066[GG] and TH-rs2070762[CC]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "577132f1040c62be369066f8",
+      "577135b2ee5673aa4c47407d",
+      "57713603ee5673aa4c474080",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57716d68040c62be3690671e",
+    "code": "CES1-rs71647871[T] and LPHN3-rs6551665[AA] and LPHN3-rs1947274[AT] and LPHN3-rs6858066[GG] and TH-rs2070762[CC]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "577132dd040c62be369066f7",
+      "577135bd040c62be369066fd",
+      "57713603ee5673aa4c474080",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57716d8d040c62be3690671f",
+    "code": "CES1-rs71647871[T] and LPHN3-rs6551665[AA] and LPHN3-rs1947274[AA] and LPHN3-rs6858066[CG] and TH-rs2070762[CC]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "577132dd040c62be369066f7",
+      "577135b2ee5673aa4c47407d",
+      "577135f8ee5673aa4c47407f",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57716db2040c62be36906720",
+    "code": "CES1-rs71647871[T] and LPHN3-rs6551665[AA] and LPHN3-rs1947274[AA] and LPHN3-rs6858066[GG] and TH-rs2070762[G]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "577132dd040c62be369066f7",
+      "577135b2ee5673aa4c47407d",
+      "57713603ee5673aa4c474080",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0,
+    "count": 7
+  },
+  {
+    "_id": "57716dd8ee5673aa4c47409d",
+    "code": "CES1-rs71647871[T] and LPHN3-rs6551665[AT] and LPHN3-rs1947274[AA] and LPHN3-rs6858066[GG] and TH-rs2070762[G]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "577132f1040c62be369066f8",
+      "577135b2ee5673aa4c47407d",
+      "57713603ee5673aa4c474080",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0,
+    "count": 1
+  },
+  {
+    "_id": "57716dfc040c62be36906721",
+    "code": "CES1-rs71647871[T] and LPHN3-rs6551665[AA] and LPHN3-rs1947274[AT] and LPHN3-rs6858066[GG] and TH-rs2070762[G]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "577132dd040c62be369066f7",
+      "577135bd040c62be369066fd",
+      "57713603ee5673aa4c474080",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57716e1fee5673aa4c47409e",
+    "code": "CES1-rs71647871[T] and LPHN3-rs6551665[AA] and LPHN3-rs1947274[AA] and LPHN3-rs6858066[CG] and TH-rs2070762[G]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "577132dd040c62be369066f7",
+      "577135b2ee5673aa4c47407d",
+      "577135f8ee5673aa4c47407f",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0,
+    "count": 9
+  },
+  {
+    "_id": "57716e35040c62be36906722",
+    "code": "CES1-rs71647871[T] and TH-rs2070762[CC]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0,
+    "count": 8
+  },
+  {
+    "_id": "57716e46ee5673aa4c47409f",
+    "code": "CES1-rs71647871[CC] and TH-rs2070762[G]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0,
+    "count": 831
+  },
+  {
+    "_id": "577e8ee1ffccc3e65c411dea",
+    "code": "CES1-rs71647871[T] and LPHN3-rs6551665[A] and LPHN3-rs1947274[A] and LPHN3-rs6858066[G] and TH-rs2070762[CC]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "576ab19a8f8b963e37d80314",
+      "576ab2d12f8d4d58371e60df",
+      "576ab3062f8d4d58371e60e1",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0,
+    "count": 3
+  },
+  {
+    "_id": "577e8f0dffccc3e65c411deb",
+    "code": "CES1-rs71647871[T] and LPHN3-rs6551665[A] and LPHN3-rs1947274[A] and LPHN3-rs6858066[G] and TH-rs2070762[G]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "576ab19a8f8b963e37d80314",
+      "576ab2d12f8d4d58371e60df",
+      "576ab3062f8d4d58371e60e1",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0,
+    "count": 23
+  },
+  {
+    "_id": "577e8f37ffccc3e65c411dec",
+    "code": "CES1-rs71647871[CC] and LPHN3-rs6551665[A] and LPHN3-rs1947274[A] and LPHN3-rs6858066[G] and TH-rs2070762[CC]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "576ab19a8f8b963e37d80314",
+      "576ab2d12f8d4d58371e60df",
+      "576ab3062f8d4d58371e60e1",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0,
+    "count": 195
+  },
+  {
+    "_id": "577e8f6ec117db005d9d010f",
+    "code": "CES1-rs71647871[CC] and LPHN3-rs6551665[A] and LPHN3-rs1947274[A] and LPHN3-rs6858066[G] and TH-rs2070762[G]",
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "576ab19a8f8b963e37d80314",
+      "576ab2d12f8d4d58371e60df",
+      "576ab3062f8d4d58371e60e1",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0,
+    "count": 577
+  },
+  {
+    "_id": "5798c0e05b9303f039db6389",
+    "code": "CYP2B6-PM",
+    "createdBy": "56a27d72e266edc85d19eab7",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "5798c0695b9303f039db6388"
+    ],
+    "__v": 0,
+    "count": 73
+  },
+  {
+    "_id": "5798c0ff13dd1e0a3aee12ee",
+    "code": "CYP2B6-IM",
+    "createdBy": "56a27d72e266edc85d19eab7",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "5798c0545b9303f039db6387"
+    ],
+    "__v": 0,
+    "count": 423
+  },
+  {
+    "_id": "5798c10e5b9303f039db638b",
+    "code": "CYP2B6-EM",
+    "createdBy": "56a27d72e266edc85d19eab7",
+    "texte": "",
+    "formula": "",
+    "reverse": false,
+    "genotypes": [
+      "5798bf6c5b9303f039db6386"
+    ],
+    "__v": 0,
+    "count": 583
+  },
+  {
+    "_id": "57d0814a30d8f840370926ab",
+    "code": "CYP3A4-EM[1/1]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 1003,
+    "reverse": false,
+    "genotypes": [
+      "55f9d8c7504e21a74258966a"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d0860f30d8f840370926ac",
+    "code": "CYP3A4-IM[1/20]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 1,
+    "reverse": false,
+    "genotypes": [
+      "56425914016b16f014fe01a4"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d086205e66b7f636b8d110",
+    "code": "CYP3A4-PM[20/20]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57d085335e66b7f636b8d10f"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d086c45e66b7f636b8d113",
+    "code": "CYP3A4-IM[1/6]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57d086a65e66b7f636b8d112"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d086ef5e66b7f636b8d114",
+    "code": "CYP3A4-PM[6/6]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57d086e330d8f840370926ae"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d0873530d8f840370926af",
+    "code": "CYP3A4-IM[1/13]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57d0871a5e66b7f636b8d115"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d087785e66b7f636b8d117",
+    "code": "CYP3A4-PM[13/13]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57d0876e5e66b7f636b8d116"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d087c430d8f840370926b1",
+    "code": "CYP3A4-IM[1/17]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57d087ba30d8f840370926b0"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d087f830d8f840370926b2",
+    "code": "CYP3A4-PM[17/17]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57d087e95e66b7f636b8d118"
+    ],
+    "__v": 0,
+    "isApproved": false
+  },
+  {
+    "_id": "57d088165e66b7f636b8d11a",
+    "code": "CYP3A4-IM[1/18]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57d0880c5e66b7f636b8d119"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d0883130d8f840370926b3",
+    "code": "CYP3A4-PM[18/18]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57d088285e66b7f636b8d11b"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d0885c30d8f840370926b4",
+    "code": "CYP3A4-IM[1/22]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 104,
+    "reverse": false,
+    "genotypes": [
+      "5602fc3076c450b96e51f65f"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d0888f5e66b7f636b8d11e",
+    "code": "CYP3A4-IM[22/22]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 5,
+    "reverse": false,
+    "genotypes": [
+      "57d088855e66b7f636b8d11d"
+    ],
+    "__v": 0,
+    "isApproved": false
+  },
+  {
+    "_id": "57d1a8a230d8f840370926c1",
+    "code": "POR-EM[rs2868177-GG]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57d1a85f5e66b7f636b8d121"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d1a8aa30d8f840370926c2",
+    "code": "POR-IM[rs2868177-GA]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57d1a86e30d8f840370926bf"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d1a8b35e66b7f636b8d122",
+    "code": "POR-PM[rs2868177-AA]",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 1,
+    "reverse": false,
+    "genotypes": [
+      "57d1a88230d8f840370926c0"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57d6d20589b00ae57dec7184",
+    "code": "HLA-DQ-DQ2/DQ8-positive",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "DQ2/DQ8-positif",
+    "formula": "",
+    "count": 188,
+    "reverse": false,
+    "genotypes": [
+      "57d6d1d56ba9f2cb7d7ffd0c"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "57d6d2226ba9f2cb7d7ffd0d",
+    "code": "HLA-DQ-DQ2/DQ8-negative",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "DQ2/DQ8-négatif",
+    "formula": "",
+    "count": 233,
+    "reverse": false,
+    "genotypes": [
+      "57d6d1c889b00ae57dec7183"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e2e43c832dc23a27dd09d0",
+    "code": "HLA-DQ-DQ2/DQ8-ambiguous",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 48,
+    "reverse": false,
+    "genotypes": [
+      "57e2e408832dc23a27dd09cf"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e42878ca13d0026ed32253",
+    "code": "CES1-rs71647871[CC] and LPHN3-rs1947274[A] and LPHN3-rs6551665[A] and LPHN3-rs6858066[G] and TH-rs2070762[A]",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 577,
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "576ab2d12f8d4d58371e60df",
+      "576ab19a8f8b963e37d80314",
+      "576ab3062f8d4d58371e60e1",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e42becca13d0026ed32254",
+    "code": "CES1-rs71647871[CC] and LPHN3-rs1947274[A] and LPHN3-rs6551665[A] and LPHN3-rs6858066[G] and TH-rs2070762[GG]",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 195,
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "576ab2d12f8d4d58371e60df",
+      "576ab19a8f8b963e37d80314",
+      "576ab3062f8d4d58371e60e1",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e439c12c50c4440f5853a3",
+    "code": "CES1-rs71647871[T] and LPHN3-rs1947274[A] and LPHN3-rs6551665[A] and LPHN3-rs6858066[A] and TH-rs2070762[GG]",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 6,
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "576ab2d12f8d4d58371e60df",
+      "576ab19a8f8b963e37d80314",
+      "576ab3188f8b963e37d80315",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e43ec62c50c4440f5853a5",
+    "code": "CES1-rs71647871[T] and LPHN3-rs1947274[A] and LPHN3-rs6551665[A] and LPHN3-rs6858066[G] and TH-rs2070762[A]",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 23,
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "576ab2d12f8d4d58371e60df",
+      "576ab19a8f8b963e37d80314",
+      "576ab3062f8d4d58371e60e1",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e442d52c50c4440f5853a9",
+    "code": "CES1-rs71647871[T] and LPHN3-rs1947274[*] and LPHN3-rs6551665[*] and LPHN3-rs6858066[*] and TH-rs2070762[GG]",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d",
+      "58233ea87ad2fd6c03bf21ba",
+      "58233ec37ad2fd6c03bf21bb",
+      "58233efca3b26e6e7a5556ea",
+      "576ab3598f8b963e37d80316"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "57e444f42c50c4440f5853ab",
+    "code": "CES1-rs71647871[T]",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 34,
+    "reverse": false,
+    "genotypes": [
+      "576ac7678f8b963e37d8031d"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e44f5a2c50c4440f5853b6",
+    "code": "CES1-rs71647871[CC] and TH-rs2070762[A]",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 831,
+    "reverse": false,
+    "genotypes": [
+      "577131beee5673aa4c474076",
+      "57714078ee5673aa4c474086"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e56b828a37fcaa45ad6e69",
+    "code": "CYP2B6-rs2279343[AG]",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 431,
+    "reverse": false,
+    "genotypes": [
+      "57e40b056f75e5be42bfde7b"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e56ba08a37fcaa45ad6e6a",
+    "code": "CYP2B6-rs2279343[GG]",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 82,
+    "reverse": false,
+    "genotypes": [
+      "57e40b056f75e5be42bfde61"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e91effcc31889045ffa51f",
+    "code": "CYP2B6-UM",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 34,
+    "reverse": false,
+    "genotypes": [
+      "57e91ed9cc31889045ffa51e"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e922e68a37fcaa45ad6e8b",
+    "code": "CYP2B6-UM[4/6]",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 11,
+    "reverse": false,
+    "genotypes": [
+      "57e92282cc31889045ffa521"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e93436161a8c8d018fa15a",
+    "code": "CYP2B6-UM[4/6] and POR-IM",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 1,
+    "reverse": false,
+    "genotypes": [
+      "57e92282cc31889045ffa521",
+      "57e56f41cc31889045ffa515"
+    ],
+    "__v": 2
+  },
+  {
+    "_id": "57e93472bd5cb52d7f28b03c",
+    "code": "CYP2B6-UM[4/6] and POR-PM",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57e57ade8a37fcaa45ad6e77",
+      "57e937e5bd5cb52d7f28b041"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "57e934f8161a8c8d018fa15c",
+    "code": "CYP2B6-UM[1/4] and POR-EM",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57e56f8a8a37fcaa45ad6e73",
+      "57e937f5161a8c8d018fa164"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "57e935bfbd5cb52d7f28b03d",
+    "code": "CYP2B6-UM[4/4] and POR-EM",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57e935a2161a8c8d018fa15d",
+      "57e937f5161a8c8d018fa164"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "57e935d3bd5cb52d7f28b03e",
+    "code": "CYP2B6-UM[4/6] and POR-EM",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57e57ade8a37fcaa45ad6e77",
+      "57e937f5161a8c8d018fa164"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "57e93639161a8c8d018fa15f",
+    "code": "CYP2B6-UM[1/4] and POR-IM",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 1,
+    "reverse": false,
+    "genotypes": [
+      "57e56f8a8a37fcaa45ad6e73",
+      "57e56f41cc31889045ffa515"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "57e93653bd5cb52d7f28b03f",
+    "code": "CYP2B6-UM[1/4] and POR-PM",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57e56f8a8a37fcaa45ad6e73",
+      "57e937e5bd5cb52d7f28b041"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "57e93665161a8c8d018fa160",
+    "code": "CYP2B6-UM[4/4] and POR-IM",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57e935a2161a8c8d018fa15d",
+      "57e56f41cc31889045ffa515"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "57e936e1161a8c8d018fa162",
+    "code": "CYP2B6-UM[4/4] and POR-PM",
+    "isApproved": false,
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "57e935a2161a8c8d018fa15d",
+      "57e937e5bd5cb52d7f28b041"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "57e939aebd5cb52d7f28b042",
+    "code": "CYP2B6-EM and POR-EM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 1,
+    "reverse": false,
+    "genotypes": [
+      "5798bf6c5b9303f039db6386",
+      "57e937f5161a8c8d018fa164"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e93a06bd5cb52d7f28b044",
+    "code": "CYP2B6-EM and POR-IM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 2,
+    "reverse": false,
+    "genotypes": [
+      "5798bf6c5b9303f039db6386",
+      "57e56f41cc31889045ffa515"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e93a41161a8c8d018fa166",
+    "code": "CYP2B6-IM and POR-EM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "5798c0545b9303f039db6387",
+      "57e937f5161a8c8d018fa164"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e93a84bd5cb52d7f28b047",
+    "code": "CYP2B6-PM and POR-EM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "5798c0695b9303f039db6388",
+      "57e937f5161a8c8d018fa164"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e93ac9bd5cb52d7f28b048",
+    "code": "CYP2B6-PM and POR-IM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "5798c0695b9303f039db6388",
+      "57e56f41cc31889045ffa515"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e93ae3161a8c8d018fa168",
+    "code": "CYP2B6-PM and POR-PM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "5798c0695b9303f039db6388",
+      "57e937e5bd5cb52d7f28b041"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e93b3c161a8c8d018fa16a",
+    "code": "CYP2B6-EM and POR-PM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 3,
+    "reverse": false,
+    "genotypes": [
+      "5798bf6c5b9303f039db6386",
+      "57e937e5bd5cb52d7f28b041"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e93b7fbd5cb52d7f28b049",
+    "code": "CYP2B6-IM and POR-IM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 6,
+    "reverse": false,
+    "genotypes": [
+      "5798c0545b9303f039db6387",
+      "57e56f41cc31889045ffa515"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "57e93bb9161a8c8d018fa16d",
+    "code": "CYP2B6-IM and POR-PM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 4,
+    "reverse": false,
+    "genotypes": [
+      "5798c0545b9303f039db6387",
+      "57e937e5bd5cb52d7f28b041"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "585abe01887063ac68a060c0",
+    "code": "CYP2C19-RM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 209,
+    "reverse": false,
+    "genotypes": [
+      "585abde3b43f121111345d44"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "585abf9db43f121111345d45",
+    "code": "CYP2D6-EM and CYP2C19-RM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 116,
+    "reverse": false,
+    "genotypes": [
+      "54d2d38b0da76e584a057e5d",
+      "585abde3b43f121111345d44"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "585abfb3b43f121111345d46",
+    "code": "CYP2D6-IM and CYP2C19-RM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 66,
+    "reverse": false,
+    "genotypes": [
+      "54d2d38b0da76e584a057e5f",
+      "585abde3b43f121111345d44"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "585abfcf887063ac68a060c1",
+    "code": "CYP2D6-PM and CYP2C19-RM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 12,
+    "reverse": false,
+    "genotypes": [
+      "54d2d38b0da76e584a057e67",
+      "585abde3b43f121111345d44"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "585abfe1b43f121111345d47",
+    "code": "CYP2D6-UM and CYP2C19-RM",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 13,
+    "reverse": false,
+    "genotypes": [
+      "54d2d38b0da76e584a057e60",
+      "585abde3b43f121111345d44"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "588b8e7bde818a3f64d5e376",
+    "code": "CYP3A5-Failed[Failed]",
+    "isApproved": false,
+    "createdBy": "54a0895ad726eb5917743497",
+    "texte": "",
+    "formula": "",
+    "count": 1,
+    "reverse": false,
+    "genotypes": [
+      "560446df5b89b83c28ed0614"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59e0fa8b0bb924ad1a7b3713",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "F5-rs6025[CC]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "5898dd8a9feb21c67b15df6c"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "59e11ce258d6e5ea417d2c15",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "F5-rs6025[CT]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "58a314eeb1b888703b11d634"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59e11cee95c9a48f41fcd0e6",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "F5-rs6025[TT]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59e0fe4c665fdc0f1bf075f5"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59e7a63b814c31222c1aaeff",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "UGT1A1-EM[1/1]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "5602fc3076c450b96e51f649"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59e7a64f6d3d3ca22ccf309f",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "UGT1A1-IM[1/28]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "5925c6f2cb37dc4662bd3ab1"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59e7a754814c31222c1aaf03",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "UGT1A1-PM[28/28]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59e7a6926d3d3ca22ccf30a0"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59e7c5b0ea3d9bbd5d7f641e",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "IFNL3-rs12979860[CC]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59e7c540814c31222c1aaf3e"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59e7c5b8ea3d9bbd5d7f641f",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "IFNL3-rs12979860[CT]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59e7c56fea3d9bbd5d7f641b"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59e7c5beea3d9bbd5d7f6420",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "IFNL3-rs12979860[TT]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59e7c590ea3d9bbd5d7f641d"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59ea4b74814c31222c1ab003",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "CFTR-rs75527207[AA]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59ea4af9814c31222c1ab000"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59ea4b7cea3d9bbd5d7f64ae",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "CFTR-rs75527207[AG]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59ea4b09814c31222c1ab001"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59ea4b83814c31222c1ab005",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "CFTR-rs75527207[GG]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59ea4b66814c31222c1ab002"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59f0978e1b32c685591be3aa",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "HLA-B[58:01/58:01]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59ef9cdba158f1245a00c342"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59f097981b32c685591be3ab",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "HLA-B[X/X]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59ef9cea1b32c685591be39c"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59f097a1a158f1245a00c34b",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "HLA-B[58:01/X]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59ef9d83a158f1245a00c348"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59f1f5e780ca52d42b0ccc74",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "HLA-B[57:01/X]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59f1f57e6f08fd342beeb0b6"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59f1f5f06f08fd342beeb0b8",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "HLA-B[57:01/57:01]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59f1f58980ca52d42b0ccc71"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59f344804143915a5fda9649",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "HLA-B[15:02/15:02]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59f3446a617a9d36374556fd"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "59f3448b617a9d36374556fe",
+    "createdBy": "564114ccc1bd045a3bfa14ef",
+    "code": "HLA-B[15:02/X]",
+    "isApproved": false,
+    "texte": "",
+    "formula": "",
+    "count": 0,
+    "reverse": false,
+    "genotypes": [
+      "59f344754143915a5fda9648"
+    ],
+    "__v": 0
+  }
+]

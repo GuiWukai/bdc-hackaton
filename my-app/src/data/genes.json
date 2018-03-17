@@ -1,0 +1,792 @@
+[
+  {
+    "_id": "54ada69a57459aa1ad237866",
+    "notes": "",
+    "geneId": "CYP2D6",
+    "__v": 10,
+    "phenotypes": [
+      "54d2bb31d1b0ac834643a6d8",
+      "54b192cc5a14e9accaaadcda",
+      "54af5947afa74666b8eb9218",
+      "54b193035a14e9accaaadcdc",
+      "54b191f35a14e9accaaadcd4",
+      "54c3ad1e828896428acd9fda",
+      "54d2baecd1b0ac834643a6d7",
+      "54af58b1afa74666b8eb9211",
+      "56425914016b16f014fe0188",
+      "56425915016b16f014fe023c",
+      "56425915016b16f014fe0302",
+      "5697ed4bef1e94d937e9ac5c",
+      "56e091f82e1f69d905b557cc"
+    ],
+    "SNPs": [],
+    "description": "",
+    "description_en": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "54ada6df57459aa1ad237867",
+    "geneId": "CYP2C19",
+    "__v": 5,
+    "notes": "",
+    "phenotypes": [
+      "54d2bb31d1b0ac834643a6d8",
+      "54b192cc5a14e9accaaadcda",
+      "54af5947afa74666b8eb9218",
+      "54b193035a14e9accaaadcdc"
+    ],
+    "SNPs": [],
+    "description": "",
+    "description_en": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "54af55fa3e2a55d0b6bc1cc7",
+    "notes": "",
+    "geneId": "CYP2C9",
+    "__v": 3,
+    "phenotypes": [
+      "54d2bb31d1b0ac834643a6d8",
+      "54b192cc5a14e9accaaadcda",
+      "54af5947afa74666b8eb9218",
+      "54b193035a14e9accaaadcdc"
+    ],
+    "SNPs": []
+  },
+  {
+    "_id": "54af56063e2a55d0b6bc1cc8",
+    "notes": "",
+    "geneId": "SLCO1B1",
+    "__v": 3,
+    "phenotypes": [
+      "54d2baecd1b0ac834643a6d7",
+      "54c3ad1e828896428acd9fda",
+      "54b191f35a14e9accaaadcd4",
+      "54af58b1afa74666b8eb9211"
+    ],
+    "SNPs": []
+  },
+  {
+    "_id": "54af56123e2a55d0b6bc1cc9",
+    "notes": "",
+    "geneId": "TPMT",
+    "__v": 3,
+    "phenotypes": [
+      "54d2baecd1b0ac834643a6d7",
+      "54c3ad1e828896428acd9fda",
+      "54b191f35a14e9accaaadcd4",
+      "54af58b1afa74666b8eb9211"
+    ],
+    "SNPs": []
+  },
+  {
+    "_id": "54af561c3e2a55d0b6bc1cca",
+    "notes": "",
+    "geneId": "VKORC1",
+    "__v": 5,
+    "phenotypes": [
+      "54d2baecd1b0ac834643a6d7",
+      "54c3ad1e828896428acd9fda",
+      "54b191f35a14e9accaaadcd4",
+      "56043a7f10dc234b1dc8d8ca"
+    ],
+    "SNPs": []
+  },
+  {
+    "_id": "55f99ee4cbc20fa408f35c10",
+    "notes": "",
+    "geneId": "NAT1",
+    "phenotypes": [
+      "54d2baecd1b0ac834643a6d7",
+      "54c3ad1e828896428acd9fda",
+      "54b191f35a14e9accaaadcd4",
+      "54af58b1afa74666b8eb9211"
+    ],
+    "__v": 3,
+    "SNPs": []
+  },
+  {
+    "_id": "55f99efecbc20fa408f35c11",
+    "notes": "",
+    "geneId": "NAT2",
+    "phenotypes": [
+      "54d2baecd1b0ac834643a6d7",
+      "54c3ad1e828896428acd9fda",
+      "54b191f35a14e9accaaadcd4",
+      "54af58b1afa74666b8eb9211"
+    ],
+    "__v": 3,
+    "SNPs": []
+  },
+  {
+    "_id": "55f9a0bfcbc20fa408f35c12",
+    "notes": "",
+    "geneId": "ABCB1",
+    "phenotypes": [
+      "54d2baecd1b0ac834643a6d7",
+      "54c3ad1e828896428acd9fda",
+      "54b191f35a14e9accaaadcd4",
+      "54af58b1afa74666b8eb9211",
+      "560446df5b89b83c28ed0611",
+      "560446df5b89b83c28ed061b"
+    ],
+    "__v": 7,
+    "SNPs": []
+  },
+  {
+    "_id": "55f9a0d8cbc20fa408f35c13",
+    "notes": "",
+    "geneId": "CYP2B6",
+    "phenotypes": [
+      "54d2bb31d1b0ac834643a6d8",
+      "54b192cc5a14e9accaaadcda",
+      "54af5947afa74666b8eb9218",
+      "54b193035a14e9accaaadcdc"
+    ],
+    "__v": 6,
+    "SNPs": [
+      "rs3745274",
+      "rs2279343",
+      "rs28399499",
+      "rs8192709",
+      "rs34097093",
+      "rs12721655",
+      "rs3211371",
+      "rs34223104"
+    ],
+    "description": "",
+    "description_en": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "55f9a0efcbc20fa408f35c14",
+    "notes": "",
+    "geneId": "CYP2E1",
+    "phenotypes": [
+      "54d2bb31d1b0ac834643a6d8",
+      "54b192cc5a14e9accaaadcda",
+      "54af5947afa74666b8eb9218",
+      "54b193035a14e9accaaadcdc"
+    ],
+    "__v": 1,
+    "SNPs": []
+  },
+  {
+    "_id": "55f9a105cbc20fa408f35c15",
+    "notes": "",
+    "geneId": "CYP3A4",
+    "phenotypes": [
+      "54d2bb31d1b0ac834643a6d8",
+      "54b192cc5a14e9accaaadcda",
+      "54af5947afa74666b8eb9218",
+      "54b193035a14e9accaaadcdc"
+    ],
+    "__v": 4,
+    "SNPs": [
+      "rs55785340",
+      "rs4646438",
+      "rs4986909",
+      "rs4987161",
+      "rs28371759",
+      "rs67666821",
+      "rs35599367"
+    ],
+    "description": "",
+    "description_en": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "55f9a11bcbc20fa408f35c16",
+    "notes": "",
+    "geneId": "CYP3A5",
+    "phenotypes": [
+      "54d2bb31d1b0ac834643a6d8",
+      "54b192cc5a14e9accaaadcda",
+      "54af5947afa74666b8eb9218",
+      "54b193035a14e9accaaadcdc"
+    ],
+    "__v": 2,
+    "SNPs": []
+  },
+  {
+    "_id": "55f9a13bcbc20fa408f35c17",
+    "notes": "",
+    "geneId": "UGT1A1",
+    "phenotypes": [
+      "54d2bb31d1b0ac834643a6d8",
+      "54b192cc5a14e9accaaadcda",
+      "54af5947afa74666b8eb9218",
+      "54b193035a14e9accaaadcdc"
+    ],
+    "__v": 2,
+    "SNPs": []
+  },
+  {
+    "_id": "55f9a156cbc20fa408f35c18",
+    "notes": "",
+    "geneId": "CYP1A2",
+    "phenotypes": [
+      "54d2bb31d1b0ac834643a6d8",
+      "54b192cc5a14e9accaaadcda",
+      "54af5947afa74666b8eb9218",
+      "54b193035a14e9accaaadcdc",
+      "560446df5b89b83c28ed0615"
+    ],
+    "__v": 9,
+    "SNPs": [
+      "rs762551"
+    ],
+    "description": "",
+    "description_en": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "5640cb8169fa7c0f543cbdfb",
+    "notes": "",
+    "geneId": "NOS3",
+    "phenotypes": [],
+    "__v": 1,
+    "SNPs": [
+      "rs1799983"
+    ],
+    "description": "",
+    "description_en": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "5640cfb6359a48765765ed6d",
+    "notes": "",
+    "geneId": "GSTT1",
+    "phenotypes": [],
+    "__v": 1,
+    "SNPs": [
+      "GSTT1E7"
+    ]
+  },
+  {
+    "_id": "5640cfbd359a48765765ed6e",
+    "notes": "",
+    "geneId": "GSTM1",
+    "phenotypes": [],
+    "__v": 1,
+    "SNPs": [
+      "GSTM1E2"
+    ]
+  },
+  {
+    "_id": "5640d39a359a48765765ed83",
+    "notes": "",
+    "geneId": "MTHFR",
+    "phenotypes": [],
+    "__v": 1,
+    "SNPs": [
+      "rs1801133"
+    ],
+    "description": "",
+    "description_en": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "5640d6af0d13984f5ca37aaa",
+    "notes": "",
+    "geneId": "TCF7L2",
+    "phenotypes": [],
+    "__v": 1,
+    "SNPs": [
+      "rs12255372"
+    ],
+    "description": "",
+    "description_en": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "5640eaa9cfbd4fb45d07485e",
+    "notes": "",
+    "geneId": "ACE",
+    "phenotypes": [],
+    "__v": 1,
+    "SNPs": [
+      "rs4343"
+    ],
+    "description": "",
+    "description_en": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "5640ed50cfbd4fb45d074872",
+    "notes": "",
+    "geneId": "CYP2R1",
+    "phenotypes": [],
+    "__v": 1,
+    "SNPs": [
+      "rs10741657"
+    ]
+  },
+  {
+    "_id": "5640ed54cfbd4fb45d074873",
+    "notes": "",
+    "geneId": "GC",
+    "phenotypes": [],
+    "__v": 1,
+    "SNPs": [
+      "rs2282679"
+    ]
+  },
+  {
+    "_id": "5640ed5ccfbd4fb45d074874",
+    "notes": "",
+    "geneId": "DHCR7",
+    "phenotypes": [],
+    "__v": 2,
+    "SNPs": [
+      "rs12785878"
+    ]
+  },
+  {
+    "_id": "5640feb5cfbd4fb45d07489e",
+    "notes": "",
+    "geneId": "APOA2",
+    "phenotypes": [],
+    "__v": 1,
+    "SNPs": [
+      "rs5082"
+    ],
+    "description": "",
+    "description_en": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "5640ff61cfbd4fb45d0748a8",
+    "notes": "",
+    "geneId": "LCT",
+    "phenotypes": [],
+    "__v": 1,
+    "SNPs": [
+      "rs4988235"
+    ],
+    "description": "",
+    "description_en": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "5660602666c0151b43dee303",
+    "notes": "",
+    "SNPs": [
+      "rs2187668",
+      "rs2395182",
+      "rs4639334",
+      "rs4713586",
+      "rs7454108",
+      "rs7775228"
+    ],
+    "geneId": "HLA-DQ",
+    "phenotypes": [],
+    "__v": 1,
+    "description": "",
+    "description_en": ""
+  },
+  {
+    "_id": "568d5eb4fc86a71758b7991c",
+    "notes": "",
+    "geneId": "DPYD",
+    "SNPs": [],
+    "phenotypes": [
+      "54b191f35a14e9accaaadcd4",
+      "54c3ad1e828896428acd9fda",
+      "54d2baecd1b0ac834643a6d7",
+      "54af5947afa74666b8eb9218",
+      "54d2bb31d1b0ac834643a6d8",
+      "54b192cc5a14e9accaaadcda",
+      "54b193035a14e9accaaadcdc"
+    ],
+    "__v": 3,
+    "description": "",
+    "description_en": ""
+  },
+  {
+    "_id": "56c4edb431ff2d4f2090760f",
+    "notes": "",
+    "geneId": "CYP2C8",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "56e98109dd9a70a311bfc552",
+    "notes": "Level 2B/3 evidence PharmGKB",
+    "geneId": "OPRM1",
+    "SNPs": [
+      "rs1799971"
+    ],
+    "phenotypes": [],
+    "__v": 1,
+    "description": "Récepteur opiacé, mu 1",
+    "description_en": "Opioid Receptor, mu 1"
+  },
+  {
+    "_id": "56ec5db82e17d4ea2badab61",
+    "notes": "ANKK1/DRD2",
+    "geneId": "ANKK1",
+    "SNPs": [
+      "rs1800497"
+    ],
+    "phenotypes": [],
+    "__v": 1,
+    "description": "Ankyrin repeat and kinase domain containing 1",
+    "description_en": "Ankyrin repeat and kinase domain containing 1"
+  },
+  {
+    "_id": "56ec833b2e17d4ea2badab66",
+    "notes": "",
+    "geneId": "SACS",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "56fa7e96c9785f2c1bdf2dab",
+    "notes": "",
+    "geneId": "IFNL3",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "56fa7fb1c9785f2c1bdf2dac",
+    "notes": "",
+    "geneId": "HLA-A",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "56fa7fbacd71c9901ba9aeb4",
+    "notes": "",
+    "geneId": "HLA-B",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "570413eba84edf834f8d49fe",
+    "notes": "",
+    "geneId": "DAT1/SLC6A3",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "570413fbb136099d4fe3038f",
+    "notes": "",
+    "geneId": "DBH",
+    "SNPs": [
+      "rs77905",
+      "rs2007153",
+      "rs2797853"
+    ],
+    "phenotypes": [],
+    "__v": 1,
+    "description": "Dopamine beta-hydroxylase",
+    "description_en": "Dopamine beta-hydroxylase"
+  },
+  {
+    "_id": "57041403a84edf834f8d49ff",
+    "notes": "",
+    "geneId": "DRD3",
+    "SNPs": [
+      "rs1800828",
+      "rs2134655"
+    ],
+    "phenotypes": [],
+    "__v": 1,
+    "description": "Récepteur D3 de la dopamine",
+    "description_en": "Dopamine D3 receptor"
+  },
+  {
+    "_id": "57041409b136099d4fe30390",
+    "notes": "",
+    "geneId": "TH",
+    "SNPs": [
+      "rs2070762"
+    ],
+    "phenotypes": [],
+    "__v": 2,
+    "description": "Tyrosine Hydroxylase",
+    "description_en": "Tyrosine Hydroxylase",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "57041410b136099d4fe30391",
+    "notes": "",
+    "geneId": "LPHN3",
+    "SNPs": [
+      "rs1947274",
+      "rs6551665",
+      "rs6858066"
+    ],
+    "phenotypes": [],
+    "__v": 2,
+    "description": "Latrophilin 3",
+    "description_en": "Latrophilin 3",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "5755d4f3630a60b3543b7be5",
+    "notes": "Level 2B evidence on PharmGKB",
+    "geneId": "FKBP5",
+    "SNPs": [
+      "rs4713916"
+    ],
+    "phenotypes": [],
+    "__v": 1,
+    "description": "",
+    "description_en": ""
+  },
+  {
+    "_id": "57596dc756b5cb577431ba55",
+    "notes": "PGx for MPH",
+    "geneId": "CES1",
+    "SNPs": [
+      "rs71647871"
+    ],
+    "phenotypes": [],
+    "__v": 2,
+    "description": "",
+    "description_en": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "57596e1f4fde3b0d749ad62f",
+    "notes": "PGx Bupropion",
+    "geneId": "POR",
+    "SNPs": [
+      "rs2868177"
+    ],
+    "phenotypes": [],
+    "__v": 2,
+    "description": "P450 Oxidoreductase",
+    "description_en": "P450 Oxidoreductase",
+    "mafJSON_en": "",
+    "mafJSON_fr": ""
+  },
+  {
+    "_id": "57596e9c4fde3b0d749ad630",
+    "notes": "rs4680 = Val158Met",
+    "geneId": "COMT",
+    "SNPs": [
+      "rs4680"
+    ],
+    "phenotypes": [],
+    "__v": 1,
+    "description": "Catechol-O-methyltransferase",
+    "description_en": "Catechol-O-methyltransferase"
+  },
+  {
+    "_id": "57596ee14fde3b0d749ad631",
+    "notes": "rs1800544 = -1291 C>G",
+    "geneId": "ADRA2A",
+    "SNPs": [
+      "rs1800544"
+    ],
+    "phenotypes": [],
+    "__v": 1,
+    "description": "Récepteur adrénergique alpha-2A",
+    "description_en": "Alpha-2A adrenergic receptor"
+  },
+  {
+    "_id": "57ee8c24a58bc6020a5f2f2a",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "SLC15A2",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0,
+    "description": "",
+    "description_en": ""
+  },
+  {
+    "_id": "57ee8d36b00d063b0a601a26",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "SLC22A1",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee8d5fa58bc6020a5f2f2b",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "SLC22A2",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee8d6ba58bc6020a5f2f2c",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "SLC22A6",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee8f1ca58bc6020a5f2f2d",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "SULT1A1",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee8f5fa58bc6020a5f2f2e",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "UGT2B15",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee8f67b00d063b0a601a28",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "UGT2B7",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee8fcdb00d063b0a601a29",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "UGTB17",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee9018a58bc6020a5f2f2f",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "ABCC2",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee9022b00d063b0a601a2a",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "ABCG2",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee9189a58bc6020a5f2f30",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "CYP1A1",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee935ba58bc6020a5f2f31",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "CYP2A6",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee95bfb00d063b0a601a2b",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "GSTP1",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee9afbb00d063b0a601a2d",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "SLCO2B1",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "57ee9b56b00d063b0a601a2e",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "SLCO1B3",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "59a5d071bbbeb68a18b716be",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "F2",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "59e0fe1f665fdc0f1bf075f4",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "F5",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  },
+  {
+    "_id": "59ea4a6b814c31222c1aafff",
+    "notes": "",
+    "mafJSON_en": "",
+    "mafJSON_fr": "",
+    "geneId": "CFTR",
+    "SNPs": [],
+    "phenotypes": [],
+    "__v": 0
+  }
+]
