@@ -1,0 +1,79 @@
+{
+  "name": "Jack Daniels",
+  "birthday": "2001-01-01",
+  "gender": "male",
+  "phenotypes": [
+    {
+      "_id": "5aa552a8f0be1426ee4a6c31",
+      "name":
+        "Handedness : Left-handed in hockey and dominant left handed clapping; everything else right handed",
+      "characteristic": "Handedness",
+      "texte":
+        "Left-handed in hockey and dominant left handed clapping; everything else right handed",
+      "__v": 0
+    },
+    {
+      "_id": "5aa552a8f0be1426ee4a6c19",
+      "name": "Lactose intolerance : Lactose-intolerant",
+      "characteristic": "Lactose intolerance",
+      "texte": "Lactose-intolerant",
+      "__v": 0
+    },
+    {
+      "_id": "5aa552a8f0be1426ee4a6c45",
+      "name": "white skin : Tan skin",
+      "characteristic": "white skin",
+      "texte": "Tan skin",
+      "__v": 0
+    },
+    {
+      "_id": "5aa552a8f0be1426ee4a6c72",
+      "name": "Beard Color : Blonde",
+      "characteristic": "Beard Color",
+      "texte": "Blonde",
+      "__v": 0
+    },
+    {
+      "_id": "5aa552a8f0be1426ee4a6c70",
+      "name": "Ability to find a bug in openSNP : C-c-combo breaker!",
+      "characteristic": "Ability to find a bug in openSNP",
+      "texte": "C-c-combo breaker!",
+      "__v": 0
+    },
+    {
+      "_id": "5aa552a8f0be1426ee4a6caf",
+      "name": "Hair Color : Reddish-brown",
+      "characteristic": "Hair Color",
+      "texte": "Reddish-brown",
+      "__v": 0
+    },
+    {
+      "_id": "5aa552a8f0be1426ee4a6cd3",
+      "name": "Height : 180cm",
+      "characteristic": "Height",
+      "texte": "180cm",
+      "__v": 0
+    },
+    {
+      "_id": "5aa552a8f0be1426ee4a6d25",
+      "name": "Height : 191cm",
+      "characteristic": "Height",
+      "texte": "191cm",
+      "__v": 0
+    },
+    {
+      "_id": "5aa552a8f0be1426ee4a6d48",
+      "name": "Hair Type : Born thick and wavy, now fine and wavy",
+      "characteristic": "Hair Type",
+      "texte": "Born thick and wavy, now fine and wavy",
+      "__v": 0
+    },
+    {
+      "_id": "5aa552a8f0be1426ee4a6d7e",
+      "name": "Coffee consumption : 1 cup/dday",
+      "characteristic": "Coffee consumption",
+      "texte": "1 cup/dday",
+      "__v": 0
+    }
+  ]
+}
