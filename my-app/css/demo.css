@@ -194,7 +194,7 @@ main {
 	position: relative;
 	width: 500px;
 	max-width: 100%;
-	margin: 0 0 0 auto;
+	margin: 0 0 0 60vw;
 	cursor: pointer;
 	-webkit-user-select: none;
 	-moz-user-select: none;
@@ -369,8 +369,8 @@ main {
 }
 
 .custom-description:nth-of-type(even){
-	right: 50px;
+	right: 100px;
 }
 .custom-description:nth-of-type(odd){
-	left: 50px;
+	left: 100px;
 }
