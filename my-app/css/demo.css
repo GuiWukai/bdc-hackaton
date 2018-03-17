@@ -326,6 +326,17 @@ main {
 	fill: #dcdcde;
 }
 
+.welcome_user{
+	width:100vw;
+	height:20vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2rem;
+	text-align: center;
+	font-weight: 500;
+}
+
 @media screen and (max-width: 60em) {
 	.item:first-of-type {
 		grid-column: span 2;
