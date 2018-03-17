@@ -360,3 +360,8 @@ main {
 		min-height: 360px;
 	}
 }
+
+.custom-description {
+	position: absolute;
+	
+}
