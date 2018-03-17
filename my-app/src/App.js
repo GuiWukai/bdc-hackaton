@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Route, Switch, Link } from "react-router-dom";
-import { NavigationBar } from "./components";
 import { HomePage, Page1, Page2 } from "./pages";
 import { Layout, Menu, Breadcrumb } from "antd";
 import "./App.css";
