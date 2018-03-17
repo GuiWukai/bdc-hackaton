@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { Route, Switch, Link } from "react-router-dom";
-import { NavigationBar } from "./components";
-import { HomePage, Page1, Page2 } from "./pages";
+import { HomePage, Data, Profile } from "./pages";
 import { Layout, Menu, Breadcrumb } from "antd";
 import "./App.css";
 const { Header, Content, Footer } = Layout;
@@ -13,7 +12,7 @@ class App extends Component {
         <Layout className="layout">
           <Header>
             <div className="logo">
-              <Link to="/">Website Title</Link>
+              <Link to="/">Biogeniq</Link>
             </div>
             <Menu
               theme="dark"
@@ -22,12 +21,11 @@ class App extends Component {
               style={{ lineHeight: "64px" }}
             >
               <Menu.Item key="1">
-                <Link to="/page1">Page 1</Link>
+                <Link to="/page1">Data</Link>
               </Menu.Item>
               <Menu.Item key="2">
-                <Link to="/page2">Page 2</Link>
+                <Link to="/page2">Profile</Link>
               </Menu.Item>
-              <Menu.Item key="3">Page 3</Menu.Item>
             </Menu>
           </Header>
           <Content style={{ padding: "0 50px" }}>
@@ -39,8 +37,8 @@ class App extends Component {
             <div style={{ background: "#fff", padding: 24, minHeight: 280 }}>
               <Switch>
                 <Route exact path="/" component={HomePage} />
-                <Route path="/page1" component={Page1} />
-                <Route path="/page2" component={Page2} />
+                <Route path="/data" component={Data} />
+                <Route path="/profile" component={Profile} />
               </Switch>
             </div>
           </Content>

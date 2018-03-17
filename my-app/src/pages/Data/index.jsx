@@ -1,6 +1,6 @@
 import React from "react"
 
-export class Page1 extends React.Component {
+export class Data extends React.Component {
     render(){
         return(<div>page1</div>)
     }
