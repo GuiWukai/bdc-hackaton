@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "56293571bd2c79ade1357095",
+    "premiseClient": "",
+    "nutrimentName": "Oméga-3",
+    "nutrimentId": "Omega-3",
+    "relatedGenes": [
+      "5640cb8169fa7c0f543cbdfb"
+    ],
+    "__v": 1,
+    "about": "<p>Les om&eacute;ga-3 sont des acides gras polyinsatur&eacute;s aux nombreux effets b&eacute;n&eacute;fiques pour la sant&eacute;. Il existe trois types d&rsquo;om&eacute;ga-3: les AAL (acides alpha-linol&eacute;niques), les AEP (acides eicosapentano&iuml;ques) et les ADH (acides docosahexano&iuml;ques). Plus particuli&egrave;rement, les om&eacute;ga-3 de types AEP et ADH ont d&eacute;montr&eacute; leurs effets positifs sur les syst&egrave;mes immunitaire et cardiovasculaire par leurs propri&eacute;t&eacute;s anti-coagulantes et anti-inflammatoires. De r&eacute;centes publications supportent un lien entre une variation sur le g&egrave;ne <em>NOS3</em>, les quantit&eacute;s d&rsquo;om&eacute;ga-3 consomm&eacute;es et les taux de triglyc&eacute;rides sanguins. Soulignons que des triglyc&eacute;rides sup&eacute;rieurs &agrave; la normale peuvent contribuer au d&eacute;veloppement d&rsquo;un syndrome m&eacute;tabolique, mettant &agrave; risque de maladies cardiovasculaires.</p>",
+    "geneticsAbout": "<p>Le g&egrave;ne <em>NOS3</em> produit l&rsquo;enzyme oxyde nitrique synth&eacute;tase 3 qui est impliqu&eacute;e dans plusieurs processus dans le corps. Une variation au marqueur rs1799983 sur ce g&egrave;ne est associ&eacute;e &agrave; une augmentation des triglyc&eacute;rides sanguins et des risques de maladies cardiovasculaires en cas de faible apport alimentaire en om&eacute;ga-3. Les individus poss&eacute;dant le diplotype GT&nbsp;ou TT&nbsp;sur le g&egrave;ne <em>NOS3</em> ont ainsi un taux de triglyc&eacute;rides plus sensible aux variations d&rsquo;apport en om&eacute;ga-3. Chez ces individus, une alimentation faible en acides gras om&eacute;ga-3 est associ&eacute;e &agrave; un taux &eacute;lev&eacute; de triglyc&eacute;rides alors qu&rsquo;une augmentation des apports en om&eacute;ga-3 diminue significativement ce taux.</p>",
+    "label": "OMEGA-3 ACIDES GRAS",
+    "tagLine": "Priorisez les bons gras pour un coeur en santé",
+    "titleLine": "OMEGA-3, ACIDES GRAS",
+    "nutrimentAboutTitle_fr": "À propos des acides gras oméga-3",
+    "nutrimentGeneticsAboutTitle_fr": "La génétique et les acides gras oméga-3"
+  },
+  {
+    "_id": "5640d201359a48765765ed77",
+    "premiseClient": "",
+    "nutrimentName": "Vitamine C",
+    "nutrimentId": "Vitamin-C",
+    "relatedGenes": [
+      "5640cfbd359a48765765ed6e",
+      "5640cfb6359a48765765ed6d"
+    ],
+    "__v": 0,
+    "about": "<p>Non seulement essentielle &agrave; la formation du collag&egrave;ne, cette vitamine soluble dans l&rsquo;eau est un excellent antioxydant. &Eacute;galement connue sous le nom d&rsquo;acide ascorbique, la vitamine C est donc capable de neutraliser les radicaux libres qui attaquent quotidiennement l&rsquo;ensemble de nos cellules. Le pouvoir antioxydant de la vitamine C aide &agrave; prot&eacute;ger contre le d&eacute;veloppement de l&rsquo;ath&eacute;roscl&eacute;rose, du diab&egrave;te de type 2 et de certains cancers. L&rsquo;&eacute;tude de cohorte EPIC-Norfolk a d&eacute;montr&eacute; qu&rsquo;une consommation appropri&eacute;e de vitamine C aidait &agrave; diminuer de 20% toutes causes de maladies confondues.</p>",
+    "geneticsAbout": "<p>Plusieurs g&egrave;nes ont &eacute;t&eacute; identifi&eacute;s comme ayant une influence sur le transport, l&rsquo;absorption et la r&eacute;gulation de la vitamine C. Parmi ceux-ci, les g&egrave;nes <em>GSTT1</em> et <em>GSTM1</em> codent pour des enzymes impliqu&eacute;es dans le recyclage de la vitamine C dans le corps. Des &eacute;tudes supportent une corr&eacute;lation entre le diplotype *0/*0 sur les g&egrave;nes <em>GSTT1</em> et <em>GSTM1</em> et une plus faible concentration sanguine de vitamine C comparativement aux individus porteurs d&rsquo;au moins un variant *1.</p>",
+    "label": "Vitamine C",
+    "tagLine": "Aidez votre corps à combattre le stress oxydatif",
+    "titleLine": "VITAMINE C",
+    "nutrimentAboutTitle_fr": "À propos de la vitamine c",
+    "nutrimentGeneticsAboutTitle_fr": "La génétique et la vitamine c"
+  },
+  {
+    "_id": "5640d41f359a48765765ed8a",
+    "premiseClient": "",
+    "nutrimentName": "Folate",
+    "nutrimentId": "Folate",
+    "relatedGenes": [
+      "5640d39a359a48765765ed83"
+    ],
+    "__v": 1,
+    "about": "<p>Le folate, aussi connu sous le nom de vitamine B9 ou acide folique, est particuli&egrave;rement reconnu pour son r&ocirc;le important dans le d&eacute;veloppement neural des f&oelig;tus. Cette vitamine est &eacute;galement impliqu&eacute;e dans la conversion de l&rsquo;homocyst&eacute;ine en m&eacute;thionine, fonction essentielle puisque des taux &eacute;lev&eacute;s d&rsquo;homocyst&eacute;ine sont associ&eacute;s &agrave; des pathologies vari&eacute;es telles que la maladie d&rsquo;Alzheimer et des cancers. De plus, des &eacute;tudes ont montr&eacute; qu&rsquo;il existe des liens entre des taux &eacute;lev&eacute;s d&rsquo;homocyst&eacute;ine, des taux faibles de folate sanguin et les risques de maladies vasculaires ath&eacute;roscl&eacute;rotiques et d&rsquo;accidents vasculaires c&eacute;r&eacute;braux (AVC). Le m&eacute;tabolisme du folate varie d&rsquo;un individu &agrave; l&rsquo;autre, un ph&eacute;nom&egrave;ne qui semble en partie expliqu&eacute; par le g&egrave;ne MTHFR.</p>",
+    "geneticsAbout": "<p>Le g&egrave;ne <em>MTHFR</em> est responsable de la production de l&rsquo;enzyme m&eacute;thyl&egrave;ne t&eacute;trahydrofolate r&eacute;ductase (MTHFR). Celle-ci est impliqu&eacute;e dans la transformation du folate en mol&eacute;cule active dans le&nbsp;corps. Alors qu&rsquo;un diplotype CC au marqueur rs1801133 du g&egrave;ne <em>MTHFR</em> permet &agrave; l&rsquo;enzyme de fonctionner &agrave; sa pleine capacit&eacute;, les diplotypes&nbsp;CT ou TT entra&icirc;nent une diminution de son efficacit&eacute;. Les individus poss&eacute;dant ces derniers sont donc plus &agrave; risque d&rsquo;insuffisance en folate sanguin et de hauts taux d&rsquo;homocyst&eacute;ine en cas de faible apport alimentaire.</p>",
+    "label": "Folate",
+    "tagLine": "Pas seulement pour maman!",
+    "titleLine": "FOLATE",
+    "nutrimentAboutTitle_fr": "À propos du folate",
+    "nutrimentGeneticsAboutTitle_fr": "La génétique et le folate"
+  },
+  {
+    "_id": "5640d905cfbd4fb45d074858",
+    "premiseClient": "",
+    "nutrimentName": "Charge glycémique",
+    "nutrimentId": "Glycemic",
+    "relatedGenes": [
+      "5640d6af0d13984f5ca37aaa"
+    ],
+    "__v": 1,
+    "about": "<p>La charge glyc&eacute;mique est une mesure de la qualit&eacute; et de la quantit&eacute; de glucides contenues dans un aliment. Elle est calcul&eacute;e &agrave; partir d&rsquo;une portion de r&eacute;f&eacute;rence et de l&rsquo;indice glyc&eacute;mique d&rsquo;un aliment. Plus la valeur est &eacute;lev&eacute;e, plus le glucose sanguin d&rsquo;un individu augmentera suivant la consommation de cet item. Rappelons qu&rsquo;un taux de glucose anormalement &eacute;lev&eacute; peut, &agrave; long terme, entra&icirc;ner des complications cardiaques et r&eacute;nales, endommager les vaisseaux sanguins et les nerfs. Les aliments peuvent &ecirc;tre class&eacute;s selon la valeur num&eacute;rique de leur charge glyc&eacute;mique, soit nulle (0), faible (1 &agrave; 10), mod&eacute;r&eacute;e (11 &agrave; 19) ou &eacute;lev&eacute;e (&ge; 20). De r&eacute;centes publications scientifiques soutiennent une interaction entre le g&egrave;ne <em>TCF7L2</em>, la consommation r&eacute;guli&egrave;re d&rsquo;aliments &agrave; charge glyc&eacute;mique &eacute;lev&eacute;e et le risque de d&eacute;velopper le diab&egrave;te de type 2.</p>",
+    "geneticsAbout": "<p>Le g&egrave;ne <em>TCF7L2</em> code pour un facteur de transcription poss&eacute;dant plusieurs fonctions dans l&rsquo;organisme. Une de celles-ci influence la r&eacute;ponse du corps apr&egrave;s l&rsquo;ingestion de glucides. Les avanc&eacute;es scientifiques ont permis de faire un lien entre le marqueur rs12255372 du g&egrave;ne <em>TCF7L2</em>, la pr&eacute;sence d&rsquo;un all&egrave;le T &agrave; cette position et une augmentation des risques de d&eacute;velopper le diab&egrave;te de type 2 suivant la consommation r&eacute;guli&egrave;re d&rsquo;aliments &agrave; charge glyc&eacute;mique &eacute;lev&eacute;e. D&rsquo;autre part, les individus poss&eacute;dant le diplotype GG ne poss&egrave;dent pas ce risque accru.</p>",
+    "label": "CHARGE GLYCÉMIQUE",
+    "tagLine": "Est-ce que vos aliments font le poids?",
+    "titleLine": "CHARGE GLYCÉMIQUE",
+    "nutrimentAboutTitle_fr": "À propos de la charge glycémique",
+    "nutrimentGeneticsAboutTitle_fr": "La génétique et la charge glycémique"
+  },
+  {
+    "_id": "5640eacacfbd4fb45d074860",
+    "premiseClient": "",
+    "nutrimentName": "Sodium",
+    "nutrimentId": "Sodium",
+    "relatedGenes": [
+      "5640eaa9cfbd4fb45d07485e"
+    ],
+    "__v": 1,
+    "about": "<p>Le sodium, commun&eacute;ment associ&eacute; au sel de table, est un min&eacute;ral aux fonctions multiples dans le corps. Il joue des r&ocirc;les, entre autres, dans la contraction musculaire, le maintien de l&rsquo;hydratation et la balance acido-basique de l&rsquo;organisme. Bien qu&rsquo;essentiel, le sodium devient nuisible &agrave; la sant&eacute; lorsqu&rsquo;il est consomm&eacute; en quantit&eacute; excessive. Facteur reconnu dans le d&eacute;veloppement de l&rsquo;hypertension, l&rsquo;exc&egrave;s de sodium contribue donc directement et indirectement &agrave; l&rsquo;apparition de maladies cardiovasculaires et maladies r&eacute;nales. Sant&eacute; Canada r&eacute;v&egrave;le que les canadiens consomment, en moyenne, le double de sodium dont ils ont besoin.</p>",
+    "geneticsAbout": "<p>Le g&egrave;ne <em>ACE</em> code pour l&rsquo;enzyme de conversion de l&rsquo;angiotensine (ACE), un peptide jouant un r&ocirc;le important dans la r&eacute;gulation de la pression art&eacute;rielle. Des &eacute;tudes r&eacute;v&egrave;lent qu&rsquo;une insertion (In) ou d&eacute;l&eacute;tion (Del) d'un segment de complet sur le g&egrave;ne <em>ACE</em>&nbsp;alt&egrave;rerait la fonction de l&rsquo;enzyme et influencerait ainsi la r&eacute;gulation de la pression art&eacute;rielle en fonction de la quantit&eacute; de sodium dans l&rsquo;alimentation. Ce segment peut &ecirc;tre d&eacute;tect&eacute; avec les all&egrave;les A pour une insertion&nbsp;ou G pour une d&eacute;l&eacute;tion&nbsp;au marqueur rs4343. En comparaison avec les individus poss&eacute;dant le diplotype Del/Del, ceux ayant les diplotypes&nbsp;In/Del ou In/ In sont plus sensibles au sodium et sont ainsi plus &agrave; risque de d&eacute;velopper de l&rsquo;hypertension suivant une consommation &eacute;lev&eacute;e en sodium.</p>",
+    "label": "SEL",
+    "tagLine": "La salière n’est pas le seul coupable",
+    "titleLine": "SEL",
+    "nutrimentAboutTitle_fr": "À propos du sodium",
+    "nutrimentGeneticsAboutTitle_fr": "La génétique et le sodium"
+  },
+  {
+    "_id": "5640ecbbcfbd4fb45d074869",
+    "premiseClient": "",
+    "nutrimentName": "Caféine",
+    "nutrimentId": "Caffeine",
+    "relatedGenes": [
+      "55f9a156cbc20fa408f35c18"
+    ],
+    "__v": 0,
+    "about": "<p>La caf&eacute;ine est pr&eacute;sente dans les breuvages les plus populaires au monde soit le caf&eacute;, le th&eacute; et m&ecirc;me certaines boissons gazeuses. Le cacao est &eacute;galement une source de caf&eacute;ine dans l&rsquo;alimentation. La caf&eacute;ine est un stimulant qui affecte chaque personne&nbsp;&agrave; diff&eacute;rents degr&eacute;s. Selon certaines publications, le caf&eacute; augmenterait les risques de maladies cardiaques et d&rsquo;hypertension art&eacute;rielle alors que d&rsquo;autres recherches semblent indiquer le contraire. De nouvelles d&eacute;couvertes en g&eacute;n&eacute;tiques ont permis d&rsquo;&eacute;claircir ces r&eacute;sultats divergents. Des variations sur le g&egrave;ne <em>CYP1A2</em> en serait la cause.</p>",
+    "geneticsAbout": "<p>Le g&egrave;ne <em>CYP1A2</em> produit une enzyme appel&eacute;e cytochrome P450-1A2. Situ&eacute;e dans le foie, elle y d&eacute;grade la caf&eacute;ine et neutralise ainsi son effet. La pr&eacute;sence d&rsquo;un all&egrave;le C sur le marqueur rs762551 du g&egrave;ne <em>CYP1A2</em> entra&icirc;ne un ralentissement de la vitesse de d&eacute;gradation. Ainsi, les individus ayant les diplotype AC ou CC sont plus &agrave; risque de d&eacute;velopper de l&rsquo;hypertension ou d&rsquo;&ecirc;tre victime d&rsquo;un infarctus du myocarde suivant une consommation &eacute;lev&eacute;e r&eacute;currente de caf&eacute;ine. D&rsquo;autre part, les individus poss&eacute;dant le diplotype AA d&eacute;sactivent la caf&eacute;ine plus rapidement et sont, par cons&eacute;quent, moins &agrave; risque de d&eacute;velopper de telles maladies cardiovasculaires. Certaines &eacute;tudes conf&egrave;rent m&ecirc;me un effet protecteur &agrave; une consommation mod&eacute;r&eacute;e de caf&eacute;ine pour ces individus.</p>",
+    "label": "CAFÉINE",
+    "tagLine": "Accordez un petit repos à votre coeur",
+    "titleLine": "CAFÉINE",
+    "nutrimentAboutTitle_fr": "À propos de la caféine",
+    "nutrimentGeneticsAboutTitle_fr": "La génétique et la caféine"
+  },
+  {
+    "_id": "5640f56acfbd4fb45d074875",
+    "premiseClient": "",
+    "nutrimentName": "Vitamine D",
+    "nutrimentId": "VitaminD",
+    "relatedGenes": [
+      "5640ed54cfbd4fb45d074873",
+      "5640ed50cfbd4fb45d074872",
+      "5640ed5ccfbd4fb45d074874"
+    ],
+    "__v": 1,
+    "about": "<p>La vitamine D occupe plusieurs r&ocirc;les essentiels dans le corps. Elle est impliqu&eacute;e dans la fonction immunitaire, la fonction neuromusculaire et surtout dans la croissance et la sant&eacute; des os. Avec un manque de&nbsp;vitamine D pour r&eacute;guler le m&eacute;tabolisme du calcium et du phosphore, les os deviennent plus minces et fragiles augmentant les risques d'ost&eacute;op&eacute;nie, d'ost&eacute;oporose et de fractures. L&rsquo;apport en vitamine D peut &ecirc;tre assur&eacute; de deux mani&egrave;res: par l&rsquo;apport alimentaire ou par la synth&egrave;se cutan&eacute;e. La synth&egrave;se cutan&eacute;e d&eacute;pend de l&rsquo;exposition de la peau au soleil et peut donc devenir probl&eacute;matique en hiver lorsque les heures d&rsquo;ensoleillement sont r&eacute;duites. Pendant ces mois de l&rsquo;ann&eacute;e, il est donc particuli&egrave;rement important d&rsquo;avoir un apport alimentaire ad&eacute;quat.</p>",
+    "geneticsAbout": "<p>De nombreux g&egrave;nes interviennent dans le maintien des niveaux de vitamine D. Le g&egrave;ne <em>GC</em> encode la Vitamin D binding protein, une prot&eacute;ine n&eacute;cessaire au transport de la vitamine D. Le g&egrave;ne <em>CYP2R1</em> dicte la synth&egrave;se d&rsquo;une enzyme localis&eacute;e dans le foie jouant un r&ocirc;le dans l&rsquo;activation de la vitamine D. Finalement, le g&egrave;ne <em>DHCR7</em> encode pour une enzyme impliqu&eacute;e indirectement dans la r&eacute;gulation du taux de vitamine D dans le sang. Des &eacute;tudes r&eacute;v&egrave;lent que la pr&eacute;sence de variations aux marqueurs rs2282679, rs10741657 et rs12785878 des g&egrave;nes <em>GC</em>, <em>CYP2R1</em>&nbsp;and&nbsp;<em>DHCR7</em> respectivement augmenteraient les risques d&rsquo;insuffisance en vitamine D.</p>",
+    "label": "VITAMINE D",
+    "tagLine": "Ajoutez de la vitamine soleil à votre assiette",
+    "titleLine": "VITAMINE D",
+    "nutrimentAboutTitle_fr": "À propos de la vitamine d",
+    "nutrimentGeneticsAboutTitle_fr": "La génétique et la vitamine d"
+  },
+  {
+    "_id": "5640ff1ecfbd4fb45d0748a5",
+    "premiseClient": "",
+    "nutrimentName": "Gras saturés",
+    "nutrimentId": "SaturatedFat",
+    "relatedGenes": [
+      "5640feb5cfbd4fb45d07489e"
+    ],
+    "__v": 0,
+    "about": "<p>Les gras satur&eacute;s sont, entre autres, associ&eacute;s &agrave; des taux &eacute;lev&eacute;s de cholest&eacute;rol LDL et &agrave; des probl&egrave;mes cardiovasculaires. Les gras satur&eacute;s endurcissent entre autres les parois cellulaires et sont ainsi plus nuisibles au bon fonctionnement du corps que les&nbsp;gras monoinsatur&eacute;s et polyinsatur&eacute;s. De nouvelles recherches ont &eacute;galement d&eacute;montr&eacute; un lien entre une consommation &eacute;lev&eacute;e en gras satur&eacute;s, le g&egrave;ne <em>APOA2</em> et le gain de poids.</p>",
+    "geneticsAbout": "<p>Le gain de poids et l&rsquo;ob&eacute;sit&eacute; sont des ph&eacute;nom&egrave;nes multifactoriels qui impliquent, entre autres, la g&eacute;n&eacute;tique. Le g&egrave;ne <em>APOA2</em> code pour la fabrication de l&rsquo;apolipoprot&eacute;ine A2, une mol&eacute;cule impliqu&eacute;e dans divers m&eacute;canismes reli&eacute;s aux gras dans le corps. Les recherches ont&nbsp;d&eacute;montr&eacute; qu&rsquo;une simple variation au marqueur rs5082 sur le g&egrave;ne <em>APOA2</em> combin&eacute;e &agrave; une alimentation riche en gras satur&eacute;s alt&egrave;rerait les signaux de sati&eacute;t&eacute; et augmenterait ainsi les risques de gain de poids et d&rsquo;ob&eacute;sit&eacute;.</p>",
+    "label": "GRAS SATURÉS",
+    "tagLine": "Crème glacée ou tour de taille santé?",
+    "titleLine": "GRAS SATURÉS",
+    "nutrimentAboutTitle_fr": "À propos des gras saturés",
+    "nutrimentGeneticsAboutTitle_fr": "La génétique et les gras saturés"
+  },
+  {
+    "_id": "5640ffc0cfbd4fb45d0748af",
+    "premiseClient": "",
+    "nutrimentName": "Lactose",
+    "nutrimentId": "Lactose",
+    "relatedGenes": [
+      "5640ff61cfbd4fb45d0748a8"
+    ],
+    "__v": 0,
+    "about": "<p>Le lactose est un sucre complexe retrouv&eacute; dans les produits laitiers. Ces produits sont d&rsquo;excellentes sources de nutriments, dont des prot&eacute;ines de bonne qualit&eacute; ainsi qu'un &eacute;ventail de vitamines et min&eacute;raux contribuant au maintien de la sant&eacute;. Malheureusement, chez certains individus, la capacit&eacute; de dig&eacute;rer le lactose&nbsp;diminue ou m&ecirc;me disparait vers l&rsquo;&acirc;ge adulte. Pour ces individus intol&eacute;rants au lactose, la consommation de produits laitiers peut entra&icirc;ner plusieurs d&eacute;sagr&eacute;ments tels que des ballonnements, des gaz ou des crampes.&nbsp;</p>",
+    "geneticsAbout": "<p>Le g&egrave;ne <em>LCT</em> code pour la lactase, l&rsquo;enzyme responsable pour la digestion du lactose. Lorsque la production&nbsp;de cette enzyme diminue, les individus perdent partiellement ou enti&egrave;rement la capacit&eacute; &agrave; dig&eacute;rer le lactose. Ceci peut engendrer des inconforts digestifs lors de la consommation de lactose. Des &eacute;tudes r&eacute;v&egrave;lent qu&rsquo;une variation au marqueur rs4988235 sur le g&egrave;ne <em>LCT</em>&nbsp;est impliqu&eacute;e dans la tol&eacute;rance au lactose. Les individus poss&eacute;dant le diplotype CC&nbsp;sur le g&egrave;ne <em>LCT</em> sont plus &agrave; risque de d&eacute;velopper une intol&eacute;rance au lactose que ceux poss&eacute;dant les diplotypes&nbsp;TT&nbsp;ou TC.</p>",
+    "label": "LACTOSE",
+    "tagLine": "Choisissez mieux vos produits laitiers",
+    "titleLine": "LACTOSE",
+    "nutrimentAboutTitle_fr": "À propos du lactose",
+    "nutrimentGeneticsAboutTitle_fr": "La génétique et le lactose"
+  },
+  {
+    "_id": "564e2067982047253681d76f",
+    "premiseClient": "",
+    "tagLine": "Quel est votre risque pour la maladie cœliaque ?",
+    "label": "GLUTEN",
+    "titleLine": "GLUTEN",
+    "geneticsAbout": "<p>Six variations g&eacute;n&eacute;tiques situ&eacute;es dans le complexe des antig&egrave;nes des leucocytes humains (HLA) sont cibl&eacute;es. Ces variants sont impliqu&eacute;s dans la r&eacute;ponse immunitaire, dont celle d&eacute;clench&eacute;e par la consommation de gluten. Dans 99% des cas, les individus diagnostiqu&eacute;s avec la maladie c&oelig;liaque sont porteurs des versions <em>HLA-DQ2</em> ou <em>HLA-DQ8</em> du g&egrave;ne (DQ2/DQ8-positif). Cependant, &ecirc;tre porteur du DQ2/DQ8 n'est pas suffisant pour d&eacute;velopper la maladie c&oelig;liaque. Bien que 30%-40% de la population soit DQ2/DQ8-positif, la grande majorit&eacute; de celle-ci ne d&eacute;veloppera pas la maladie c&oelig;liaque ni de sensibilit&eacute; au gluten, malgr&eacute; une alimentation riche en gluten.</p>",
+    "about": "<p>Le gluten est un complexe de prot&eacute;ines retrouv&eacute; principalement dans le bl&eacute;, le seigle et l&rsquo;orge. Il se trouve donc dans les produits de boulangerie faits &agrave; partir de ces grains ainsi que dans plusieurs aliments transform&eacute;s. Environ 1% de la population est atteint de la maladie coeliaque alors que 5 &agrave; 10% de la population semble souffrir d&rsquo;une sensibilit&eacute; au gluten non-coeliaque (SGNC). Pour les individus ayant la maladie coeliaque, l&rsquo;ingestion de gluten provoque une r&eacute;action auto-immune qui endommage les parois du petit intestin et nuit &agrave; l&rsquo;absorption des nutriments. Ce ph&eacute;nom&egrave;ne ne se produit pas chez ceux ayant une SGNC. &Agrave; ce jour, le seul moyen pour d&eacute;tecter la sensibilit&eacute; au gluten non-coeliaque est d&rsquo;adopter un r&eacute;gime sans gluten et d&rsquo;&eacute;valuer si les sympt&ocirc;mes disparaissent ou non.</p>",
+    "nutrimentName": "Gluten",
+    "nutrimentId": "Gluten",
+    "relatedGenes": [
+      "5660602666c0151b43dee303"
+    ],
+    "__v": 1,
+    "nutrimentAboutTitle_fr": "À propos du gluten",
+    "nutrimentGeneticsAboutTitle_fr": "La génétique et le gluten"
+  }
+]

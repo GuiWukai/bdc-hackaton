@@ -1,0 +1,587 @@
+[
+  {
+    "_id": "5640cea0359a48765765ed67",
+    "code": "Omega-3-Female{NOS3-rs1799983[GT]}{NOS3-rs1799983[TT]}",
+    "recommendationClient": "<p>Consommez environ 1240 mg/jour d'acides gras om&eacute;ga-3 de types AEP et ADH.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>NOS3</em>, vous &ecirc;tes plus susceptible d'avoir un taux de triglyc&eacute;rides sanguins &eacute;lev&eacute; si vous consommez peu d&rsquo;om&eacute;ga-3. Visez un apport d&rsquo;environ 1240 mg de type AEP et ADH par jour pour diminuer ces risques. Comme le corps peut transformer les AAL en AEP et ADH &agrave; un taux de seulement 10% chez les hommes et 30% chez les femmes, misez sur au moins 3 portions de poissons gras par semaine et compl&eacute;mentez avec quelques sources v&eacute;g&eacute;tales. De plus, une &eacute;valuation de vos lipides sanguins via un bilan lipidique pourrait &ecirc;tre indiqu&eacute;. Parlez-en &agrave; votre m&eacute;decin.</p>",
+    "notificationClient": "<p>Risque augment&eacute; de triglyc&eacute;rides sanguins &eacute;lev&eacute;s</p>",
+    "nutriment": "56293571bd2c79ade1357095",
+    "activations": [
+      "5640ccff69fa7c0f543cbdfd",
+      "5640cf09359a48765765ed6b"
+    ],
+    "__v": 6,
+    "applicableSex": "Female",
+    "riskNumClient": 4554445,
+    "count": 293,
+    "rankInsideRiskNum": 10,
+    "newPro": "4444d",
+    "testst": "12443"
+  },
+  {
+    "_id": "5640cf31359a48765765ed6c",
+    "code": "Omega-3-Female{NOS3-rs1799983[GG]}",
+    "recommendationClient": "<p>Consommez entre 200-500 mg/jour d'acides gras om&eacute;ga-3 de types AEP et ADH.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>NOS3</em>, votre taux de triglyc&eacute;rides sanguins devrait &ecirc;tre ad&eacute;quat si vous consommez entre 200-500mg/jour d&rsquo;om&eacute;ga-3 de types AEP et ADH. Comme le corps peut transformer les AAL en AEP et ADH &agrave; un taux de seulement 10% chez les hommes et 30% chez les femmes, misez sur 2 portions de poissons gras par semaine et compl&eacute;mentez avec quelques sources v&eacute;g&eacute;tales.</p>",
+    "notificationClient": "<p>Aucun risque identifi&eacute;</p>",
+    "nutriment": "56293571bd2c79ade1357095",
+    "activations": [
+      "5640cefd359a48765765ed6a"
+    ],
+    "__v": 1,
+    "applicableSex": "Female",
+    "riskNumClient": 1,
+    "count": 242,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640d314359a48765765ed81",
+    "code": "Vitamin C-Female{GSTT1-GSTT1E7[CC] and GSTM1-GSTM1E2[AA]}",
+    "recommendationClient": "<p>Consommez au moins 75mg/jour de vitamine C.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur les g&egrave;nes <em>GSTT1</em> et <em>GSTM1</em>, votre taux de vitamine C pourrait &ecirc;tre sous-optimal si vous consommez moins de 75mg/jour. Si vous fumez, il est conseill&eacute; de consommer au moins 110mg/jour. Favorisez une alimentation riche en l&eacute;gumes&nbsp;et fruits&nbsp;pour combler vos besoins en vitamine C.</p>",
+    "notificationClient": "<p>Risque augment&eacute; d&rsquo;insuffisance en vitamine C</p>",
+    "nutriment": "5640d201359a48765765ed77",
+    "activations": [
+      "5640d27c359a48765765ed78"
+    ],
+    "__v": 1,
+    "applicableSex": "Female",
+    "riskNumClient": 2,
+    "count": 73,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640d35d359a48765765ed82",
+    "code": "Vitamin C-Female{GSTT1-GSTT1E7[CC] and GSTM1-GSTM1E2[AC]}{GSTT1-GSTT1E7[CT] and GSTM1-GSTM1E2[AA]}{GSTT1-GSTT1E7[CC] and GSTM1-GSTM1E2[CC]}{GSTT1-GSTT1E7[CT] and GSTM1-GSTM1E2[AC]}{GSTT1-GSTT1E7[TT] and GSTM1-GSTM1E2[AA]}{GSTT1-GSTT1E7[CT] and GSTM1-GSTM1E2[CC]}{GSTT1-GSTT1E7[TT] and GSTM1-GSTM1E2[AC]}{GSTT1-GSTT1E7[TT] and GSTM1-GSTM1E2[CC]}{GSTT1-GSTT1E7[CT]}{GSTM1-GSTM1E2[AC]}{GSTT1-GSTT1E7[TT]}{GSTM1-GSTM1E2[CC]}",
+    "recommendationClient": "<p>Consommez 75mg/jour de vitamine C.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur les g&egrave;nes <em>GSTT1</em> et <em>GSTM1</em>, votre taux de vitamine C devrait demeurer suffisant m&ecirc;me durant les p&eacute;riodes o&ugrave; votre apport n'est pas optimal. Si vous fumez, il est conseill&eacute; d&rsquo;augmenter votre apport &agrave; 110mg/jour. Favorisez une alimentation riche en l&eacute;gumes et fruits et vos besoins en vitamine C seront facilement combl&eacute;s.</p>",
+    "notificationClient": "<p>Aucun risque identifi&eacute;</p>",
+    "nutriment": "5640d201359a48765765ed77",
+    "activations": [
+      "5640d2a7359a48765765ed79",
+      "5640d2b3359a48765765ed7a",
+      "5640d2c3359a48765765ed7b",
+      "5640d2ce359a48765765ed7c",
+      "5640d2d9359a48765765ed7d",
+      "5640d2e3359a48765765ed7e",
+      "5640d2ed359a48765765ed7f",
+      "5640d2f7359a48765765ed80",
+      "5698253baff33fca0a017e65",
+      "569825b3175a41af0abbf30a",
+      "569826dd1c1328e90c91cd8a",
+      "569826ea1c1328e90c91cd8b"
+    ],
+    "__v": 3,
+    "applicableSex": "Female",
+    "riskNumClient": 1,
+    "count": 1230,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640d431359a48765765ed8b",
+    "code": "Folate{MTHFR-rs1801133[GG]}",
+    "recommendationClient": "<p>Consommez 400 &Eacute;FA/jour.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>MTHFR</em>, vos taux de folate sanguin et d'homocyst&eacute;ine devraient demeurer ad&eacute;quats m&ecirc;me durant les p&eacute;riodes o&ugrave; votre apport en &eacute;quivalent de folate alimentaire (&Eacute;FA) n'est pas optimal. Le folate se retrouve principalement dans les l&eacute;gumineuses, les l&eacute;gumes vert fonc&eacute; et les produits c&eacute;r&eacute;aliers fait &agrave; base de farine de bl&eacute; enrichie.</p>",
+    "notificationClient": "<p>Aucun risque identifi&eacute;</p>",
+    "nutriment": "5640d41f359a48765765ed8a",
+    "activations": [
+      "5640d3f2359a48765765ed87"
+    ],
+    "__v": 1,
+    "applicableSex": "Both",
+    "riskNumClient": 1,
+    "count": 215,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640d94bcfbd4fb45d07485c",
+    "code": "Glycemic Load{TCF7L2-rs12255372[GG]}",
+    "recommendationClient": "<p>Choisissez au moins la moiti&eacute; de vos aliments avec une charge glyc&eacute;mique faible, soit &lt;10.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>TCF7L2</em>, votre susceptibilit&eacute; de d&eacute;velopper le diab&egrave;te de type 2 ne devrait pas &ecirc;tre augment&eacute;e par la charge glyc&eacute;mique des aliments que vous consommez. N&eacute;anmoins, assurez-vous d&rsquo;int&eacute;grer quotidiennement des aliments &agrave; charge glyc&eacute;mique faible &agrave; votre assiette, tels que des l&eacute;gumes, des fruits complets plut&ocirc;t que leur jus et des produits c&eacute;r&eacute;aliers de grains entiers pour leur &eacute;ventail de nutriments et leur propri&eacute;t&eacute; rassasiante.</p>",
+    "notificationClient": "<p>Aucun risque identifi&eacute;</p>",
+    "nutriment": "5640d905cfbd4fb45d074858",
+    "activations": [
+      "5640d928cfbd4fb45d074859"
+    ],
+    "__v": 1,
+    "applicableSex": "Both",
+    "riskNumClient": 1,
+    "count": 257,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640ec5acfbd4fb45d074867",
+    "code": "Sodium{ACE-rs4343[GG]}",
+    "recommendationClient": "<p>Consommez un maximum de 2300 mg/jour de sodium.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>ACE</em>, vous n'&ecirc;tes pas &agrave; risque accru d'hypertension sensible au sel. N&eacute;anmoins, pour &eacute;viter les autres effets n&eacute;gatifs reli&eacute;s &agrave; un exc&egrave;s de sodium, il est recommand&eacute; de ne pas d&eacute;passer 2300 mg/jour. Le sodium se retrouve naturellement dans plusieurs aliments et est souvent ajout&eacute; aux produits manufactur&eacute;s tels que les viandes transform&eacute;es, les repas pr&eacute;par&eacute;s, les sauces, les croustilles et les fromages.</p>",
+    "notificationClient": "<p>Aucun risque identifi&eacute;</p>",
+    "nutriment": "5640eacacfbd4fb45d074860",
+    "activations": [
+      "5640ec44cfbd4fb45d074864"
+    ],
+    "__v": 1,
+    "applicableSex": "Both",
+    "riskNumClient": 1,
+    "count": 180,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640ed20cfbd4fb45d074870",
+    "code": "Caffeine-Female{CYP1A2-rs762551[AA]}",
+    "recommendationClient": "<p>Consommez un maximum de 400 mg/jour de caf&eacute;ine.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>CYP1A2</em>, une consommation mod&eacute;r&eacute;e de caf&eacute;ine n'augmente pas vos risques de maladies cardiaques (hypertension et infarctus du myocarde). Il est donc recommand&eacute; de limiter votre apport quotidien &agrave; 400 mg/jour de caf&eacute;ine, soit environ 4 tasses de caf&eacute; (1 tasse = 250mL). Une femme enceinte devrait limiter sa consommation de caf&eacute;ine &agrave; 300 mg/jour.</p>",
+    "notificationClient": "<p>M&eacute;taboliseur rapide de la caf&eacute;ine</p>",
+    "nutriment": "5640ecbbcfbd4fb45d074869",
+    "activations": [
+      "5640ecfccfbd4fb45d07486d"
+    ],
+    "__v": 2,
+    "applicableSex": "Female",
+    "riskNumClient": 1,
+    "count": 305,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640ed2ccfbd4fb45d074871",
+    "code": "Caffeine{CYP1A2-rs762551[AC]}",
+    "recommendationClient": "<p>Consommez un maximum de 200 mg/jour de caf&eacute;ine.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>CYP1A2</em>, une consommation de caf&eacute;ine sup&eacute;rieure &agrave; 200 mg/jour augmente vos risques de maladies cardiaques (hypertension et infarctus du myocarde). Demeurez en dessous de cette limite pour r&eacute;duire significativement vos risques.</p>",
+    "notificationClient": "<p>M&eacute;taboliseur interm&eacute;diaire de la caf&eacute;ine</p>",
+    "nutriment": "5640ecbbcfbd4fb45d074869",
+    "activations": [
+      "5640ed02cfbd4fb45d07486e"
+    ],
+    "__v": 3,
+    "applicableSex": "Both",
+    "riskNumClient": 3,
+    "count": 240,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640fde3cfbd4fb45d07489c",
+    "code": "Vitamin D{GC-rs2282679[TG] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[TT]}{GC-rs2282679[TG] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[GT]}{GC-rs2282679[GG] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[GT]}{GC-rs2282679[GG] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[GT]}{GC-rs2282679[GG] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[TT]}{GC-rs2282679[GG] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[TT]}{GC-rs2282679[TG] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[GT]}{GC-rs2282679[TG] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[TT]}",
+    "recommendationClient": "<p>Consommez au moins 600 UI/jour de vitamine D.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur les g&egrave;nes GC, CYP2R1 et DHCR7, vous &ecirc;tes plus susceptible d'un taux sous-optimal en vitamine D si vous consommez moins de 600 unit&eacute;s internationales (UI) par jour de vitamine D. Favorisez une alimentation riche en poisson gras ainsi qu'en lait ou boisson de soya enrichie en vitamine D pour combler vos besoins. De plus, un dosage sanguin de la vitamine D, du calcium et du phosphore pourrait &ecirc;tre indiqu&eacute;. Parlez-en &agrave; votre m&eacute;decin.</p>",
+    "notificationClient": "<p>Risque augment&eacute; d&rsquo;insuffisance en vitamine D</p>",
+    "nutriment": "5640f56acfbd4fb45d074875",
+    "activations": [
+      "5640fc1dcfbd4fb45d07488e",
+      "5640fc32cfbd4fb45d07488f",
+      "5640fcfacfbd4fb45d074897",
+      "5640fd0fcfbd4fb45d074898",
+      "5640fcb6cfbd4fb45d074894",
+      "5640fccecfbd4fb45d074895",
+      "5640fbd6cfbd4fb45d07488b",
+      "5640fbefcfbd4fb45d07488c"
+    ],
+    "__v": 2,
+    "applicableSex": "Both",
+    "riskNumClient": 2,
+    "count": 23,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640fe87cfbd4fb45d07489d",
+    "code": "Vitamin D{GC-rs2282679[TT] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[GT]}{GC-rs2282679[TT] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[GG]}{GC-rs2282679[TT] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[TT]}{GC-rs2282679[TT] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[GG]}{GC-rs2282679[TT] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[GT]}{GC-rs2282679[TT] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[TT]}{GC-rs2282679[TT] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[GG]}{GC-rs2282679[TT] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[GT]}{GC-rs2282679[TT] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[TT]}{GC-rs2282679[TG] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[GG]}{GC-rs2282679[GG] and CYP2R1-rs10741657[AA] and DHCR7-rs12785878[GG]}{GC-rs2282679[TG] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[GG]}{GC-rs2282679[TG] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[GG]}{GC-rs2282679[GG] and CYP2R1-rs10741657[AG] and DHCR7-rs12785878[GG]}{GC-rs2282679[GG] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[GG]}{GC-rs2282679[TG] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[GT]}{GC-rs2282679[TG] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[TT]}{GC-rs2282679[GG] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[GT]}{GC-rs2282679[GG] and CYP2R1-rs10741657[GG] and DHCR7-rs12785878[TT]}",
+    "recommendationClient": "<p>Consommez environ 600 UI/jour de vitamine D.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur les g&egrave;nes <em>GC</em>, <em>CYP2R1</em> et <em>DHCR7</em>, votre niveau de vitamine D devrait demeurer suffisant m&ecirc;me durant les p&eacute;riodes o&ugrave; votre apport en unit&eacute;s internationales (UI) n'est pas optimal. Favorisez une alimentation riche en poisson gras ainsi qu'en lait ou boisson de soya enrichie en vitamine D afin de combler vos besoins.</p>",
+    "notificationClient": "<p>Aucun risque identifi&eacute;</p>",
+    "nutriment": "5640f56acfbd4fb45d074875",
+    "activations": [
+      "5640f961cfbd4fb45d074882",
+      "5640f93dcfbd4fb45d074881",
+      "5640f97fcfbd4fb45d074883",
+      "5640fb21cfbd4fb45d074884",
+      "5640fb3fcfbd4fb45d074885",
+      "5640fb64cfbd4fb45d074886",
+      "5640fb77cfbd4fb45d074887",
+      "5640fb8ecfbd4fb45d074888",
+      "5640fba7cfbd4fb45d074889",
+      "5640fbc0cfbd4fb45d07488a",
+      "5640fc9bcfbd4fb45d074893",
+      "5640fc05cfbd4fb45d07488d",
+      "5640fc48cfbd4fb45d074890",
+      "5640fce4cfbd4fb45d074896",
+      "5640fd26cfbd4fb45d074899",
+      "5640fc61cfbd4fb45d074891",
+      "5640fc76cfbd4fb45d074892",
+      "5640fd3acfbd4fb45d07489a",
+      "5640fd4ecfbd4fb45d07489b"
+    ],
+    "__v": 6,
+    "applicableSex": "Both",
+    "riskNumClient": 1,
+    "count": 310,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640ff2fcfbd4fb45d0748a6",
+    "code": "Saturated fat{APOA2-rs5082[AA]}{APOA2-rs5082[AG]}",
+    "recommendationClient": "<p>Consommez un maximum de 10% de votre &eacute;nergie quotidienne sous forme de gras satur&eacute;s.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>APOA2</em>, vous n'&ecirc;tes pas &agrave; risque accru d'ob&eacute;sit&eacute; si votre consommation de gras satur&eacute;s demeure mod&eacute;r&eacute;e. Un apport excessif en gras satur&eacute;s est tout de m&ecirc;me associ&eacute; &agrave; des probl&egrave;mes de sant&eacute; et devrait &ecirc;tre &eacute;vit&eacute;. L&rsquo;Organisation Mondiale de la Sant&eacute; et Sant&eacute; Canada recommandent de limiter sa consommation de gras satur&eacute;s &agrave; un maximum 10% de l&rsquo;apport &eacute;nerg&eacute;tique total quotidien.</p>",
+    "notificationClient": "<p>Aucun risque identifi&eacute;</p>",
+    "nutriment": "5640ff1ecfbd4fb45d0748a5",
+    "activations": [
+      "5640feeecfbd4fb45d0748a2",
+      "5640fef2cfbd4fb45d0748a3"
+    ],
+    "__v": 3,
+    "applicableSex": "Both",
+    "riskNumClient": 1,
+    "count": 451,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640ff46cfbd4fb45d0748a7",
+    "code": "Saturated fat{APOA2-rs5082[GG]}",
+    "recommendationClient": "<p>Consommez moins de 22 g/jour de gras satur&eacute;s.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>APOA2</em>, vous &ecirc;tes plus &agrave; risque de surpoids et d'ob&eacute;sit&eacute; si votre consommation de gras satur&eacute;s d&eacute;passe 22 g/jour. Afin de demeurer sous ce seuil, limitez votre consommation de viandes rouges, de produits laitiers riches en gras et de p&acirc;tisseries. De plus, les Lignes Directrices de la Soci&eacute;t&eacute; Canadienne de Cardiologie recommandent le d&eacute;pistage des dyslipid&eacute;mies chez les individus de plus de 40 ans et chez tous ceux ayant certains facteurs de risques, dont l&rsquo;ob&eacute;sit&eacute;. Un bilan lipidique pourrait &ecirc;tre indiqu&eacute;. Parlez-en &agrave; votre m&eacute;decin.</p>",
+    "notificationClient": "<p>Risque augment&eacute; de gain de poids</p>",
+    "nutriment": "5640ff1ecfbd4fb45d0748a5",
+    "activations": [
+      "5640fef6cfbd4fb45d0748a4"
+    ],
+    "__v": 1,
+    "applicableSex": "Both",
+    "riskNumClient": 2,
+    "count": 84,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640ffd2cfbd4fb45d0748b0",
+    "code": "Lactose{LCT-rs4988235[AA]}{LCT-rs4988235[AG]}",
+    "recommendationClient": "<p>Vous devriez pouvoir consommer les aliments contenant du lactose.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques analys&eacute;es pr&eacute;sentes sur le g&egrave;ne LCT, votre risque de d&eacute;velopper une intol&eacute;rance au lactose est faible. Votre corps devrait &ecirc;tre en mesure de dig&eacute;rer le lactose. Toutefois, les chances de d&eacute;velopper une intol&eacute;rance reli&eacute;e &agrave; d&rsquo;autres facteurs ind&eacute;pendants de cette variation&nbsp;demeurent les m&ecirc;mes.</p>",
+    "notificationClient": "<p>Aucun risque associ&eacute; &agrave; vos variations g&eacute;n&eacute;tiques pour ce g&egrave;ne</p>",
+    "nutriment": "5640ffc0cfbd4fb45d0748af",
+    "activations": [
+      "5640ff8ecfbd4fb45d0748ac",
+      "5640ff94cfbd4fb45d0748ad"
+    ],
+    "__v": 3,
+    "applicableSex": "Both",
+    "riskNumClient": 1,
+    "count": 354,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "5640ffdecfbd4fb45d0748b1",
+    "code": "Lactose{LCT-rs4988235[GG]}",
+    "recommendationClient": "<p>Limitez ou &eacute;vitez la consommation de produits contenant du&nbsp;lactose.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>LCT</em>, vous &ecirc;tes plus susceptible de d&eacute;velopper une intol&eacute;rance au lactose. Si vous pr&eacute;sentez des inconforts digestifs suite &agrave; la consommation de produits contenant du lactose, limitez ou &eacute;vitez ces produits. De plus, un test sanguin de tol&eacute;rance au lactose pourrait &ecirc;tre indiqu&eacute;. Parlez-en &agrave; votre m&eacute;decin.</p>",
+    "notificationClient": "<p>Risque augment&eacute; de d&eacute;velopper une intol&eacute;rance au lactose</p>",
+    "nutriment": "5640ffc0cfbd4fb45d0748af",
+    "activations": [
+      "5640ff99cfbd4fb45d0748ae"
+    ],
+    "__v": 1,
+    "applicableSex": "Both",
+    "riskNumClient": 2,
+    "count": 181,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "564210d6c1bd045a3bfa14f0",
+    "code": "Sodium{ACE-rs4343[AG]}{ACE-rs4343[AA]}",
+    "recommendationClient": "<p>Consommez un maximum de 1500 mg/jour de sodium.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>ACE</em>, une consommation &eacute;lev&eacute;e de sodium augmente votre risque d&rsquo;hypertension sensible au sel. Vous pouvez r&eacute;duire significativement ce risque en consommant moins de 1500 mg/jour de sodium. Le sodium se retrouve naturellement dans certains aliments et est souvent ajout&eacute; aux produits manufactur&eacute;s tels que les viandes transform&eacute;es, repas pr&eacute;par&eacute;s, sauces, croustilles et fromages.</p>",
+    "notificationClient": "<p>Risque augment&eacute; de sensibilit&eacute; au sodium</p>",
+    "nutriment": "5640eacacfbd4fb45d074860",
+    "activations": [
+      "5640ec4dcfbd4fb45d074866",
+      "5640ec48cfbd4fb45d074865"
+    ],
+    "__v": 2,
+    "applicableSex": "Both",
+    "riskNumClient": 2,
+    "count": 354,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "56422029e90fdc753bc760ba",
+    "code": "Caffeine{CYP1A2-rs762551[CC]}",
+    "recommendationClient": "<p>Consommez un maximum de 200 mg/jour de caf&eacute;ine.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>CYP1A2</em>, une consommation de caf&eacute;ine sup&eacute;rieure &agrave; 200 mg/jour augmente vos risques de maladies cardiaques (hypertension et infarctus du myocarde). Demeurez en dessous de cette limite pour r&eacute;duire significativement vos risques.</p>",
+    "notificationClient": "<p>M&eacute;taboliseur lent de la caf&eacute;ine</p>",
+    "nutriment": "5640ecbbcfbd4fb45d074869",
+    "activations": [
+      "5640ed08cfbd4fb45d07486f"
+    ],
+    "__v": 2,
+    "applicableSex": "Both",
+    "riskNumClient": 2,
+    "count": 53,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "56422501e90fdc753bc760bb",
+    "code": "Folate{MTHFR-rs1801133[AA]}{MTHFR-rs1801133[AG]}",
+    "recommendationClient": "<p>Consommez au moins 400 &Eacute;FA/jour.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>MTHFR</em>, vous &ecirc;tes plus susceptible d'avoir un taux sous-optimal en folate sanguin et un taux d&rsquo;homocyst&eacute;ine &eacute;lev&eacute; si vous consommez moins de 400 &eacute;quivalents de folate alimentaire (&Eacute;FA) par jour. Assurez-vous d&rsquo;int&eacute;grer des l&eacute;gumineuses, des l&eacute;gumes vert fonc&eacute; et des produits c&eacute;r&eacute;aliers &agrave; farine de bl&eacute; enrichie dans votre menu quotidien. De plus, un dosage sanguin d&rsquo;homocyst&eacute;ine et de folate &eacute;rythrocytaire pourrait &ecirc;tre indiqu&eacute;. Parlez-en &agrave; votre m&eacute;decin.</p>",
+    "notificationClient": "<p>Risque augment&eacute; d&rsquo;insuffisance en folate sanguin</p>",
+    "nutriment": "5640d41f359a48765765ed8a",
+    "activations": [
+      "5640d401359a48765765ed89",
+      "5640d3f8359a48765765ed88"
+    ],
+    "__v": 2,
+    "applicableSex": "Both",
+    "riskNumClient": 2,
+    "count": 318,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "56423e26016b16f014fe0187",
+    "code": "Glycemic Load{TCF7L2-rs12255372[TT]}{TCF7L2-rs12255372[GT]}",
+    "recommendationClient": "<p>Priorisez toujours les aliments &agrave; charge glyc&eacute;mique faible, soit &lt;10.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>TCF7L2</em>, une consommation fr&eacute;quente d'aliments &agrave; charge glyc&eacute;mique &eacute;lev&eacute;e augmente vos risques de d&eacute;velopper le diab&egrave;te de type 2 et un taux de glucose sanguin plus &eacute;lev&eacute; que la normale. Priorisez toujours les aliments &agrave; charge glyc&eacute;mique faible, tels que les l&eacute;gumes, les fruits complets plut&ocirc;t que leur jus et les produits c&eacute;r&eacute;aliers de grains entiers plut&ocirc;t que ceux de farine raffin&eacute;e. De plus, un dosage sanguin d&rsquo;h&eacute;moglobine glyqu&eacute;e (HbA1c) pourrait &ecirc;tre indiqu&eacute;. Parlez-en &agrave; votre m&eacute;decin.</p>",
+    "notificationClient": "<p>Sensibilit&eacute; aux aliments &agrave; charge glyc&eacute;mique &eacute;lev&eacute;e</p>",
+    "nutriment": "5640d905cfbd4fb45d074858",
+    "applicableSex": "Both",
+    "activations": [
+      "5640d932cfbd4fb45d07485b",
+      "5640d92dcfbd4fb45d07485a"
+    ],
+    "__v": 2,
+    "riskNumClient": 2,
+    "count": 277,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "564261e4016b16f014fe03e1",
+    "code": "Caffeine-Male{CYP1A2-rs762551[AA]}",
+    "recommendationClient": "<p>Consommez un maximum de 400 mg/jour de caf&eacute;ine.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>CYP1A2</em>, une consommation mod&eacute;r&eacute;e de caf&eacute;ine n'augmente pas vos risques de maladies cardiaques (hypertension et infarctus du myocarde). Il est donc recommand&eacute; de limiter votre apport quotidien &agrave; 400 mg/jour de caf&eacute;ine, soit environ 4 tasses de caf&eacute; (1 tasse = 250mL).</p>",
+    "notificationClient": "<p>M&eacute;taboliseur rapide de la caf&eacute;ine</p>",
+    "nutriment": "5640ecbbcfbd4fb45d074869",
+    "applicableSex": "Male",
+    "activations": [
+      "5640ecfccfbd4fb45d07486d"
+    ],
+    "__v": 2,
+    "riskNumClient": 1,
+    "count": 305,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "56426d7e91d3c4e5147a18c0",
+    "code": "Vitamin C-Male{GSTT1-GSTT1E7[CC] and GSTM1-GSTM1E2[AA]}",
+    "recommendationClient": "<p>Consommez au moins 90mg/jour de vitamine C.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur les g&egrave;nes <em>GSTT1</em> et <em>GSTM1</em>, votre taux de vitamine C pourrait &ecirc;tre sous-optimal si vous consommez moins de 90mg/jour. Si vous fumez, il est conseill&eacute; de consommer au moins 125mg/jour. Favorisez une alimentation riche en l&eacute;gumes&nbsp;et fruits&nbsp;pour combler vos besoins en vitamine C.</p>",
+    "notificationClient": "<p>Risque augment&eacute; d&rsquo;insuffisance en vitamine C</p>",
+    "nutriment": "5640d201359a48765765ed77",
+    "applicableSex": "Male",
+    "activations": [
+      "5640d27c359a48765765ed78"
+    ],
+    "__v": 1,
+    "riskNumClient": 2,
+    "count": 73,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "56426fd49d7698ff14ce6ef2",
+    "code": "Vitamin C-Male{GSTT1-GSTT1E7[CC] and GSTM1-GSTM1E2[AC]}{GSTT1-GSTT1E7[CT] and GSTM1-GSTM1E2[AA]}{GSTT1-GSTT1E7[CT] and GSTM1-GSTM1E2[CC]}{GSTT1-GSTT1E7[CT] and GSTM1-GSTM1E2[AC]}{GSTT1-GSTT1E7[TT] and GSTM1-GSTM1E2[AA]}{GSTT1-GSTT1E7[TT] and GSTM1-GSTM1E2[AC]}{GSTT1-GSTT1E7[CC] and GSTM1-GSTM1E2[CC]}{GSTT1-GSTT1E7[TT] and GSTM1-GSTM1E2[CC]}{GSTM1-GSTM1E2[AC]}{GSTT1-GSTT1E7[CT]}{GSTT1-GSTT1E7[TT]}{GSTM1-GSTM1E2[CC]}",
+    "recommendationClient": "<p>Consommez 90mg/jour de vitamine C.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur les g&egrave;nes <em>GSTT1</em> et <em>GSTM1</em>, votre taux de vitamine C devrait demeurer suffisant m&ecirc;me durant les p&eacute;riodes o&ugrave; votre apport n'est pas optimal. Si vous fumez, il est conseill&eacute; d&rsquo;augmenter votre apport &agrave; 125mg/jour. Favorisez une alimentation riche en l&eacute;gumes et fruits et vos besoins en vitamine C seront facilement combl&eacute;s.</p>",
+    "notificationClient": "<p>Aucun risque identifi&eacute;</p>",
+    "nutriment": "5640d201359a48765765ed77",
+    "applicableSex": "Male",
+    "activations": [
+      "5640d2a7359a48765765ed79",
+      "5640d2c3359a48765765ed7b",
+      "5640d2d9359a48765765ed7d",
+      "5640d2ce359a48765765ed7c",
+      "5640d2e3359a48765765ed7e",
+      "5640d2ed359a48765765ed7f",
+      "5640d2b3359a48765765ed7a",
+      "5640d2f7359a48765765ed80",
+      "5698253baff33fca0a017e65",
+      "569825b3175a41af0abbf30a",
+      "569826dd1c1328e90c91cd8a",
+      "569826ea1c1328e90c91cd8b"
+    ],
+    "__v": 4,
+    "riskNumClient": 1,
+    "count": 1230,
+    "rankInsideRiskNum": 10
+  },
+  {
+    "_id": "565dde2e5202d134786758d8",
+    "code": "Gluten{GLUTEN - FAIBLE}",
+    "recommendationClient": "<p>Il n'est pas n&eacute;cessaire d'&eacute;viter le gluten.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>HLA-DQ,</em> votre risque de d&eacute;velopper la maladie c&oelig;liaque est faible. Il n&rsquo;est donc pas n&eacute;cessaire d&rsquo;exclure le gluten d&rsquo;embl&eacute;e. Les produits c&eacute;r&eacute;aliers de grains entiers contenant du gluten sont des aliments riches en fibres alimentaires, vitamines et min&eacute;raux m&eacute;ritant leur place dans une alimentation &eacute;quilibr&eacute;e. Il n&rsquo;est cependant pas impossible que vous ressentiez des sympt&ocirc;mes associ&eacute;s &agrave; une sensibilit&eacute; au gluten.</p>",
+    "notificationClient": "<p>Risque faible de d&eacute;velopper la maladie c&oelig;liaque</p>",
+    "nutriment": "564e2067982047253681d76f",
+    "riskNumClient": 1,
+    "applicableSex": "Both",
+    "activations": [
+      "565dddc05202d134786758d5"
+    ],
+    "__v": 1,
+    "rankInsideRiskNum": 3,
+    "count": 135
+  },
+  {
+    "_id": "565dde3d5202d134786758d9",
+    "code": "Gluten{GLUTEN - NEGLIGIBLE}",
+    "recommendationClient": "<p>Il n'est pas n&eacute;cessaire d'&eacute;viter le gluten.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>HLA-DQ</em>, votre risque de d&eacute;velopper la maladie c&oelig;liaque est extr&ecirc;mement faible. Il n&rsquo;est donc pas n&eacute;cessaire d&rsquo;exclure le gluten d&rsquo;embl&eacute;e. Les produits c&eacute;r&eacute;aliers de grains entiers contenant du gluten sont des aliments riches en fibres alimentaires, vitamines et min&eacute;raux m&eacute;ritant leur place dans une alimentation &eacute;quilibr&eacute;e. Il n&rsquo;est cependant pas compl&egrave;tement impossible que vous ressentiez des sympt&ocirc;mes associ&eacute;s &agrave; une sensibilit&eacute; au gluten.</p>",
+    "notificationClient": "<p>Risque n&eacute;gligeable de d&eacute;velopper la maladie c&oelig;liaque</p>",
+    "nutriment": "564e2067982047253681d76f",
+    "riskNumClient": 1,
+    "applicableSex": "Both",
+    "activations": [
+      "565ddde95202d134786758d7"
+    ],
+    "__v": 1,
+    "rankInsideRiskNum": 4,
+    "count": 47
+  },
+  {
+    "_id": "565dde495202d134786758da",
+    "code": "Gluten{GLUTEN - MOYEN}",
+    "recommendationClient": "<p>Si vous n'&eacute;prouvez pas de sympt&ocirc;mes, il n'est pas n&eacute;cessaire d'&eacute;viter d'embl&eacute;e le gluten.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>HLA-DQ</em>, votre risque de d&eacute;velopper la maladie c&oelig;liaque demeure mod&eacute;r&eacute;. Si un membre de votre famille est atteint de la maladie c&oelig;liaque ou si vous avez le diab&egrave;te de type I, votre risque de maladie c&oelig;liaque est alors &eacute;lev&eacute;. Un test de d&eacute;pistage s&eacute;rologique pour la maladie c&oelig;liaque serait n&eacute;cessaire pour obtenir un diagnostic.</p>",
+    "notificationClient": "<p>Risque mod&eacute;r&eacute; de d&eacute;velopper la maladie c&oelig;liaque</p>",
+    "nutriment": "564e2067982047253681d76f",
+    "riskNumClient": 1,
+    "applicableSex": "Both",
+    "activations": [
+      "565dddd15202d134786758d6"
+    ],
+    "__v": 1,
+    "rankInsideRiskNum": 2,
+    "count": 316
+  },
+  {
+    "_id": "565dde545202d134786758db",
+    "code": "Gluten{GLUTEN - ÉLEVÉ}",
+    "recommendationClient": "<p>Une di&egrave;te sans gluten pourrait &ecirc;tre appropri&eacute;e.</p>",
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>HLA-DQ</em>, votre risque de d&eacute;velopper la maladie c&oelig;liaque est &eacute;lev&eacute;. Ce risque augmente davantage si un membre de votre famille est atteint de la maladie c&oelig;liaque ou si vous avez le diab&egrave;te de type I. Un test de d&eacute;pistage s&eacute;rologique serait n&eacute;cessaire pour obtenir un diagnostic.</p>",
+    "notificationClient": "<p>Risque &eacute;lev&eacute; de d&eacute;velopper la maladie c&oelig;liaque</p>",
+    "nutriment": "564e2067982047253681d76f",
+    "riskNumClient": 2,
+    "applicableSex": "Both",
+    "activations": [
+      "565dddb35202d134786758d4"
+    ],
+    "__v": 1,
+    "rankInsideRiskNum": 1,
+    "count": 27
+  },
+  {
+    "_id": "56be2ab9625e56cc23fec377",
+    "code": "Folate{rs1801133[]}{MTHFR-Failed[Failed]}",
+    "nutriment": "5640d41f359a48765765ed8a",
+    "rankInsideRiskNum": 10,
+    "riskNumClient": 2,
+    "applicableSex": "Both",
+    "activations": [
+      "56be2a90625e56cc23fec376",
+      "56be2a479773d3d6238938e5"
+    ],
+    "__v": 1,
+    "explicationClient": "<p>Il nous est pr&eacute;sentement impossible de vous attribuer un g&eacute;notype pr&eacute;cis pour le&nbsp;MTHFR. Ceci est d&ucirc; &agrave; nos limites technologiques et ne signifie en aucun cas un probl&egrave;me de votre part. Par pr&eacute;caution, nous vous sugg&eacute;rons de suivre les lignes directrices les plus prudentes pour r&eacute;duire vos risques d'avoir un taux sous-optimal en folate sanguin et un taux d&rsquo;homocyst&eacute;ine &eacute;lev&eacute;. Assurez-vous d&rsquo;int&eacute;grer des l&eacute;gumineuses, des l&eacute;gumes vert fonc&eacute; et des produits c&eacute;r&eacute;aliers &agrave; farine de bl&eacute; enrichie dans votre menu quotidien.</p>",
+    "notificationClient": "<p>Risque potentiellement augment&eacute; d&rsquo;insuffisance en folate sanguin</p>",
+    "recommendationClient": "<p>Consommez au moins 400 &Eacute;FA/jour.</p>",
+    "count": 8
+  },
+  {
+    "_id": "572a4431f1e248d01140b57c",
+    "code": "Vitamin C{GSTT1-GSTT1E7[] and GSTM1-GSTM1E2[AA]}",
+    "nutriment": "5640d201359a48765765ed77",
+    "rankInsideRiskNum": 10,
+    "riskNumClient": 2,
+    "applicableSex": "Both",
+    "activations": [
+      "572a43caf1e248d01140b57b"
+    ],
+    "__v": 1,
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne&nbsp;<em>GSTM1</em>, la recommandation la plus prudente est pr&eacute;sent&eacute;e. Votre taux de vitamine C pourrait &ecirc;tre sous-optimal si vous consommez moins de 90mg/jour. Si vous fumez, il est conseill&eacute; de consommer au moins 125mg/jour. Favorisez une alimentation riche en l&eacute;gumes&nbsp;et fruits&nbsp;pour combler vos besoins en vitamine C.</p>\r\n<p>* D&ucirc; a une limite technologique, il nous a &eacute;t&eacute; impossible de d&eacute;finir le diplotype pr&eacute;cis pour le&nbsp;g&egrave;ne <em>GSTT1</em>.&nbsp;</p>",
+    "notificationClient": "<p>Risque augment&eacute; d&rsquo;insuffisance en vitamine C *</p>",
+    "recommendationClient": "<p>Consommez au moins 90mg/jour de vitamine C.</p>",
+    "count": 0
+  },
+  {
+    "_id": "578e35b3fbf52db20ff9c27b",
+    "code": "Omega-3-Male{NOS3-rs1799983[GG]}",
+    "nutriment": "56293571bd2c79ade1357095",
+    "rankInsideRiskNum": 10,
+    "riskNumClient": 1,
+    "applicableSex": "Male",
+    "activations": [
+      "5640cefd359a48765765ed6a"
+    ],
+    "__v": 1,
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>NOS3</em>, votre taux de triglyc&eacute;rides sanguins devrait &ecirc;tre ad&eacute;quat si vous consommez entre 200-500mg/jour d&rsquo;om&eacute;ga-3. Comme le corps peut transformer les AAL en AEP et ADH &agrave; un taux de seulement 10% chez les hommes et 30% chez les femmes, misez sur 2 portions de poissons gras par semaine et compl&eacute;mentez avec quelques sources v&eacute;g&eacute;tales.</p>",
+    "notificationClient": "<p>Aucun risque identifi&eacute;</p>",
+    "recommendationClient": "<p>Consommez entre 200-500 mg/jour d'acides gras om&eacute;ga-3 de types AEP et ADH.</p>",
+    "count": 242
+  },
+  {
+    "_id": "578e366cfbf52db20ff9c27c",
+    "code": "Omega-3-Male{NOS3-rs1799983[TT]}{NOS3-rs1799983[GT]}",
+    "nutriment": "56293571bd2c79ade1357095",
+    "rankInsideRiskNum": 10,
+    "riskNumClient": 2,
+    "applicableSex": "Male",
+    "activations": [
+      "5640cf09359a48765765ed6b",
+      "5640ccff69fa7c0f543cbdfd"
+    ],
+    "__v": 1,
+    "explicationClient": "<p>Selon vos variations g&eacute;n&eacute;tiques pr&eacute;sentes sur le g&egrave;ne <em>NOS3</em>, vous &ecirc;tes plus susceptible d'avoir un taux de triglyc&eacute;rides sanguins &eacute;lev&eacute; si vous consommez peu d&rsquo;om&eacute;ga-3. Visez un apport d&rsquo;environ 1240 mg d'om&eacute;ga-3 de type AEP et ADH par jour pour diminuer ces risques. Comme le corps peut transformer les AAL en AEP et ADH &agrave; un taux de seulement 10% chez les hommes et 30% chez les femmes, misez sur au moins 3 portions de poissons gras par semaine et compl&eacute;mentez avec quelques sources v&eacute;g&eacute;tales. De plus, une &eacute;valuation de vos lipides sanguins via un bilan lipidique pourrait &ecirc;tre indiqu&eacute;. Parlez-en &agrave; votre m&eacute;decin.</p>",
+    "notificationClient": "<p>Risque augment&eacute; de triglyc&eacute;rides sanguins &eacute;lev&eacute;s</p>",
+    "recommendationClient": "<p>Consommez environ 1240 mg/jour d'acides gras om&eacute;ga-3 de types AEP et ADH.</p>",
+    "count": 293
+  },
+  {
+    "_id": "57d6d24989b00ae57dec7185",
+    "code": "Gluten{HLA-DQ-DQ2/DQ8-positive}",
+    "nutriment": "564e2067982047253681d76f",
+    "rankInsideRiskNum": 10,
+    "riskNumClient": 2,
+    "applicableSex": "Both",
+    "activations": [
+      "57d6d20589b00ae57dec7184"
+    ],
+    "__v": 1,
+    "explicationClient": "<p>Bas&eacute;e sur la fr&eacute;quence de la maladie c&oelig;liaque dans la population en g&eacute;n&eacute;ral, vos risques de d&eacute;velopper la maladie c&oelig;liaque sont de 2.5 &agrave; 3.3%. Ces risques augmentent si un membre de votre famille est diagnostiqu&eacute; avec la maladie. Bien que les marqueurs DQ2/DQ8 soient associ&eacute;s &agrave; la maladie c&oelig;liaque, ils sont insuffisants &agrave; eux seuls pour le d&eacute;veloppement de la maladie. D&rsquo;autres facteurs peuvent influencer votre niveau de risque. En cas d&rsquo;historique familial ou de sympt&ocirc;mes de la maladie c&oelig;liaque, la d&eacute;tection des anticorps anti-transglutaminase pourrait &ecirc;tre indiqu&eacute;e. Parlez-en &agrave; votre m&eacute;decin.</p>",
+    "notificationClient": "<p>DQ2/DQ8-positif; possibilit&eacute;&nbsp;de maladie c&oelig;liaque non&nbsp;exclue.</p>",
+    "recommendationClient": "<p>En cas de sympt&ocirc;mes gastro-intestinaux r&eacute;currents suite &agrave; la consommation de gluten, il est recommand&eacute; de consulter votre m&eacute;decin ou di&eacute;t&eacute;tiste.</p>",
+    "count": 91
+  },
+  {
+    "_id": "57d6d2596ba9f2cb7d7ffd0e",
+    "code": "Gluten{HLA-DQ-DQ2/DQ8-negative}",
+    "nutriment": "564e2067982047253681d76f",
+    "rankInsideRiskNum": 10,
+    "riskNumClient": 1,
+    "applicableSex": "Both",
+    "activations": [
+      "57d6d2226ba9f2cb7d7ffd0d"
+    ],
+    "__v": 1,
+    "explicationClient": "<p>Votre risque de d&eacute;velopper la maladie c&oelig;liaque peut &ecirc;tre exclu. Ce dernier est &eacute;valu&eacute; &agrave; moins de 1%. &Agrave; cet &eacute;gard, il n&rsquo;est pas n&eacute;cessaire de d&rsquo;&eacute;viter les aliments contenants du gluten. Ces aliments, tels que les produits de bl&eacute; entier, sont riches en fibres, vitamines et min&eacute;raux n&eacute;cessaires &agrave; une alimentation &eacute;quilibr&eacute;e.</p>",
+    "notificationClient": "<p>DQ2/DQ8-n&eacute;gatif</p>",
+    "recommendationClient": "<p><span id=\"docs-internal-guid-eaf3dbeb-2389-7356-cbe2-33ab56af0214\"><span style=\"font-size: 14.666666666666666px; font-family: Arial; color: #262626; background-color: transparent; font-variant-ligatures: normal; font-variant-position: normal; font-variant-numeric: normal; font-variant-alternates: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Il n'est pas n&eacute;cessaire d'&eacute;viter le gluten.</span></span></p>",
+    "count": 115
+  },
+  {
+    "_id": "57e2e47b832dc23a27dd09d1",
+    "code": "Gluten{HLA-DQ-DQ2/DQ8-ambiguous}",
+    "nutriment": "564e2067982047253681d76f",
+    "rankInsideRiskNum": 10,
+    "riskNumClient": 2,
+    "applicableSex": "Both",
+    "activations": [
+      "57e2e43c832dc23a27dd09d0"
+    ],
+    "__v": 0,
+    "explicationClient": "<p>Ils nous est impossible de d&eacute;terminer pr&eacute;cis&eacute;ment votre&nbsp;statut g&eacute;n&eacute;tique pour les&nbsp;marqueurs DQ2/DQ8. Bas&eacute;e sur la fr&eacute;quence de la maladie c&oelig;liaque dans la population en g&eacute;n&eacute;ral, vos chances de d&eacute;velopper la maladie c&oelig;liaque sont&nbsp;de 1 &agrave; 3.3%. Ces chances augmentent si vous avez des ant&eacute;c&eacute;dents familiaux de maladie c&oelig;liaque. Bien que les marqueurs DQ2/DQ8 soient associ&eacute;s &agrave; la maladie c&oelig;liaque, ils sont insuffisants &agrave; eux seuls pour le d&eacute;veloppement de la maladie. D&rsquo;autres facteurs peuvent influencer votre niveau de risque.</p>",
+    "notificationClient": "<p>DQ2/DQ8-statut ind&eacute;termin&eacute;; chances&nbsp;de maladie c&oelig;liaque non&nbsp;exclue.</p>",
+    "recommendationClient": "<p>En cas de sympt&ocirc;mes gastro-intestinaux r&eacute;currents suite &agrave; la consommation de gluten, il est recommand&eacute; de consulter votre m&eacute;decin ou di&eacute;t&eacute;tiste.</p>",
+    "count": 16
+  }
+]

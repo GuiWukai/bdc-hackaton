@@ -1,0 +1,1027 @@
+[
+  {
+    "_id": "54b177f1189eb5c5c7f424d8",
+    "commercialNames": "ELAVIL®",
+    "drugName": "Amitriptyline",
+    "drugId": "PA448385",
+    "__v": 15,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866",
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc4ef7a106e79a19f5b88e",
+    "commercialNames": "ABILIFY®",
+    "drugName": "Aripiprazole",
+    "drugId": "PA10026",
+    "__v": 14,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>L'aripiprazole est principalement m&eacute;tabolis&eacute; par l'enzyme, CYP2D6. Dans la population en g&eacute;n&eacute;ral, on retrouve plusieurs versions de cette enzyme ayant des niveaux d'activit&eacute; diff&eacute;rents. Ceci est une des raisons principales pourquoi diff&eacute;rentes personnes ne r&eacute;pondent pas de la m&ecirc;me fa&ccedil;on au traitement par l'aripiprazole. Cette incoh&eacute;rence refl&egrave;te du fait que les concentrations plasmatiques d'aripiprazole varient entre les individus ayant des diff&eacute;rences g&eacute;n&eacute;tiques dans le CYP2D6. Des concentrations plasmatiques sup&eacute;rieures &agrave; la normale peuvent entrainer une toxicit&eacute; &agrave; long terme, telle qu'une incidence accrue de cancers de la corticosurr&eacute;nal et combin&eacute;s, en particulier d&ucirc; &agrave; la bonne tol&eacute;rance de l'aripiprazole. Ainsi, la connaissance de votre g&eacute;notype pour le CYP2D6 peut &ecirc;tre utilis&eacute;e pour atteindre la concentration plasmatique optimale de l'aripiprazole et de minimiser votre risque d'effets secondaires ind&eacute;sirables ou d'&eacute;chec du traitement.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc4fd6a106e79a19f5b893",
+    "commercialNames": "STRATTERA®",
+    "drugName": "Atomoxétine",
+    "drugId": "PA134688071",
+    "__v": 9,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>L'enzyme principalement responsable du m&eacute;tabolisme de l'atomox&eacute;tine est le CYP2D6, qui a un vaste spectrum d'activit&eacute; enzymatique selon la g&eacute;n&eacute;tique d'une personne. Alors que la th&eacute;rapie par l'atomox&eacute;tine est en g&eacute;n&eacute;ral bien tol&eacute;r&eacute;e, les individus qui m&eacute;tabolisent plus lentement l'atomox&eacute;tine peuvent &eacute;prouver des effets secondaires ind&eacute;sirables, tels qu'une augmentation de fr&eacute;quence cardiaque et une perte de poids. D'autre part, il est possible que ceux m&eacute;tabolisant tr&egrave;s rapidement ce m&eacute;dicament aient une efficacit&eacute; de traitement r&eacute;duite. Malgr&eacute; le fait que la posologie recommand&eacute;e sur l'&eacute;tiquette reste souvent efficace, une connaissance du g&eacute;notype du CYP2D6 peut aider les ajustements de dosage.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc50fb0ed06e331ca551d6",
+    "commercialNames": "IMURAN®",
+    "drugName": "Azathioprine",
+    "drugId": "PA448515",
+    "__v": 11,
+    "relatedGenes": [
+      "54af56123e2a55d0b6bc1cc9"
+    ],
+    "premiseClient": "<p>Le TPMT est la principale enzyme responsable de l'inactivation de l'azathioprine. Pour un traitement chronique avec des doses conventionnelles d'azathioprine, les personnes avec un ou deux all&egrave;les non fonctionnels du TPMT sont &agrave; un risque significativement plus &eacute;lev&eacute; d'effets secondaires ind&eacute;sirables (ex: my&eacute;losuppression potentiellement fatale), due &agrave; l'augmentation de la concentration en m&eacute;tabolites actifs (les m&eacute;tabolites actifs seraient normalement inactiv&eacute;s par le TPMT). L'incorporation de donn&eacute;es g&eacute;n&eacute;tiques du TPMT dans l'utilisation de l'azathioprine est plus b&eacute;n&eacute;fique avant de commencer le traitement de troubles immunologiques non canc&eacute;reux, afin d'assurer que les doses de d&eacute;part soient ajust&eacute;es en cons&eacute;quence.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc513d0ed06e331ca551d7",
+    "commercialNames": "ANAFRANIL®",
+    "drugName": "Clomipramine",
+    "drugId": "PA449048",
+    "__v": 9,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866",
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "<p>La concentration plasmatique d'un antid&eacute;presseur tricyclique, tel que la clomipramine, peut varier consid&eacute;rablement d'un individu &agrave; l'autre. Ces variations en concentration plasmatique sont d'ailleurs associ&eacute;es &agrave; la tol&eacute;rance et &agrave; l&rsquo;efficacit&eacute; du traitement &agrave; la clomipramine. Afin de pr&eacute;dire votre r&eacute;ponse &agrave; la clomipramine nous avons analys&eacute; les deux enzymes qui sont principalement impliqu&eacute;es dans le m&eacute;tabolisme de ce m&eacute;dicament, un facteur d&eacute;terminant des concentrations plasmatiques. Alors que la clomipramine est principalement m&eacute;tabolis&eacute; par l'enzyme CYP2C19 en desmethyl-clomipramine, le CYP2D6 est responsable de son &eacute;limination. Ainsi, votre g&eacute;notype pour CYP2D6 et CYP2C19 a &eacute;t&eacute; utilis&eacute; pour guider l&rsquo;utilisation de la clomipramine pour le traitement de d&eacute;sordres psychiatriques, afin de minimiser le risque d'effets secondaires ind&eacute;sirables et d'en augmenter les chances d'un traitement efficace. Puisque des plus petites doses de clomipramine sont g&eacute;n&eacute;ralement utilis&eacute;es pour le traitement de douleurs neuropathiques, l&rsquo;influence du CYP2D6 et CYP2C19 sur la r&eacute;ponse m&eacute;dicamenteuse est moins importante. Toutefois, si des doses plus &eacute;lev&eacute;es sont requises, les g&eacute;notypes du CYP2D6 et du CYP2C19 peuvent aider &agrave; guider les ajustements de dosage.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc51870ed06e331ca551d9",
+    "commercialNames": "PLAVIX®",
+    "drugName": "Clopidogrel",
+    "drugId": "PA449053",
+    "__v": 10,
+    "relatedGenes": [
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "<p>Le clopidogrel est un m&eacute;dicament qui doit &ecirc;tre bioactiv&eacute; en m&eacute;tabolite actif afin d'&ecirc;tre efficace et d'emp&ecirc;cher la formation de caillots sanguins. La bioactivation du clopidogrel est accomplie par l'enzyme CYP2C19 mais des diff&eacute;rences consid&eacute;rables du niveau d'activit&eacute; de cette enzyme existe entre diff&eacute;rentes personnes. De plus, ces diff&eacute;rences d'activit&eacute; enzymatique sont associ&eacute;es &agrave; l'efficacit&eacute; et au succ&egrave;s du traitement par le clopidogrel. Donc, l&rsquo;utilisation s&eacute;curitaire et efficace du clopidogrel devrait prendre en consid&eacute;ration l&rsquo;activit&eacute; enzymatique du CYP2C19. L&rsquo;utilisation du g&eacute;notype du CYP2C19 pour le traitement par le clopidogrel s'applique principalement aux personnes pr&eacute;sentant un syndrome coronarien aigu, en particulier ceux ayant subit une intervention coronaire percutan&eacute;e.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc5205bde2766a1db07f90",
+    "commercialNames": "ATASOL®",
+    "drugName": "Codéine",
+    "drugId": "PA449088",
+    "__v": 11,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>L&rsquo;effet analg&eacute;sique de la cod&eacute;ine provient de sa conversion en morphine. Cette conversion est attribu&eacute;e au CYP2D6 dont l&rsquo;activit&eacute; enzymatique est largement d&eacute;pendante de facteurs g&eacute;n&eacute;tiques. De plus, l&rsquo;efficacit&eacute; et l&rsquo;innocuit&eacute; du traitement &agrave; la cod&eacute;ine sont influenc&eacute;es de fa&ccedil;on significative par ces variations g&eacute;n&eacute;tiques. Ainsi, le g&eacute;notypage du CYP2D6 est utile dans le choix d&rsquo;utilisation et de dosage de la cod&eacute;ine en contribuant &agrave; optimiser l&rsquo;efficacit&eacute; du traitement et &agrave; r&eacute;duire le risque d'effets secondaires ind&eacute;sirables.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc5243bde2766a1db07f91",
+    "commercialNames": "PERTOFRANE®",
+    "drugName": "Désipramine",
+    "drugId": "PA449233",
+    "__v": 10,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>La concentration plasmatique d'un antid&eacute;presseur tricyclique, tel que la d&eacute;sipramine, peut varier consid&eacute;rablement d'un individu &agrave; l'autre. Ces variations en concentration plasmatique sont d'ailleurs associ&eacute;es &agrave; la tol&eacute;rance et &agrave; l&rsquo;efficacit&eacute; du traitement &agrave; la d&eacute;sipramine. Afin de pr&eacute;dire votre r&eacute;ponse &agrave; la d&eacute;sipramine, nous avons analys&eacute; l'enzymes qui est principalement impliqu&eacute;e dans le m&eacute;tabolisme de ce m&eacute;dicament, un facteur d&eacute;terminant des concentrations plasmatiques. Puisque l&rsquo;&eacute;limination de la d&eacute;sipramine se fait principalement par le CYP2D6, les variations g&eacute;n&eacute;tiques qui alt&egrave;rent l&rsquo;activit&eacute; de cette enzyme peuvent influencer la concentration plasmatique de ce m&eacute;dicament. Ainsi, votre g&eacute;notype pour CYP2D6 a &eacute;t&eacute; utilis&eacute; pour guider l&rsquo;utilisation de la d&eacute;sipramine pour le traitement de d&eacute;sordres psychiatriques, afin de minimiser le risque d'effets secondaires ind&eacute;sirables et d'en augmenter les chances d'un traitement efficace. Puisque des plus petites doses de d&eacute;sipramine sont g&eacute;n&eacute;ralement utilis&eacute;es pour le traitement de douleurs neuropathiques, l&rsquo;influence du CYP2D6 sur la r&eacute;ponse m&eacute;dicamenteuse est moins importante. Toutefois, si des doses plus &eacute;lev&eacute;es sont requises, le g&eacute;notype du CYP2D6 peuvent aider &agrave; guider les ajustements de dosage.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc5277bde2766a1db07f92",
+    "commercialNames": "SILENOR®, SINEQUAN®",
+    "drugName": "Doxépine",
+    "drugId": "PA449409",
+    "__v": 8,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866",
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc52babde2766a1db07f93",
+    "commercialNames": "NEXIUM®",
+    "drugName": "Ésoméprazole",
+    "drugId": "PA10075",
+    "__v": 11,
+    "relatedGenes": [
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc52fbbde2766a1db07f94",
+    "commercialNames": "TAMBOCOR®",
+    "drugName": "Flécaïnide",
+    "drugId": "PA449646",
+    "__v": 10,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>La concentration plasmatique du fl&eacute;ca&iuml;nide peut varier consid&eacute;rablement d'un individu &agrave; l'autre. Ces diff&eacute;rences sont attribu&eacute;es en grande partie aux variations g&eacute;n&eacute;tiques qui influencent l'activit&eacute; de l'enzyme CYP2D6. Puisque le CYP2D6 est l'enzyme responsable du m&eacute;tabolisme du fl&eacute;ca&iuml;nide, des changements au niveau de l'activit&eacute; de cette enzyme peuvent soit r&eacute;duire ou acc&eacute;l&eacute;rer l'&eacute;limination de ce m&eacute;dicament. En cons&eacute;quence, une r&eacute;duction du m&eacute;tabolisme augmente les risques d'effets secondaires ind&eacute;sirables et une augmentation du m&eacute;tabolisme r&eacute;duit l'efficacit&eacute; du traitement. Ainsi, votre g&eacute;notype pour le CYP2D6 peut &ecirc;tre utilis&eacute; pour optimiser l'utilisation du fl&eacute;ca&iuml;nide, de minimiser le risque d'effets secondaires ind&eacute;sirables et d'en maximiser l'efficacit&eacute;.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc5332bde2766a1db07f95",
+    "commercialNames": "HALDOL®",
+    "drugName": "Halopéridol",
+    "drugId": "PA449841",
+    "__v": 12,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>Alors que l'halop&eacute;ridol est prescrit comme antipsychotique hautement puissant, les concentrations plasmatiques peuvent varier consid&eacute;rablement d'un individu &agrave; l'autre, surtout lorsqu'il est administr&eacute; par voie orale. Cette variation est influenc&eacute;e par le taux de m&eacute;tabolisme de l'halop&eacute;ridol, qui se fait principalement l'enzyme CYP2D6. Le g&eacute;notypage de votre CYP2D6 peut &ecirc;tre utilis&eacute;e pour optimiser le traitement de l'halop&eacute;ridol par voie orale en fournissant des informations pr&eacute;dictives en termes du risque d'effets secondaires ind&eacute;sirables ou de l'efficacit&eacute; pr&eacute;vue. Puisque la variabilit&eacute; de la r&eacute;ponse est moindre lorsque l'halop&eacute;ridol est administr&eacute;e par voie parent&eacute;rale, ces recommandations sont valables uniquement lorsque l'halop&eacute;ridol est administr&eacute; par voie orale. N&eacute;anmoins, votre g&eacute;notypage pour CYP2D6 peut &ecirc;tre utile pour ajuster le dosage lorsque des effets secondaires ind&eacute;sirables sont ressentis ou que le traitement est inefficace.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc5375bde2766a1db07f96",
+    "commercialNames": "IMPRIL®",
+    "drugName": "Imipramine",
+    "drugId": "PA449969",
+    "__v": 10,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866",
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "<p>La concentration plasmatique d'un antid&eacute;presseur tricyclique, tel que l'imipramine, peut varier consid&eacute;rablement d'un individu &agrave; l'autre. Ces variations en concentration plasmatique sont d'ailleurs associ&eacute;es &agrave; la tol&eacute;rance et &agrave; l'efficacit&eacute; du traitement par l'imipramine. Afin de pr&eacute;dire votre r&eacute;ponse &agrave; l'imipramine, nous avons analys&eacute; les enzymes qui sont principalement impliqu&eacute;es dans le m&eacute;tabolisme de ce m&eacute;dicament, un facteur d&eacute;terminant des concentrations plasmatiques. Tandis que l'imipramine est principalement m&eacute;tabolis&eacute;e par l'enzyme CYP2C19 en desipramine, un antid&eacute;presseur en soit pr&eacute;sentant des caract&eacute;ristiques cliniques distinctes, le CYP2D6 est responsable de son &eacute;limination. Ainsi, votre g&eacute;notype pour CYP2D6 et CYP2C19 a &eacute;t&eacute; utilis&eacute; pour guider l'utilisation de l'imipramine pour le traitement de d&eacute;sordres psychiatriques, afin de minimiser le risque d'effets secondaires ind&eacute;sirables et la probabilit&eacute; d'&eacute;chec du traitement. Puisque des plus petites doses d'imipramine sont g&eacute;n&eacute;ralement utilis&eacute;es pour le traitement de douleurs neuropathiques, l&rsquo;influence du CYP2D6 et CYP2C19 sur la r&eacute;ponse m&eacute;dicamenteuse est moins prononc&eacute;e. Toutefois, si des doses plus importantes sont n&eacute;cessaires, le dosage peut &ecirc;tre ajust&eacute; selon les g&eacute;notypes du CYP2D6 et du CYP2C19.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc53b8bde2766a1db07f97",
+    "commercialNames": "PREVACID®",
+    "drugName": "Lansoprazole",
+    "drugId": "PA450180",
+    "__v": 11,
+    "relatedGenes": [
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "<p>Les variations interindividuelles de concentration plasmatique du lansoprazole, ainsi que le pH gastrique et de l'efficacit&eacute; du traitement, sont grandement attribu&eacute;s &agrave; des variations dans CYP2C19, l'enzyme principale responsable du m&eacute;tabolisme du lansoprazole. Une connaissance de votre g&eacute;notype CYP2C19 peut aider &agrave; atteindre la concentration plasmatique optimale et l'inhibition de l'acide gastrique d&eacute;sir&eacute;e. Le traitement au lansoprazole bas&eacute; sur le g&eacute;notypage du CYP2C19 vise &agrave; optimiser le traitement des maladies li&eacute;es &agrave; l'hyperacidit&eacute; gastrique (par exemple : l'ulc&egrave;re de peptide, la maladie du reflux gastro-oesophagien (RGO) et de Zollinger Ellison) et a l'&eacute;radication des infections &agrave; Helicobacter pylori (avec l'utilisation concomitante d'antibiotiques).</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc53f1bde2766a1db07f98",
+    "commercialNames": "PURINETHOL®",
+    "drugName": "Mercaptopurine",
+    "drugId": "PA450379",
+    "__v": 11,
+    "relatedGenes": [
+      "54af56123e2a55d0b6bc1cc9"
+    ],
+    "premiseClient": "<p>L'inactivation de la mercaptopurine se fait principalement par le TPMT, une enzyme qui contribue &agrave; l'&eacute;limination de ce m&eacute;dicament. Lors d'un traitement chronique &agrave; la mercaptopurine (avec une dose conventionnelle), les individus porteurs d'un ou de deux all&egrave;les non-fonctionnels du TPMT sont &agrave; un risque significativement plus &eacute;lev&eacute; d'effets secondaires ind&eacute;sirables (ex: my&eacute;losuppression potentiellement fatale), due &agrave; l'augmentation de concentration de m&eacute;tabolites actifs (normalement inactiv&eacute;s par le TPMT). Votre g&eacute;notype pour le TPMT peut donc &ecirc;re b&eacute;n&eacute;fique avant de commencer le traitement &agrave; la mercaptopurine pour les troubles immunologiques non canc&eacute;reux, afin d'assurer que les doses de d&eacute;part soient ajust&eacute;es en cons&eacute;quence.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc5437bde2766a1db07f99",
+    "commercialNames": "LOPRESOR®",
+    "drugName": "Métoprolol",
+    "drugId": "PA450480",
+    "__v": 11,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>Les concentrations plasmatiques du m&eacute;toprolol peuvent varier consid&eacute;rablement d'un individu &agrave; l'autre et influencer la r&eacute;ponse au m&eacute;dicament. Tandis que des concentrations plasmatiques trop &eacute;lev&eacute;es entrainer des effets secondaires ind&eacute;sirables (fr&eacute;quence cardiaque trop basse par rapport &agrave; la normale, appel&eacute; bradycardie), des concentrations trop basses n'atteignent pas l'effet th&eacute;rapeutique d&eacute;sir&eacute;. La variation dans la r&eacute;ponse au m&eacute;toprolol est en majeure partie d&eacute;termin&eacute;e par le niveau d'activit&eacute; du CYP2D6, l'enzyme principale responsable de son m&eacute;tabolisme. Ainsi, votre g&eacute;notype individu pour le CYP2D6 peut &ecirc;tre utile pour maximiser l'efficacit&eacute; du traitement au m&eacute;toprolol et d'en r&eacute;duire le risque d'effets secondaires ind&eacute;sirables.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc5467bde2766a1db07f9a",
+    "commercialNames": "AVENTYL®",
+    "drugName": "Nortriptyline",
+    "drugId": "PA450657",
+    "__v": 10,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>La concentration plasmatique d'un antid&eacute;presseur tricyclique, tel que la nortriptyline, peut varier consid&eacute;rablement d'un individu &agrave; l'autre. Ces variations en concentration plasmatique sont d'ailleurs associ&eacute;es &agrave; la tol&eacute;rance et &agrave; l&rsquo;efficacit&eacute; du traitement &agrave; la nortriptyline. Afin de pr&eacute;dire votre r&eacute;ponse &agrave; la nortriptyline, nous avons analys&eacute; l'enzymes qui est principalement impliqu&eacute;e dans le m&eacute;tabolisme de ce m&eacute;dicament, un facteur d&eacute;terminant des concentrations plasmatiques. Puisque l&rsquo;&eacute;limination de la d&eacute;sipramine se fait principalement par le CYP2D6, les variations g&eacute;n&eacute;tiques qui alt&egrave;rent l&rsquo;activit&eacute; de cette enzyme peuvent influencer la concentration plasmatique de ce m&eacute;dicament. Ainsi, votre g&eacute;notype pour CYP2D6 a &eacute;t&eacute; utilis&eacute; pour guider l&rsquo;utilisation de la nortriptyline pour le traitement de d&eacute;sordres psychiatriques, afin de minimiser le risque d'effets secondaires ind&eacute;sirables et d'en augmenter les chances d'un traitement efficace. Puisque des plus petites doses de nortriptyline sont g&eacute;n&eacute;ralement utilis&eacute;es pour le traitement de douleurs neuropathiques, l&rsquo;influence du CYP2D6 sur la r&eacute;ponse m&eacute;dicamenteuse est moins importante. Toutefois, si des doses plus &eacute;lev&eacute;es sont requises, le g&eacute;notype du CYP2D6 peuvent aider &agrave; guider les ajustements de dosage.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc5494bde2766a1db07f9b",
+    "commercialNames": "LOSEC®",
+    "drugName": "Oméprazole",
+    "drugId": "PA450704",
+    "__v": 12,
+    "relatedGenes": [
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "<p>L'om&eacute;prazole est principalement m&eacute;tabolis&eacute; par le CYP2C19, une enzyme ayant diff&eacute;rents niveaux d'activit&eacute; selon les variations g&eacute;n&eacute;tiques pr&eacute;sentes chez un individu. En cons&eacute;quence, le niveau d'activit&eacute; du CYP2C19 influence l'efficacit&eacute; du traitement &agrave; l'om&eacute;prazole, c'est-&agrave;-dire l'inhibition de l'acide gastrique. Ainsi, le g&eacute;notypage de votre CYP2C19 est utile pour guider le dosage de l'om&eacute;prazole, atteindre une concentration plasmatique optimale et optimiser l'inhibition de l'acide gastrique. L'utilisation du g&eacute;notypage de votre CYP2C19 lors d'un traitement &agrave; l'om&eacute;prazole est applicable &agrave; l'optimisation de traitements de maladies li&eacute;es &agrave; l'hyperacidit&eacute; gastrique (par exemple : l'ulc&egrave;re de peptide, la maladie du reflux gastro-oesophagien (RGO) et de Zollinger Ellison) et &agrave; l'&eacute;radication des infections &agrave; Helicobacter pylori (avec l'utilisation concomitante d'antibiotiques).</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc54c0bde2766a1db07f9c",
+    "commercialNames": "OxyNEO®, Oxy.IR®",
+    "drugName": "Oxycodone",
+    "drugId": "PA450741",
+    "__v": 12,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>Le CYP2D6 convertit l'oxycodone en oxymorphone, une &eacute;tape essentielle &agrave; l&rsquo;effet analg&eacute;sique de ce m&eacute;dicament. Plusieurs variations g&eacute;n&eacute;tiques ont &eacute;t&eacute; identifi&eacute;es dans le g&egrave;ne du CYP2D6. Ces derni&egrave;res peuvent avoir un effet significatif sur le niveau d&rsquo;activit&eacute; de cette enzyme et, par cons&eacute;quent, influencer l&rsquo;efficacit&eacute; du traitement et le risque d&rsquo;effets secondaires ind&eacute;sirables. Ainsi, votre g&eacute;notypage du CYP2D6 est un outil qui aide &agrave; d&eacute;terminer l'utilit&eacute; de l'oxycodone et &agrave; en ajuster la dose.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc5525bde2766a1db07f9d",
+    "commercialNames": "ZOCOR®",
+    "drugName": "Simvastatine",
+    "drugId": "PA451363",
+    "__v": 13,
+    "relatedGenes": [
+      "54af56063e2a55d0b6bc1cc8"
+    ],
+    "premiseClient": "<p>L'&eacute;limination du simvastatine se fait par le foie mais pour se rendre &agrave; cet organe, le simvastatine doit passer par un transporteur sp&eacute;cialis&eacute; appel&eacute; le SLCO1B1. Par contre, certaines variations g&eacute;n&eacute;tiques influencent le fonctionnement du SLCO1B1, ce qui peut ralentir l'entr&eacute;e du simvastatine dans le foie (et donc son &eacute;limination). Alors que les effets secondaires ind&eacute;sirables au statines sont relativement peu commun (1-5%), leur utilisation &agrave; grande &eacute;chelle g&eacute;n&egrave;re un nombre consid&eacute;rable d&rsquo;individus qui subissent des effets secondaires ind&eacute;sirables. Par exemple, la toxicit&eacute; pour les muscles squelettiques, qui survient lors d&rsquo;une exposition syst&eacute;mique au simvastatine, est l&rsquo;effet secondaire le plus commun et une cause r&eacute;pandue de non-adh&eacute;sion au traitement. Ainsi, votre g&eacute;notypage du SLCO1B1 est utile pour d&eacute;terminer si le simvastatine est appropri&eacute; pour vous.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc5551bde2766a1db07f9e",
+    "commercialNames": "NOLVADEX®",
+    "drugName": "Tamoxifène",
+    "drugId": "PA451581",
+    "__v": 10,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>&Eacute;tant une \"pro-drogue\", le tamoxif&egrave;ne&nbsp;doit &ecirc;tre activ&eacute; par l'enzyme CYP2D6 pour &ecirc;tre efficace. Cependant, les niveaux d'activit&eacute; du CYP2D6 varient d'un individu &agrave; l'autre, ce qui peut alt&eacute;rer la r&eacute;ponse au tamoxif&egrave;ne. Plusieurs variations g&eacute;n&eacute;tiques ont &eacute;t&eacute; identifi&eacute;es dans le g&egrave;ne du CYP2D6 qui peuvent avoir un effet significatif sur le niveau d&rsquo;activit&eacute; de cette enzyme. Par cons&eacute;quent, votre g&eacute;notypage du CYP2D6 est utile pour optimiser le choix et dosage du&nbsp;tamoxif&egrave;ne&nbsp;afin d'en maximiser l&rsquo;efficacit&eacute; et de r&eacute;duire le risque de rechute du cancer du sein.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc557dbde2766a1db07f9f",
+    "commercialNames": "LANVIS®",
+    "drugName": "Thioguanine",
+    "drugId": "PA451663",
+    "__v": 11,
+    "relatedGenes": [
+      "54af56123e2a55d0b6bc1cc9"
+    ],
+    "premiseClient": "<p>L'inactivation de la thioguanine se fait principalement par le TPMT, une enzyme qui contribue &agrave; l'&eacute;limination de ce m&eacute;dicament. Lors d'un traitement chronique &agrave; la thioguanine (avec une dose conventionnelle), les individus porteurs d'un ou de deux all&egrave;les non-fonctionnels du TPMT sont &agrave; un risque significativement plus &eacute;lev&eacute; d'effets secondaires ind&eacute;sirables (ex: my&eacute;losuppression potentiellement fatale), due &agrave; l'augmentation de concentration de m&eacute;tabolites actifs. Votre g&eacute;notypage du TPMT peut donc &ecirc;tre b&eacute;n&eacute;fique avant de commencer le traitement &agrave; la thioguanine pour les troubles immunologiques non canc&eacute;reux, afin d'assurer que les doses de d&eacute;part soient ajust&eacute;es en cons&eacute;quence.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc55abbde2766a1db07fa0",
+    "commercialNames": "RALIVIA®, DURELA®",
+    "drugName": "Tramadol",
+    "drugId": "PA451735",
+    "__v": 11,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>L&rsquo;effet analg&eacute;sique du tramadol est assur&eacute; gr&acirc;ce &agrave; la contribution de deux mol&eacute;cules : le tramadol et l&rsquo;O-desmethyltramadol. Tandis que le tramadol agit en supprimant la recapture de la s&eacute;rotonine et de la noradr&eacute;naline (effet non-&mu;-opio&iuml;de), l&rsquo;O-desmethyltramadol agit par la voie &mu;-opio&iuml;de et produit un effet analg&eacute;sique plus puissant. La r&eacute;action enzymatique qui convertit le tramadol en O-desmethyltramadol est assur&eacute;e par l&rsquo;enzyme CYP2D6. Cependant, il existe plusieurs variations g&eacute;n&eacute;tiques qui influencent le niveau d&rsquo;activit&eacute; de cette enzyme. Tandis qu'une r&eacute;duction du niveau d'activit&eacute; du CYP2D6 r&eacute;duit l'efficacit&eacute; du tramadol, une augmentation peut entrainer des effets secondaires ind&eacute;sirables puisqu'une qu'une quantit&eacute; trop importante d'O-desmethyltramadol se retrouve en circulation. Donc, en identifiant par g&eacute;notypage les variations g&eacute;n&eacute;tiques du CYP2D6 pr&eacute;sentes chez vous, il est possible de guider le choix et le dosage du tramadol afin d&rsquo;en optimiser l&rsquo;efficacit&eacute; et de minimiser le risque d&rsquo;effets secondaires ind&eacute;sirables.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc55d5bde2766a1db07fa1",
+    "commercialNames": "SURMONTIL®",
+    "drugName": "Trimipramine",
+    "drugId": "PA451791",
+    "__v": 8,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866",
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "54cc560cbde2766a1db07fa2",
+    "commercialNames": "COUMADIN®",
+    "drugName": "Warfarine",
+    "drugId": "PA451906",
+    "__v": 12,
+    "relatedGenes": [
+      "54af55fa3e2a55d0b6bc1cc7",
+      "54af561c3e2a55d0b6bc1cca"
+    ],
+    "premiseClient": "<p>Pour atteindre l'effet th&eacute;rapeutique d&eacute;sir&eacute; du warfarin (i.e. anticoagulant), un long processus d'ajustement de la dose est souvent n&eacute;cessaire. Pendant ce temps, vous pouvez rencontrer des saignements ind&eacute;sirables ou le traitement peut ne pas &ecirc;tre efficace. Deux enzymes sont connues pour avoir des effets sur la r&eacute;ponse au warfarin: CYP2C9 et VKORC1. Plusieurs variations g&eacute;n&eacute;tiques ont &eacute;t&eacute; identifi&eacute;es pour influencer le niveau d'activit&eacute; de ces enzymes et contribuent &agrave; l'ajustement de la dose (jusqu'&agrave; 30%). C'est pourquoi votre g&eacute;notype pour CYP2C9 et VKORC1 peut &ecirc;tre utile pour rapidement trouver la dose id&eacute;ale. &nbsp;</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "55785dad3554f5c8484829b0",
+    "commercialNames": "COREG®",
+    "drugName": "Carvédilol",
+    "drugId": "carvedilol",
+    "__v": 9,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>CYP2D6 est la principale enzyme responsable de l'&eacute;limination du carv&eacute;dilol. D&rsquo;un individu &agrave; l&rsquo;autre le niveau d'activit&eacute; de l&rsquo;enzyme CYP2D6 peut varier consid&eacute;rablement et ainsi augmenter ou diminuer la quantit&eacute; de carv&eacute;dilol absorb&eacute;e par votre corps. Selon votre code d'ADN unique, une m&ecirc;me dose du m&eacute;dicament carv&eacute;dilol peut agir avec plus ou moins de puissance. Par exemple, les personnes ayant une activit&eacute; de CYP2D6 faible (m&eacute;taboliseurs lents) absorbent de 2 &agrave; 3 fois plus carv&eacute;dilol que les personnes ayant une activit&eacute; normale en CYP2D6 (m&eacute;taboliseurs rapides). En outre, les personnes ayant une faible activit&eacute; de CYP2D6 peuvent &eacute;prouver certains sympt&ocirc;mes ind&eacute;sirables, comme des vertiges et des &eacute;tourdissements. Par cons&eacute;quent, votre g&eacute;notype CYP2D6 peut &ecirc;tre utilis&eacute; pour ajuster la dose de carv&eacute;dilol et minimiser le risque de r&eacute;actions ind&eacute;sirables au m&eacute;dicament.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "55785fde3554f5c8484829ba",
+    "commercialNames": "CELEBREX®",
+    "drugName": "Célécoxib",
+    "drugId": "celecoxib",
+    "__v": 10,
+    "relatedGenes": [
+      "54af55fa3e2a55d0b6bc1cc7"
+    ],
+    "premiseClient": "<p>L&rsquo;&eacute;limination du c&eacute;l&eacute;coxib de la circulation sanguine est surtout d&eacute;pendante d'une enzyme du foie, nomm&eacute; CYP2C9. Toutefois, en raison des diff&eacute;rences g&eacute;n&eacute;tiques qui existent entre les individus, le niveau d'activit&eacute; de CYP2C9 peut varier. Cette variation g&eacute;n&eacute;tique a un impact direct sur la puissance du c&eacute;l&eacute;coxib. En effet, chez les personnes ayant une activit&eacute; CYP2C9 faible, l&rsquo;&eacute;limination d&rsquo;une seule dose de c&eacute;l&eacute;coxib est beaucoup plus lente (demi-vie jusqu'&agrave; trois fois plus longue), ce qui augmente l'exposition globale du m&eacute;dicament. Cette augmentation de l&rsquo;exposition accroit les risques d&rsquo;effets secondaires ind&eacute;sirables, comme des saignements gastro-intestinaux. Par cons&eacute;quent, la connaissance de votre g&eacute;notype CYP2C9 peut &ecirc;tre utile pour optimiser la th&eacute;rapie de c&eacute;l&eacute;coxib et d'&eacute;viter les effets ind&eacute;sirables associ&eacute;s.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "557866413554f5c8484829bb",
+    "commercialNames": "PLATINOL®",
+    "drugName": "Cisplatine",
+    "drugId": "cisplatin",
+    "__v": 10,
+    "relatedGenes": [
+      "54af56123e2a55d0b6bc1cc9"
+    ],
+    "premiseClient": "<p>Un traitement &agrave; la cisplatine comporte des risques faibles &agrave; &eacute;lev&eacute;s de toxicit&eacute;. L'un des effets ind&eacute;sirables le plus grave de la chimioth&eacute;rapie &agrave; la cisplatine est une diminution auditive, qui se produit dans 10% &agrave; 25% des adultes, et jusqu'&agrave; 50% chez les personnes recevant des doses de plus de 400 mg/m2. Malheureusement, l&rsquo;apparition des effets ind&eacute;sirables se traduit souvent par la r&eacute;duction des doses et l&rsquo;arr&ecirc;t pr&eacute;matur&eacute; du traitement par la cisplatine et augmente ainsi les risques de progression de la maladie. Des &eacute;tudes ont montr&eacute; que le risque de perte auditive est plus &eacute;lev&eacute; chez les individus poss&eacute;dant une variation g&eacute;n&eacute;tique qui diminue la fonction d'une enzyme appel&eacute;e TPMT. Par cons&eacute;quent, en d&eacute;terminant le g&eacute;notype TPMT, le traitement par cisplatine peut &ecirc;tre adapt&eacute; &agrave; votre r&eacute;ponse attendue au traitement.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "557866ae3554f5c8484829bc",
+    "commercialNames": "CELEXA®",
+    "drugName": "Citalopram",
+    "drugId": "citalopram",
+    "__v": 9,
+    "relatedGenes": [
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "5578670a3554f5c8484829bd",
+    "commercialNames": "FRISIUM®",
+    "drugName": "Clobazam",
+    "drugId": "clobazam",
+    "__v": 13,
+    "relatedGenes": [
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "<p>Le clobazam est principalement utilis&eacute; pour l'&eacute;pilepsie. La vitesse de d&eacute;composition du m&eacute;dicament par l&rsquo;organisme a un impact direct sur sa concentration dans la circulation sanguine et donc sur l&rsquo;efficacit&eacute; du traitement. L&rsquo;enzyme responsable de la d&eacute;composition du compos&eacute; actif du clobazam est appel&eacute; CYP2C19 et elle a une activit&eacute; plus ou moins rapide d&rsquo;un individu &agrave; l&rsquo;autre en fonction de son g&eacute;notype sp&eacute;cifique. Les personnes poss&eacute;dant une activit&eacute; CYP2C19 lente prennent plus de temps &agrave; &eacute;liminer le m&eacute;dicament et augmentent donc leur exposition &agrave; ce compos&eacute; par jusqu'&agrave; 5 fois, augmentant par le fait m&ecirc;me les risques de d&eacute;velopper des r&eacute;actions ind&eacute;sirables. D'autre part, les personnes ayant une activit&eacute; CYP2C19 plus &eacute;lev&eacute;e que la normale &eacute;limineront plus rapidement le compos&eacute; actif et des doses conventionnelles de clobazam pourraient &ecirc;tre insuffisantes pour le traitement efficace de l'&eacute;pilepsie. Un test g&eacute;n&eacute;tique peut d&eacute;terminer le niveau d'activit&eacute; de l&rsquo;enzyme CYP2C19. Par cons&eacute;quent, avec une connaissance pr&eacute;alable de l'information g&eacute;n&eacute;tique d'un individu sur la fonction CYP2C19, la dose de clobazam peut &ecirc;tre adapt&eacute;e afin de r&eacute;duire le risque de r&eacute;actions ind&eacute;sirables (par exemple, difficult&eacute; &agrave; avaler, fi&egrave;vre, tremblements et une d&eacute;marche instable) et de maximiser l'efficacit&eacute; th&eacute;rapeutique.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "557867fd3554f5c8484829be",
+    "commercialNames": "Clorazil®",
+    "drugName": "Clozapine",
+    "drugId": "clozapine",
+    "__v": 2,
+    "premiseClient": ""
+  },
+  {
+    "_id": "557868af3554f5c8484829bf",
+    "commercialNames": "DIASTAT®, VALIUM®",
+    "drugName": "Diazépam",
+    "drugId": "diazepam",
+    "__v": 8,
+    "relatedGenes": [
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "<p>CYP2C19 est la principale enzyme responsable de la tranformation du diaz&eacute;pam en sa forme&nbsp;active (oxaz&eacute;pam actif). D&rsquo;un individu &agrave; l&rsquo;autre, le niveau d'activit&eacute; de l&rsquo;enzyme CYP2C19 peut varier consid&eacute;rablement et ainsi augmenter ou diminuer la quantit&eacute; d'oxaz&eacute;pam&nbsp;absorb&eacute; par votre corps. Les personnes ayant une activit&eacute; de CYP2C19 faible (m&eacute;taboliseurs lents) prendront 2 fois plus de temps&nbsp;que les personnes ayant une activit&eacute; normale en CYP2C19 (m&eacute;taboliseurs rapides) pour transformer le diaz&eacute;pam en sa forme active.&nbsp;Ces diff&eacute;rences d'exposition au diaz&eacute;pam&nbsp;influence les probabilit&eacute;s d'une bonne r&eacute;ponse au traitement et de subir des effets secondaires ind&eacute;sirables. Par cons&eacute;quent, votre g&eacute;notype CYP2C19 peut &ecirc;tre utilis&eacute; pour ajuster la dose de diz&eacute;pam, optimiser l'effet th&eacute;rapeutique et r&eacute;duire les effets secondaires.&nbsp;</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "557869443554f5c8484829c0",
+    "commercialNames": "Lanoxin®, Toloxin®",
+    "drugName": "Digoxine",
+    "drugId": "digoxin",
+    "__v": 2,
+    "premiseClient": ""
+  },
+  {
+    "_id": "5578698c3554f5c8484829c1",
+    "commercialNames": "CIPRALEX®",
+    "drugName": "Escitalopram",
+    "drugId": "escitalopram",
+    "__v": 8,
+    "relatedGenes": [
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "<p>Des &eacute;tudes ont d&eacute;montr&eacute; que les concentrations sanguines d'escitalopram peuvent varier consid&eacute;rablement d&rsquo;un individu &agrave; l&rsquo;autre, m&ecirc;me s&rsquo;ils re&ccedil;oivent la m&ecirc;me dose de m&eacute;dicament. La fa&ccedil;on dont vous r&eacute;agirez &agrave; l'escitalopram est influenc&eacute;e par la quantit&eacute; de m&eacute;dicament retrouv&eacute; dans votre circulation. Trop d'escitalopram peut causer des r&eacute;actions ind&eacute;sirables, alors que trop peu peut se r&eacute;v&eacute;ler inefficace pour traiter la maladie pour laquelle on vous a prescrit le citalopram en premier lieu. L'escitalopram est d&eacute;grad&eacute; dans le foie par une enzyme appel&eacute;e CYP2C19. Chez certaines personnes l&rsquo;enzyme CYP2C19 fonctionne normalement alors que chez d&rsquo;autres l&rsquo;enzyme est moins efficace ou trop efficace. Cette diff&eacute;rence influence la vitesse de d&eacute;gradation du m&eacute;dicament dans le corps, faisant en sorte que les personnes qui poss&egrave;dent une enzyme CYP2C19 plus lente que la normale sont expos&eacute;es &agrave; des doses plus importantes du m&eacute;dicament et auront donc de plus grands risques de d&eacute;velopper des effets secondaires ind&eacute;sirables. &Agrave; l&rsquo;inverse, les personnes qui poss&egrave;dent une enzyme CYP2C19 hyperactive auront des concentrations sanguines d'escitalopram moins &eacute;lev&eacute;s et potentiellement insuffisantes pour traiter la maladie. Par cons&eacute;quent, en connaissant le g&eacute;notype de CYP2C19, vous pouvez d&eacute;terminer &agrave; l'avance comment vous r&eacute;agirez au traitement &agrave; l'escitalopram. Cette information permettra d&rsquo;optimiser la dose de m&eacute;dicament prescrite afin d'&eacute;viter d'&eacute;ventuelles r&eacute;actions ind&eacute;sirables et de maximiser l'efficacit&eacute; th&eacute;rapeutique.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "557869eb3554f5c8484829c2",
+    "commercialNames": "ANSAID®",
+    "drugName": "Flurbiprofène",
+    "drugId": "flurbiprofen",
+    "__v": 9,
+    "relatedGenes": [
+      "54af55fa3e2a55d0b6bc1cc7"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "55786a4b3554f5c8484829c3",
+    "commercialNames": "REMINYL ER®",
+    "drugName": "Galantamine",
+    "drugId": "galantamine",
+    "__v": 8,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "55786a9a3554f5c8484829c4",
+    "commercialNames": "ISOTAMINE®, RIFATER®",
+    "drugName": "Isoniazide",
+    "drugId": "isoniazid",
+    "__v": 4,
+    "relatedGenes": [
+      "55f99efecbc20fa408f35c11"
+    ],
+    "premiseClient": "<p>NAT2&nbsp;est le g&egrave;ne le plus&nbsp;important dans le m&eacute;tabolisme de l'isoniazidd. Les m&eacute;taboliseurs lents pour NAT2 montrent une r&eacute;duction de la vitesse d'&eacute;limination et donc une exposition augment&eacute;e au m&eacute;dicament, ce qui augmente les risques d'effets secondaires ind&eacute;sirables (e.g. h&eacute;patotoxicit&eacute;, l&eacute;sions du foie et h&eacute;patite). Par cons&eacute;quent,&nbsp;il est utile de connaitre votre g&eacute;notype NAT2 afin de rapidement trouver la dose id&eacute;ale et de r&eacute;duire les risques d'effets secondaires ind&eacute;sirables.&nbsp;</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "55786b073554f5c8484829c5",
+    "commercialNames": "PANTOLOC®",
+    "drugName": "Pantoprazole",
+    "drugId": "pantoprazole",
+    "__v": 10,
+    "relatedGenes": [
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "<p>Le pantoprazole est majoritairement m&eacute;tabolis&eacute; par l'enzyme h&eacute;patique CYP2C19. Les variations de la concentration du pantoprazole dans le sang entre les individus sont reli&eacute;es &agrave; des variations g&eacute;n&eacute;tiques&nbsp;dans le g&egrave;ne CYP2C19 et peuvent influencer l'efficacit&eacute; du m&eacute;dicament. De ce fait, connaitre votre g&eacute;notype CYP2C19 peut aider &agrave; atteindre la dose&nbsp;optimale de pantoprazole et l'efficacit&eacute; th&eacute;rapeutique. &nbsp;</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "55786b473554f5c8484829c6",
+    "commercialNames": "PAXIL®",
+    "drugName": "Paroxétine",
+    "drugId": "paroxetine",
+    "__v": 7,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "55786bd23554f5c8484829c8",
+    "commercialNames": "TRILAFON®",
+    "drugName": "Perphénazine",
+    "drugId": "perphenazine",
+    "__v": 9,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>CYP2D6 est la principale enzyme responsable de la tranformation du perphenazine&nbsp;en sa forme active. Le niveau d'activit&eacute; de l&rsquo;enzyme CYP2D6 peut varier consid&eacute;rablement selon votre g&eacute;notype et ainsi augmenter ou diminuer la quantit&eacute; de perphenazine&nbsp;absorb&eacute; par votre corps. Les personnes ayant une activit&eacute; de CYP2D6 faible (m&eacute;taboliseurs lents) montrent une augmentation de la concentration plasmatique (2 &agrave; 4 fois sup&eacute;rieure), ce qui peut augmenter le risque d'effets secondaires ind&eacute;sirables. Par cons&eacute;quent, votre g&eacute;notype CYP2D6 peut &ecirc;tre utilis&eacute; pour ajuster la dose de&nbsp;perphenazine et r&eacute;duire les effets secondaires.&nbsp;</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "55786cf33554f5c8484829c9",
+    "commercialNames": "DILANTIN®",
+    "drugName": "Phénytoïne",
+    "drugId": "phenytoin",
+    "__v": 11,
+    "relatedGenes": [
+      "54af55fa3e2a55d0b6bc1cc7"
+    ],
+    "premiseClient": "<p>CYP2C9 est la principale enzyme responsable de l'&eacute;limination du&nbsp;ph&eacute;nyo&iuml;ne. La ph&eacute;nyo&iuml;ne est hautement allerg&eacute;nique et peut induire des r&eacute;actions d'intensit&eacute; moyenne &agrave; mortelle. En raison des r&eacute;actions ind&eacute;sirables aigu&euml;s,&nbsp;le dosage&nbsp;est important. D&rsquo;un individu &agrave; l&rsquo;autre le niveau d'activit&eacute; de l&rsquo;enzyme CYP2C9 peut varier consid&eacute;rablement et ainsi augmenter ou diminuer la quantit&eacute; de&nbsp;ph&eacute;nyo&iuml;ne&nbsp;absorb&eacute;e par votre corps. Les personnes ayant une faible activit&eacute; de CYP2C9 sont plus &agrave; risque d'&eacute;prouver certains sympt&ocirc;mes ind&eacute;sirables. C'est pourquoi conna&icirc;tre votre g&eacute;notype CYP2C9 est utile pour aider le dosage de la ph&eacute;nyo&iuml;ne et ainsi de r&eacute;duire les effets secondaires.&nbsp;</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "55786d633554f5c8484829ca",
+    "commercialNames": "ORAP®",
+    "drugName": "Pimozide",
+    "drugId": "pimozide",
+    "__v": 9,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>Le pimozide est un antipsychotique m&eacute;tabolis&eacute; dans les reins principalement par l&rsquo;enzyme CYP3A4, et dans une moindre mesure par les enzymes CYP1A2 et CYP2D6. Des &eacute;tudes ont d&eacute;montr&eacute;es qu&rsquo;une variation du niveau d&rsquo;activit&eacute; de CYP2D6 est associ&eacute;e &agrave; une variabilit&eacute; interindividuelle de la concentration plasmatique de pimozide. Les variations g&eacute;n&eacute;tiques r&eacute;duisant le niveau d'activit&eacute; du CYP2D6 provoqueront une augmentation de la concentration plasmatique du pimozide et par le fait m&ecirc;me, une augmentation des risques de d&eacute;velopper des effets secondaires ind&eacute;sirables (ex. arythmie). Par ailleurs, le ralentissement du m&eacute;tabolisme induira une augmentation de la demi-vie du m&eacute;dicament et l&rsquo;augmentation des d&eacute;lais pour l&rsquo;atteinte de concentrations plasmatiques stables (environ 2 semaines). Ainsi, le g&eacute;notypage du CYP2D6 est utile pour guider le dosage du pimozide, atteindre une concentration plasmatique optimale et minimiser le risque d'effets secondaires ind&eacute;sirables.</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "55786e143554f5c8484829cb",
+    "commercialNames": "RYTHMOL®",
+    "drugName": "Propafénone",
+    "drugId": "propafenone",
+    "__v": 10,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>La&nbsp;propaf&eacute;none&nbsp;est principalement&nbsp;m&eacute;tabolis&eacute;e par l'enzyme h&eacute;patique CYP2D6. Les individus avec une activit&eacute; r&eacute;duite (m&eacute;taboliseurs lent) peuvent &ecirc;tre plus &agrave; risque d'effets secondaires dus &agrave; une exposition prolong&eacute;e &agrave; la risperidone.&nbsp;Par cons&eacute;quent,&nbsp;connaitre votre g&eacute;notype CYP2D6 peut &ecirc;tre utile pour guider le dosage de la propaf&eacute;none, et pour r&eacute;duire les risques d'effets secondaires ind&eacute;sirables et optimiser l'effet th&eacute;rapeutique. &nbsp;</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "55786e553554f5c8484829cc",
+    "commercialNames": "RISPERDAL®",
+    "drugName": "Rispéridone",
+    "drugId": "Risperidone",
+    "__v": 12,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>La risperidone est principalement&nbsp;m&eacute;tabolis&eacute;e par l'enzyme h&eacute;patique CYP2D6. Les individus avec une activit&eacute; r&eacute;duite (m&eacute;taboliseurs lent) peuvent &ecirc;tre plus &agrave; risque d'effets secondaires dus &agrave; une exposition prolong&eacute;e &agrave; la risperidone, tandis que les individus avec une activit&eacute; augment&eacute;e (m&eacute;taboliseurs ultrarapide) ont des niveaux de risperidone r&eacute;duit, ce qui accroit le risque d'&eacute;chec du traitement. Donc, conna&icirc;tre votre g&eacute;notype CYP2D6 est utile avant de commencer le traitement et peut &ecirc;tre utilis&eacute; pour faciliter le dosage et pour &eacute;viter l'&eacute;chec du traitement ou &eacute;viter l'apparition d'effets secondaires.&nbsp;</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "55786e9b3554f5c8484829cd",
+    "commercialNames": "ADVAGRAF®",
+    "drugName": "Tacrolimus",
+    "drugId": "tacrolimus",
+    "__v": 10,
+    "relatedGenes": [
+      "55f9a11bcbc20fa408f35c16"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "55786ee83554f5c8484829ce",
+    "commercialNames": "NITOMAN®",
+    "drugName": "Tétrabénazine",
+    "drugId": "tetrabenazine",
+    "__v": 9,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>L'enzyme h&eacute;patique CYP2D6 m&eacute;tabolise les deux principaux m&eacute;tabolites du t&eacute;trabenazine. La t&eacute;trabenazine et ses m&eacute;tabolites jouent des r&ocirc;les &eacute;gaux dans l'effet th&eacute;rapeutique du m&eacute;dicament. Tandis que les m&eacute;taboliseurs lents sont plus &agrave; risque d'effets secondaires ind&eacute;sirables ou d'exposition &eacute;lev&eacute;&nbsp;aux m&eacute;tabolites du t&eacute;trabenazine, les m&eacute;taboliseurs ultrarapides ont une exposition&nbsp;aux m&eacute;tabolites du t&eacute;trabenazine&nbsp;plus faible, ce qui pr&eacute;sente&nbsp;un risque d'&eacute;chec du traitement. Ainsi, connaitre votre g&eacute;notype pour CYP2D6 est utile avant de commencer le traitement et permet d'aider &agrave; trouver la dose optimale, en diminuant les risques d'effets secondaires et d'&eacute;chec du traitement.&nbsp;</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "5578702c3554f5c8484829cf",
+    "commercialNames": "DETROL®",
+    "drugName": "Toltérodine",
+    "drugId": "Tolterodine",
+    "__v": 10,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "<p>La tolt&eacute;rodine est principalement m&eacute;tabolis&eacute;e par CYP2D6 en un m&eacute;tabolite actif. La tolt&eacute;rodine et son m&eacute;tabolite exercent des effets th&eacute;rapeutiques. Les m&eacute;taboliseurs lents pour CYP2D6 affichent une concentration n&eacute;gligeable du m&eacute;tabolite et une concentration accrue de tolt&eacute;rodine, ce qui&nbsp;peut r&eacute;sulter en une augmentation d'effets secondaires ind&eacute;sirables.&nbsp;</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "557870783554f5c8484829d0",
+    "commercialNames": "EFFEXOR XR®",
+    "drugName": "Venlafaxine",
+    "drugId": "venlafaxine",
+    "__v": 8,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "557870b03554f5c8484829d1",
+    "commercialNames": "VFEND®",
+    "drugName": "Voriconazole",
+    "drugId": "voriconazole",
+    "__v": 10,
+    "relatedGenes": [
+      "54ada6df57459aa1ad237867"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "557870e33554f5c8484829d2",
+    "commercialNames": "TRINTELLIX®",
+    "drugName": "Vortioxétine",
+    "drugId": "Vortioxetine",
+    "__v": 7,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "557871143554f5c8484829d3",
+    "commercialNames": "CLOPIXOL®",
+    "drugName": "Zuclopenthixol",
+    "drugId": "zuclopenthixol",
+    "__v": 10,
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "5578715a3554f5c8484829d4",
+    "commercialNames": "SINTROM®",
+    "drugName": "Acénocoumarol",
+    "drugId": "Acenocoumarol",
+    "__v": 9,
+    "relatedGenes": [
+      "54af55fa3e2a55d0b6bc1cc7",
+      "54af561c3e2a55d0b6bc1cca"
+    ],
+    "premiseClient": "<p>Pour atteindre l'effet th&eacute;rapeutique souhait&eacute; du acenocoumarol (i.e. anticoagulation contr&ocirc;l&eacute;e), un long processus d'ajustement de la dose est n&eacute;cessaire. Pendant ce temps, vous pouvez rencontrer des saignements ou le traitement peut &ecirc;tre inefficace. Deux enzymes sont connues comme ayant un effet significatif dans la r&eacute;ponse au acenocoumarol: CYP2C9 et VKORC1. Plusieurs variations g&eacute;n&eacute;tiques influencent le niveau d'activit&eacute; de ces enzymes et contribuent &agrave; l'ajustement du dosage. Par cons&eacute;quent, votre g&eacute;notype pour CYP2C9 et VKORC1 peut &ecirc;tre utile afin de rapidement trouver la dose optimale.&nbsp;</p>",
+    "label_fr": ""
+  },
+  {
+    "_id": "5578747d3554f5c8484829d5",
+    "commercialNames": "Marcoumar®",
+    "drugName": "Phénprocoumone",
+    "drugId": "Phenprocoumone",
+    "__v": 5,
+    "relatedGenes": [
+      "54af55fa3e2a55d0b6bc1cc7",
+      "54af561c3e2a55d0b6bc1cca"
+    ],
+    "premiseClient": ""
+  },
+  {
+    "_id": "5602e54b02820dc15666068e",
+    "commercialNames": "LUVOX®",
+    "drugName": "Fluvoxamine",
+    "drugId": "Fluvoxamine",
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "__v": 7,
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "5602e79402820dc15666069c",
+    "commercialNames": "ZOLOFT®",
+    "drugName": "Sertraline",
+    "drugId": "Sertraline",
+    "relatedGenes": [
+      "54ada6df57459aa1ad237867"
+    ],
+    "__v": 8,
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "568d5f80fc86a71758b7991d",
+    "premiseClient": "",
+    "commercialNames": "5-FU®",
+    "drugName": "5-Fluorouracil",
+    "drugId": "5-Fluorouracil",
+    "relatedGenes": [
+      "568d5eb4fc86a71758b7991c"
+    ],
+    "__v": 7,
+    "label_fr": ""
+  },
+  {
+    "_id": "568d5fbffc86a71758b7991e",
+    "premiseClient": "",
+    "commercialNames": "XELODA®",
+    "drugName": "Capécitabine",
+    "drugId": "Capecitabine",
+    "relatedGenes": [
+      "568d5eb4fc86a71758b7991c"
+    ],
+    "__v": 7,
+    "label_fr": ""
+  },
+  {
+    "_id": "56e98062dd9a70a311bfc551",
+    "drugName": "hydrocodone",
+    "commercialNames": "Hycodan®, Tussionex®",
+    "drugId": "Hydrocodone",
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866",
+      "56e98109dd9a70a311bfc552"
+    ],
+    "__v": 1,
+    "premiseClient": ""
+  },
+  {
+    "_id": "57041353a84edf834f8d49fd",
+    "drugName": "Méthylphénidate (Concerta®)",
+    "commercialNames": "Concerta®",
+    "drugId": "Methylphenidate",
+    "relatedGenes": [
+      "57041410b136099d4fe30391",
+      "57041409b136099d4fe30390",
+      "57596dc756b5cb577431ba55"
+    ],
+    "__v": 6,
+    "premiseClient": "",
+    "label_fr": "Méthylphénidate"
+  },
+  {
+    "_id": "5755c30f630a60b3543b7bdd",
+    "drugName": "Duloxétine",
+    "commercialNames": "CYMBALTA®",
+    "drugId": "Duloxetine",
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "__v": 4,
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "5755cfb2f72a22ae54622b2f",
+    "drugName": "Desvenlafaxine",
+    "commercialNames": "Pristiq®",
+    "drugId": "Desvenlafaxine",
+    "relatedGenes": [
+      "55f9a13bcbc20fa408f35c17"
+    ],
+    "__v": 0,
+    "premiseClient": ""
+  },
+  {
+    "_id": "5755d0b4f72a22ae54622b30",
+    "drugName": "Fluoxétine",
+    "commercialNames": "PROZAC®",
+    "drugId": "Fluoxetine",
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "__v": 3,
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "5755d4af630a60b3543b7be4",
+    "drugName": "Mirtazapine",
+    "commercialNames": "REMERON®",
+    "drugId": "Mirtazapine",
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "__v": 3,
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "576a9eee8f8b963e37d8030d",
+    "drugName": "Dextroamphétamine",
+    "commercialNames": "DEXEDRINE®",
+    "drugId": "Dextroamphetamine",
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "__v": 3,
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "576a9f608f8b963e37d8030e",
+    "drugName": "Amphétamine",
+    "commercialNames": "ADDERALL XR®",
+    "drugId": "Amphetamine",
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "__v": 3,
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "576a9fdd2f8d4d58371e60db",
+    "drugName": "Lisdexamfétamine",
+    "commercialNames": "VYVANSE®",
+    "drugId": "Lisdexamfetamine",
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "__v": 2,
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "576aa0262f8d4d58371e60dc",
+    "drugName": "Bupropion",
+    "commercialNames": "WELLBUTRIN®, ZYBAN®",
+    "drugId": "Bupropion",
+    "relatedGenes": [
+      "55f9a0d8cbc20fa408f35c13",
+      "57596e1f4fde3b0d749ad62f"
+    ],
+    "__v": 3,
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "576aa0668f8b963e37d8030f",
+    "drugName": "Clonidine",
+    "commercialNames": "CATAPRES®, DIXARIT®",
+    "drugId": "Clonidine",
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "__v": 2,
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "576aa2c82f8d4d58371e60dd",
+    "drugName": "Guanfacine",
+    "commercialNames": "INTUNIV XR®",
+    "drugId": "guanfacine",
+    "relatedGenes": [
+      "55f9a105cbc20fa408f35c15"
+    ],
+    "__v": 2,
+    "premiseClient": "",
+    "label_fr": ""
+  },
+  {
+    "_id": "576aa70b8f8b963e37d80310",
+    "drugName": "Méthylphénidate (Ritalin®)",
+    "commercialNames": "Ritalin®",
+    "drugId": "Methylphenidate (Ritalin®)",
+    "relatedGenes": [
+      "57041410b136099d4fe30391",
+      "57041409b136099d4fe30390",
+      "57596dc756b5cb577431ba55"
+    ],
+    "__v": 3,
+    "premiseClient": "",
+    "label_fr": "Méthylphénidate"
+  },
+  {
+    "_id": "576aa73f8f8b963e37d80311",
+    "drugName": "Méthylphénidate (Biphentin®)",
+    "commercialNames": "Biphentin®",
+    "drugId": "Methylphenidate (Biphentin®)",
+    "relatedGenes": [
+      "57041410b136099d4fe30391",
+      "57041409b136099d4fe30390",
+      "57596dc756b5cb577431ba55"
+    ],
+    "__v": 4,
+    "premiseClient": "",
+    "label_fr": "Méthylphénidate"
+  },
+  {
+    "_id": "58e79df9bd3eea3440d0abc7",
+    "label_fr": "Rosuvastatine",
+    "drugName": "Rosuvastatine",
+    "commercialNames": "Crestor®",
+    "drugId": "rosuvastatin",
+    "relatedGenes": [
+      "54af56063e2a55d0b6bc1cc8"
+    ],
+    "__v": 1,
+    "premiseClient": ""
+  },
+  {
+    "_id": "58e79e13bd3eea3440d0abc9",
+    "label_fr": "Atorvastatine",
+    "drugName": "Atorvastatine",
+    "commercialNames": "Lipitor®",
+    "drugId": "Atorvastatin",
+    "relatedGenes": [
+      "54af56063e2a55d0b6bc1cc8"
+    ],
+    "__v": 1,
+    "premiseClient": ""
+  },
+  {
+    "_id": "599f43d17082151c69ce5345",
+    "label_fr": "",
+    "drugName": "Ethinyl estradiol",
+    "commercialNames": "YAZ®, EVRA®",
+    "drugId": "ethinyl estradiol",
+    "relatedGenes": [
+      "59a5d071bbbeb68a18b716be"
+    ],
+    "__v": 2,
+    "premiseClient": ""
+  },
+  {
+    "_id": "59a58b5613998bd318ead182",
+    "label_fr": "",
+    "drugName": "Irinotecan",
+    "commercialNames": "Onivyde®",
+    "drugId": "Irinotecan",
+    "relatedGenes": [
+      "55f9a13bcbc20fa408f35c17"
+    ],
+    "__v": 2,
+    "premiseClient": ""
+  },
+  {
+    "_id": "59a5d482bbbeb68a18b716bf",
+    "label_fr": "",
+    "drugName": "Rabeprazole",
+    "commercialNames": "AcipHex®",
+    "drugId": "rabeprazole",
+    "relatedGenes": [
+      "54ada6df57459aa1ad237867"
+    ],
+    "__v": 1,
+    "premiseClient": ""
+  },
+  {
+    "_id": "59e7b3b4814c31222c1aaf22",
+    "label_fr": "Ondansetron",
+    "drugName": "Ondansetron",
+    "commercialNames": "Zofran®",
+    "drugId": "Ondansetron",
+    "relatedGenes": [
+      "54ada69a57459aa1ad237866"
+    ],
+    "__v": 0,
+    "premiseClient": ""
+  },
+  {
+    "_id": "59e7c3ea814c31222c1aaf37",
+    "label_fr": "PEGINTERFERON ALFA-2A",
+    "drugName": "PEGINTERFERON ALFA-2A",
+    "commercialNames": "Pegasys®",
+    "drugId": "PEGINTERFERON ALFA-2A",
+    "relatedGenes": [
+      "56fa7e96c9785f2c1bdf2dab"
+    ],
+    "__v": 1,
+    "premiseClient": ""
+  },
+  {
+    "_id": "59e7c479814c31222c1aaf3a",
+    "label_fr": "PEGINTERFERON ALFA-2B",
+    "drugName": "PEGINTERFERON ALFA-2B",
+    "commercialNames": "Unitron Peg®",
+    "drugId": "PEGINTERFERON ALFA-2B",
+    "relatedGenes": [
+      "56fa7e96c9785f2c1bdf2dab"
+    ],
+    "__v": 1,
+    "premiseClient": "<p>a</p>"
+  },
+  {
+    "_id": "59e7c4a3814c31222c1aaf3c",
+    "label_fr": "Ribavirin",
+    "drugName": "Ribavirin",
+    "commercialNames": "Pegetron®",
+    "drugId": "Ribavirin",
+    "relatedGenes": [
+      "56fa7e96c9785f2c1bdf2dab"
+    ],
+    "__v": 1,
+    "premiseClient": "<p>a</p>"
+  },
+  {
+    "_id": "59e7c6e7814c31222c1aaf47",
+    "label_fr": "Ivacaftor",
+    "drugName": "Ivacaftor",
+    "commercialNames": "Kalydeco®, Orkambi®",
+    "drugId": "Ivacaftor",
+    "relatedGenes": [
+      "59ea4a6b814c31222c1aafff"
+    ],
+    "__v": 1,
+    "premiseClient": "<p>a</p>"
+  },
+  {
+    "_id": "59e7c76a814c31222c1aaf49",
+    "label_fr": "Carbamazépine",
+    "drugName": "Carbamazépine",
+    "commercialNames": "Mazepine®, Tegretol®",
+    "drugId": "Carbamazepine",
+    "relatedGenes": [
+      "56fa7fbacd71c9901ba9aeb4"
+    ],
+    "__v": 1,
+    "premiseClient": "<p>a</p>"
+  },
+  {
+    "_id": "59e7c7af814c31222c1aaf4b",
+    "label_fr": "Allopurinol",
+    "drugName": "Allopurinol",
+    "commercialNames": "Alloprin®, Zyloprim®",
+    "drugId": "Allopurinol",
+    "relatedGenes": [
+      "56fa7fbacd71c9901ba9aeb4"
+    ],
+    "__v": 1,
+    "premiseClient": ""
+  },
+  {
+    "_id": "59e7c7ef814c31222c1aaf4d",
+    "label_fr": "Atazanavir",
+    "drugName": "Atazanavir",
+    "commercialNames": "Evotaz®, Reyataz®",
+    "drugId": "Atazanavir",
+    "relatedGenes": [
+      "55f9a13bcbc20fa408f35c17"
+    ],
+    "__v": 1,
+    "premiseClient": "<p>a</p>"
+  },
+  {
+    "_id": "59e7c83b814c31222c1aaf4f",
+    "label_fr": "Abacavir",
+    "drugName": "Abacavir",
+    "commercialNames": "Kivexa®, Triumeq®, Trizivir®, Ziagen®",
+    "drugId": "Abacavir",
+    "relatedGenes": [
+      "56fa7fbacd71c9901ba9aeb4"
+    ],
+    "__v": 1,
+    "premiseClient": ""
+  }
+]
